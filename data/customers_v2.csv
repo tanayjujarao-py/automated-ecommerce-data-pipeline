@@ -1,0 +1,1016 @@
+customer_id,first_name,last_name,email,phone,gender,date_of_birth,city,state,pincode,signup_date,customer_segment,source_updated_at,customer_tier
+CUST00001, Rahul,Malhotra,rahul.malhotra23@gmail.com,9685582861,other,1962-01-10, MUMBAI,Delhi,741263,2025-01-21,Home Office,2025-06-25 01:16:06,Bronze
+CUST00002,Priya,Banerjee,priya.banerjee10@gmail.com,+91-9271432881,female,1974-08-26,PUNE,maharashtra,211415,2025-10-06,Corporate,2026-05-29 06:59:42,Platinum
+CUST00003,Krishna,Verma,krishna.verma58@gmail.com,94147 97776,female,1964-09-24,Mumbai,Delhi,193668,2025-06-30,Consumer,2026-04-22 01:36:10,Platinum
+CUST00004,Krishna,Bose,krishna.bose36@gmail.com,9853573823,other,1996-05-07,Jaipur,Delhi,507888,2025-07-29,Home Office,2026-01-16 06:06:55,Platinum
+CUST00005,Amit,Rao,amit.rao14@gmail.com,+91 9530747414,male,1998-08-06,Jaipur,Karnataka,633482,2025-11-04,Home Office,2026-05-01 11:55:20,Bronze
+CUST00006,Arjun,Mehta,arjun.mehta84@gmail.com,+91-9726563708,female,1969-05-31,Chennai,Tamil Nadu,159406,2025-03-27,Consumer,2026-07-27 12:26:59,Platinum
+CUST00007,Sai,Das,sai.das69@gmail.com,9694021782,male,1996-07-16,delhi,Karnataka,565885,2025-05-03,Corporate,2025-05-06 08:46:16,Platinum
+CUST00008,Neha,Mehta,neha.mehta23@gmail.com,94204 52650,other,1985-06-11,mumbai,Gujarat,666117,2025-01-01,Home Office,2025-09-10 05:22:03,Bronze
+CUST00009,Anika,Sharma,anika.sharma49@gmail.com,93586 33898,male,1993-01-26, MUMBAI,Gujarat,244629,2026-05-28,Corporate,2026-09-12 04:55:01,Platinum
+CUST00010,Sai,Mehta,sai.mehta79@gmail.com,+919840739735,Female,2005-09-15,Ahmedabad,Karnataka,652718,2025-12-17,Consumer,2026-03-23 22:57:34,Platinum
+CUST00011,Ayaan,Gupta,ayaan.gupta38@gmail.com,,Male,1962-02-19,PUNE,maharashtra,402005,2026-01-13,Consumer,2026-08-10 10:48:23,Silver
+CUST00012,Arjun,Joshi,arjun.joshi62@gmail.com,+91-9204078666,female,1991-10-12,Jaipur,Maharashtra,787569,2025-03-18,Consumer,2026-01-25 04:02:47,Platinum
+CUST00013,Neha,Rao,neha.rao78@gmail.com,+919552991960,Female,1965-02-16,Kolkata,Gujarat,793824,2026-02-24,Consumer,2026-04-02 02:33:41,Silver
+CUST00014,Deepak,Shah,deepak.shah61@gmail.com,+91-9276777762,Male,1978-01-17,Kolkata,delhi,692766,2026-05-30,Home Office,2026-09-01 14:13:42,Bronze
+CUST00015,Arjun,Patel,arjun.patel79@gmail.com,9436730606,Male,1994-03-21,Chennai, MAHARASHTRA,642497,2025-03-04,Consumer,2025-04-26 10:42:57,Gold
+CUST00016,Ahana,Gupta,ahana.gupta82@gmail.com,9738360085,other,2004-09-25,Hyderabad,Rajasthan,383433,2025-06-08,Home Office,2026-02-07 16:28:44,Bronze
+CUST00017,Ayaan,Mehta,ayaan.mehta50@gmail.com,9177892576,FEMALE,1998-04-24, MUMBAI,maharashtra,640459,2025-07-25,Consumer,2026-04-23 01:41:24,Platinum
+CUST00018,Ankit,Gupta,ankit.gupta79@gmail.com,97567 83995,Male,1997-09-27,delhi,maharashtra,250815,2025-07-25,Consumer,2025-10-16 13:17:49,Silver
+CUST00019,Neha,Banerjee,neha.banerjee53@gmail.com,+91 9781007818,Other,1963-06-16, MUMBAI,West Bengal,156229,2025-01-03,Corporate,2026-08-25 16:48:02,Bronze
+CUST00020,Arjun,Mehta,arjun.mehta81@gmail.com,,male,1970-02-21,Chennai,Maharashtra,720806,2026-03-06,Consumer,2026-08-20 01:43:00,Silver
+CUST00021,Arjun,Verma,arjun.verma15@gmail.com,+919325567963,male,1998-02-05,Bangalore,Rajasthan,358238,2025-05-07,Consumer,2026-03-23 10:58:37,Silver
+CUST00022,Aarav,Nair,aarav.nair95@gmail.com,+919970535450,Female,1967-05-10,Bangalore,Maharashtra,343239,2025-06-05,Corporate,2026-03-03 14:24:44,Silver
+CUST00023,Ishaan,Shah,ishaan.shah45@gmail.com,+91 9930353157,female,1987-03-14,Ahmedabad,Gujarat,138942,2025-03-31,Corporate,2025-08-17 06:52:16,Gold
+CUST00024,Meera,Mehta,meera.mehta50@gmail.com,9649136331,F,1972-12-07,delhi,Maharashtra,111774,2026-02-08,Home Office,2026-04-26 08:31:04,Gold
+CUST00025,Aadhya,Das,aadhya.das50@gmail.com,+91 9233815413,Other,1987-10-16,PUNE,West Bengal,691344,2025-04-09,Consumer,2026-03-02 10:30:14,Silver
+CUST00026,Amit,Singh,amit.singh48@gmail.com,9995205588,Female,1989-04-02,Hyderabad,Rajasthan,597576,2025-12-10,Corporate,2026-08-29 12:47:25,Bronze
+CUST00027,Reyansh,Sen,reyansh.sen31@gmail.com,94047 13332,other,1975-12-25,Ahmedabad,delhi,318803,2025-04-25,Consumer,2025-05-31 08:21:47,Platinum
+CUST00028,Ayaan,Choudhury,ayaan.choudhury90@gmail.com,+91-9871318048,FEMALE,1970-01-15,Ahmedabad,Maharashtra,221765,2025-11-27,Consumer,2026-02-03 12:40:55,Gold
+CUST00029,Pooja,Sen,pooja.sen25@gmail.com,+91-9960514523,Other,2000-07-09,PUNE,Tamil Nadu,639299,2025-11-28,Home Office,2026-05-20 15:14:24,Bronze
+CUST00030,Ankit,Nair,ankit.nair41@gmail.com,93977 60792,FEMALE,1978-09-08,Kolkata,maharashtra,355885,2025-07-31,Corporate,2026-04-05 08:57:17,Gold
+CUST00031,Ankit,Banerjee,ankit.banerjee29@gmail.com,+91-9168965204,F,1991-09-15,Bangalore,Maharashtra,550553,2025-10-30,Home Office,2026-07-27 15:07:04,Platinum
+CUST00032,Aarav,Joshi ,aarav.joshi59@gmail.com,+91-9997356828,Other,1997-03-01,Hyderabad,Delhi,396194,2025-12-05,Corporate,2025-12-16 19:06:08,Bronze
+CUST00033,Diya,Rao,diya.rao69@gmail.com,97681 43326,Male,2000-04-11,Hyderabad,Maharashtra,559434,2025-04-16,Corporate,2025-09-04 13:17:46,Gold
+CUST00034,Vivaan,Mehta,vivaan.mehta58@gmail.com,+91-9993271900,Female,1992-01-02,Mumbai,Gujarat,476961,2025-06-24,Home Office,2025-08-16 10:56:34,Platinum
+CUST00035,Rohit,Verma,rohit.verma12@gmail.com,+919356135680,FEMALE,1998-05-18, Delhi,Tamil Nadu,496815,2025-05-11,Home Office,2026-08-25 23:43:47,Silver
+CUST00036,Neha,Malhotra,neha.malhotra84@gmail.com,,Female,1985-07-16,Bangalore,Delhi,834162,2026-05-03,Consumer,2026-05-22 23:32:24,Bronze
+CUST00037,Priya,Reddy,priya.reddy82@gmail.com,94728 07202,F,1964-09-09,Chennai,Karnataka,12345,2025-11-23,Corporate,2026-01-03 06:09:20,Silver
+CUST00038,Saanvi,Kumar,saanvi.kumar65@gmail.com,+91 9660221300,other,1996-08-15,Kolkata,Tamil Nadu,731255,2025-07-28,Corporate,2026-02-04 03:37:00,Bronze
+CUST00039,Vikram,Gupta,vikram.gupta82@gmail.com,+91 9506936666,Male,1982-02-12,mumbai,Tamil Nadu,380903,2025-09-22,Corporate,2026-08-30 05:33:09,Silver
+CUST00040,Ahana,Mehta,ahana.mehta40@gmail.com,96246 06470,MALE,2003-12-15,Jaipur,Tamil Nadu,128081,2025-03-14,Corporate,2025-09-02 09:29:46,Gold
+CUST00041,Diya,Shah,diya.shah77@gmail.com,99009 42073,female,1990-11-16,delhi,delhi,236517,2025-05-30,Corporate,2025-08-31 10:41:35,Platinum
+CUST00042,Neha,Banerjee,neha.banerjee71@gmail.com,97330 64117,other,1966-11-03, Delhi,delhi,298159,2025-08-23,Consumer,2025-11-30 02:21:12,Platinum
+CUST00043,Krishna,Verma,krishna.verma26@gmail.com,+91-9908304440,male,1999-01-24,delhi,Tamil Nadu,467257,2025-05-24,Consumer,2025-12-06 07:19:33,Bronze
+CUST00044,Sneha,Choudhury,sneha.choudhury83@gmail.com,+919157562304,M,1980-09-03, MUMBAI,Delhi,546391,2026-04-16,Home Office,2026-09-17 11:41:57,Gold
+CUST00045,Ahana,Shah,ahana.shah48@gmail.com,+91 9560452529,other,2001-06-26,Jaipur,maharashtra,327882,2026-05-01,Consumer,2026-06-22 05:47:08,Silver
+CUST00046,Amit,Gupta,amit.gupta10@gmail.com,98402 06617,FEMALE,1975-10-02,delhi,delhi,586087,2025-02-25,Home Office,2025-08-25 14:13:18,Platinum
+CUST00047,Deepak,Mehta,deepak.mehta35@gmail.com,+919684719405,M,1969-09-05, MUMBAI,Maharashtra,432555,2026-04-08,Home Office,2026-09-15 05:39:46,Gold
+CUST00048,Meera,Reddy,meera.reddy61@gmail.com,96373 77910,FEMALE,2000-09-11,Mumbai,West Bengal,743040,2025-07-14,Consumer,2025-09-23 09:39:08,Bronze
+CUST00049,Ayaan,Joshi ,ayaan.joshi44@gmail.com,+919919382051,FEMALE,1990-02-03,delhi, MAHARASHTRA,567059,2026-05-09,Corporate,2026-05-26 18:27:54,Silver
+CUST00050,Anika,Kumar,anika.kumar30@gmail.com,+91-9844826434,Female,1987-04-02,Chennai,Maharashtra,439796,2025-07-16,Corporate,2025-10-14 01:59:26,Silver
+CUST00051,Rohit,Singh,,+91-9596043327,Male,1984-08-14,Hyderabad,Tamil Nadu,164119,2025-06-08,Corporate,2026-08-08 16:47:48,Bronze
+CUST00052,Arjun,Reddy,arjun.reddy90@gmail.com,+919356943695,Female,1997-07-31,Bangalore,maharashtra,228973,2025-12-25,Consumer,2026-09-02 23:06:13,Gold
+CUST00053,Vikram,Iyer,vikram.iyer44@gmail.com,+91-9618079974,MALE,1969-11-04,Bangalore,Delhi,642930,2025-04-17,Consumer,2025-11-17 14:19:28,Bronze
+CUST00054,Rohit,Das,rohit.das10@gmail.com,94205 71903,other,1993-04-27,mumbai,Tamil Nadu,471889,2025-09-16,Home Office,2026-07-09 11:37:06,Silver
+CUST00055,Riya,Singh,riya.singh99@gmail.com,+919511211819,F,1992-03-08,Jaipur,West Bengal,805929,2026-05-22,Consumer,2026-08-26 14:54:49,Platinum
+CUST00056,Vivaan,Iyer,vivaan.iyer66@gmail.com,9590622789,M,2004-07-22,mumbai,maharashtra,387897,2025-09-20,Home Office,2026-06-16 23:42:48,Gold
+CUST00057,Diya,Gupta,diya.gupta58@gmail.com,+91-9773020489,Other,2027-04-17, Delhi,delhi,204770,2025-12-04,Consumer,2026-08-07 04:46:20,Gold
+CUST00058,Priya,Malhotra,priya.malhotra15@gmail.com,+91 9160257560,female,1969-11-27, Delhi,Gujarat,824920,2025-05-20,Consumer,2025-10-03 20:01:58,Silver
+CUST00059,Aditya,Deshmukh,aditya.deshmukh84@gmail.com,+91 9595155950,FEMALE,1960-08-21,Kolkata,delhi,275650,2025-02-27,Corporate,2025-11-22 18:41:44,Gold
+CUST00060,Meera,Reddy,meera.reddy48@gmail.com,+91-9513061224,male,1998-12-02,PUNE,Rajasthan,843248,2025-08-18,Consumer,2026-06-21 17:51:13,Gold
+CUST00061,Krishna,Sharma,krishna.sharma16@gmail.com,+91-9900122509,Female,1975-08-29,Hyderabad,Karnataka,309368,2026-04-28,Corporate,2026-09-06 20:51:40,Bronze
+CUST00062,Rohit,Iyer,rohit.iyer49@gmail.com,91358 24891,female,1966-02-18,delhi,Karnataka,294172,2025-06-05,Consumer,2026-07-29 22:22:31,Bronze
+CUST00063,Ankit,Kumar,ankit.kumar42@gmail.com,+91 9617380166,female,1991-11-14, MUMBAI, MAHARASHTRA,346575,2025-11-05,Home Office,2026-03-27 17:33:27,Gold
+CUST00064, Aditya,Singh,aditya.singh96@gmail.com,93814 93671,F,1985-04-12, MUMBAI,Delhi,759642,2026-03-13,Corporate,2026-06-07 00:41:01,Gold
+CUST00065,Rahul,Gupta,rahul.gupta93@gmail.com,9250084428,Male,1993-07-10, MUMBAI,maharashtra,673659,2025-04-16,Corporate,2026-04-03 17:29:37,Platinum
+CUST00066,Aadhya,Banerjee,aadhya.banerjee63@gmail.com,+91-9995171130,other,1979-01-13,Mumbai,Karnataka,576298,2025-07-03,Corporate,2025-09-18 13:33:45,Platinum
+CUST00067,Amit,Kumar,amit.kumar60@gmail.com,+91-9231167999,male,2003-09-01,Ahmedabad,Rajasthan,163036,2025-09-17,Consumer,2025-11-04 22:45:24,Bronze
+CUST00068,Pooja,Joshi,pooja.joshi85@gmail.com,+91 9350180427,M,2000-07-22,Mumbai,delhi,261717,2025-04-11,Home Office,2025-10-23 15:45:42,Platinum
+CUST00069,Pooja,Nair,pooja.nair55@gmail.com,93554 77113,female,,delhi,Maharashtra,551410,2026-02-13,Consumer,2026-03-10 07:20:55,Bronze
+CUST00070,Anika,Bose,anika.bose74@gmail.com,9760465943,Other,2003-10-12,Mumbai,Maharashtra,531127,2025-11-28,Home Office,2026-01-09 00:35:35,Gold
+CUST00071,Anika,Bose,anika.bose18@gmail.com,97703 55806,Other,1985-12-02,Hyderabad,Gujarat,640109,2026-04-16,Corporate,2026-05-05 12:10:42,Silver
+CUST00072,Pooja,Malhotra,pooja.malhotra37@gmail.com,+91-9345343109,female,1987-02-18,Bangalore,maharashtra,437705,2025-07-17,Corporate,2025-11-13 12:53:08,Silver
+CUST00073,Amit,Choudhury,amit.choudhury22@gmail.com,+919500126515,Other,1998-03-20,Chennai,Karnataka,540765,2025-10-02,Home Office,2026-07-21 00:42:06,Platinum
+CUST00074,Saanvi,Verma,saanvi.verma83@gmail.com,+91-9266140258,MALE,1983-10-29,Chennai,Karnataka,402100,2026-03-22,Consumer,2026-08-26 15:55:26,Platinum
+CUST00075,Saanvi,Banerjee,saanvi.banerjee92@gmail.com,+91 9753903309,Male,1981-01-09,PUNE,Karnataka,INVALID_PIN,2025-04-22,Home Office,2026-09-14 20:11:35,Platinum
+CUST00076,Diya,Gupta,diya@@gmail.com,+91 9587098457,M,1982-01-27,Hyderabad,Rajasthan,165165,2025-05-01,Consumer,2026-08-24 17:33:28,Platinum
+CUST00077,Vivaan,Gupta,vivaan.gupta66@gmail.com,93314 65414,male,1967-07-19,delhi,Rajasthan,809540,2025-08-28,Consumer,2026-02-15 20:06:56,Silver
+CUST00078,Diya,Deshmukh,diya.deshmukh27@gmail.com,+91 9410791488,male,,Jaipur,West Bengal,508677,2026-02-18,Home Office,2026-05-19 00:50:30,Silver
+CUST00079,Navya,Banerjee,navya.banerjee15@gmail.com,9593657365,female,1999-01-07,Bangalore,West Bengal,534708,2025-01-17,Corporate,2025-05-30 16:44:32,Bronze
+CUST00080,Pooja,Deshmukh,pooja.deshmukh65@gmail.com,+91-9361259074,other,1965-05-08,Bangalore,delhi,342336,2025-09-16,Consumer,2025-10-16 08:45:22,Platinum
+CUST00081,Navya,Malhotra,navya.malhotra54@gmail.com,+919979339361,MALE,1977-06-02, Delhi, MAHARASHTRA,797352,2025-02-28,Consumer,2026-07-01 06:30:00,Gold
+CUST00082,Anika,Bose,anika.bose82@gmail.com,+91 9770575153,female,1964-08-24,Kolkata,Tamil Nadu,398017,2026-04-05,Consumer,2026-06-12 17:01:58,Platinum
+CUST00083,Navya,Gupta,navya.gupta46@gmail.com,91969 55134,other,1991-06-27,Hyderabad,Gujarat,153016,2025-12-16,Home Office,2026-08-26 11:12:32,Bronze
+CUST00084,Reyansh,Rao,reyansh.rao67@gmail.com,+91 9999126903,male,1971-09-28,Mumbai,Delhi,570768,2026-02-12,Home Office,2026-04-14 16:58:03,Bronze
+CUST00085,Aadhya,Kumar,aadhya.kumar96@gmail.com,+91 9947425963,male,1997-12-20,Ahmedabad,West Bengal,798458,2026-04-14,Consumer,2026-06-17 20:44:12,Platinum
+CUST00086,Aditya,Joshi,aditya.joshi93@gmail.com,+919520861681,other,1965-10-06,delhi,Gujarat,454433,2025-04-10,Home Office,2026-09-24 15:17:58,Platinum
+CUST00087,Deepak,Sen,deepak.sen12@gmail.com,+919293555835,female,1993-02-02, Delhi,Delhi,272472,2025-03-01,Corporate,2025-05-19 11:51:42,Platinum
+CUST00088,Navya,Banerjee,navya@gmail,+919763606238,other,1971-01-15,mumbai,Rajasthan,283581,2025-12-06,Consumer,2026-05-15 12:18:12,Platinum
+CUST00089,Aadhya,Shah,aadhya.shah67@gmail.com,+91 9356805216,FEMALE,1973-03-15,PUNE,Rajasthan,594107,2025-08-07,Corporate,2026-09-02 11:27:56,Silver
+CUST00090,Navya,Das,navya.das27@gmail.com,+91-9156027635,female,1966-12-24,Jaipur,Gujarat,408911,2025-03-07,Consumer,2025-10-05 00:44:38,Platinum
+CUST00091,Pari,Sen,pari.sen38@gmail.com,9475364113,F,1994-02-28,PUNE,Delhi,195570,2025-10-19,Consumer,2025-10-30 03:36:20,Platinum
+CUST00092,Ananya,Malhotra,ananya.malhotra27@gmail.com,+91-9990949719,M,1991-12-03,Kolkata,Rajasthan,INVALID_PIN,2025-03-03,Consumer,2025-09-18 07:38:35,Silver
+CUST00093,Reyansh,Iyer,reyansh.iyer24@gmail.com,+91 9355164255,male,1988-07-26,Ahmedabad,Rajasthan,226243,2026-01-24,Home Office,2026-08-20 09:52:31,Silver
+CUST00094,Aarav,Sen,aarav.sen10@gmail.com,93583 03887,F,2005-06-21, MUMBAI,Gujarat,180967,2026-02-13,Home Office,2026-08-29 15:05:43,Gold
+CUST00095,Pooja,Sen,pooja.sen91@gmail.com,+91 9500830389,Male,1964-08-06,PUNE,Delhi,768776,2025-03-22,Home Office,2025-12-05 19:01:50,Silver
+CUST00096,Arjun,Verma,arjun.verma97@gmail.com,+91-9846668526,M,1964-04-17,Jaipur,Tamil Nadu,321384,2025-02-04,Consumer,2025-03-08 13:47:29,Platinum
+CUST00097,Ananya,Reddy,ananya.reddy42@gmail.com,+919794604127,Female,1963-04-03,Ahmedabad,Karnataka,495897,2025-12-06,Corporate,2026-09-21 01:29:37,Bronze
+CUST00098,Pari,Singh,pari.singh57@gmail.com,+91 9657568201,male,1965-05-15,Bangalore,Rajasthan,299223,2026-02-28,Corporate,2026-07-03 10:17:14,Gold
+CUST00099,Vihaan,Gupta,vihaan.gupta64@gmail.com,+91 9576642996,FEMALE,1983-12-28,Hyderabad,West Bengal,170145,2025-02-28,Home Office,2026-07-08 10:57:49,Bronze
+CUST00100,Diya,Kumar,diya.kumar13@gmail.com,+91-9752376434,Male,1976-01-22,Ahmedabad,Karnataka,704800,2025-01-26,Home Office,2025-05-25 08:00:02,Platinum
+CUST00101,Amit,Bose,amit.bose83@gmail.com,+91-9494009507,female,1976-12-26, MUMBAI,Maharashtra,633286,2026-02-07,Corporate,2026-09-13 06:38:25,Silver
+CUST00102,Vihaan,Mehta,vihaan.mehta88@gmail.com,+919627422192,male,1965-01-14,Kolkata, MAHARASHTRA,576733,2025-03-10,Home Office,2025-11-13 10:05:08,Silver
+CUST00103,Amit,Kumar,amit.kumar48@gmail.com,+919864299201,female,1968-04-04, Delhi, MAHARASHTRA,628020,2025-01-21,Corporate,2026-03-27 17:40:40,Gold
+CUST00104,Meera,Kumar,meera.kumar21@gmail.com,+91-9527521016,Other,1987-11-11,Hyderabad,maharashtra,442428,2026-05-14,Consumer,2026-08-10 07:05:32,Bronze
+CUST00105,Pari,Sen,pari.sen91@gmail.com,+919924399252,F,1963-10-09, MUMBAI,Gujarat,282656,2025-05-06,Corporate,2025-10-28 22:21:12,Gold
+CUST00106,Aadhya,Sen,aadhya.sen91@gmail.com,+919394689553,Female,1966-05-11,Chennai, MAHARASHTRA,718852,2025-04-30,Consumer,2026-09-24 10:03:36,Bronze
+CUST00107,Ahana,Deshmukh,ahana.deshmukhgmail.com,97887 55699,Female,1998-12-07,Bangalore,Rajasthan,632231,2026-05-03,Home Office,2026-06-28 09:09:07,Gold
+CUST00108,Rahul,Reddy,rahul.reddy48@gmail.com,9839393192,M,1992-12-14,Kolkata,Delhi,260648,2025-08-31,Home Office,2026-05-06 19:26:56,Platinum
+CUST00109,Neha,Kumar,neha.kumar81@gmail.com,+91-9359564054,male,1976-11-14,mumbai,maharashtra,512811,2026-04-23,Corporate,2026-06-11 04:29:25,Platinum
+CUST00110,Sneha,Nair,sneha.nair34@gmail.com,96350 08544,FEMALE,1980-12-29,Kolkata,Maharashtra,522345,2026-01-28,Corporate,2026-05-02 01:55:15,Gold
+CUST00111,Reyansh,Joshi,reyansh.joshi93@gmail.com,94068 19991,Male,1989-04-28,mumbai,delhi,532843,2025-10-12,Consumer,2026-03-16 19:15:28,Platinum
+CUST00112,Vivaan,Joshi,vivaan.joshi59@gmail.com,99207 72671,Female,2002-05-30,Ahmedabad,Rajasthan,211378,2025-11-02,Corporate,2026-09-07 15:52:34,Bronze
+CUST00113,Ananya,Banerjee,ananya.banerjee75@gmail.com,9143223380,Male,1982-08-30,Kolkata,Gujarat,745711,2026-02-05,Consumer,2026-06-12 18:35:11,Bronze
+CUST00114,Deepak,Deshmukh,deepak.deshmukh48@gmail.com,96447 25317,Other,1998-04-22,delhi,Tamil Nadu,496252,2025-09-15,Home Office,2025-10-27 20:20:31,Bronze
+CUST00115,Saanvi,Joshi,saanvi.joshi90@gmail.com,,FEMALE,2004-08-11,Hyderabad,Rajasthan,163850,2026-03-30,Corporate,2026-05-02 08:18:21,Silver
+CUST00116,Navya,Deshmukh,navya.deshmukh41@gmail.com,9852178601,MALE,,PUNE,West Bengal,834043,2025-06-08,Corporate,2026-07-03 03:24:35,Gold
+CUST00117,Rohit,Deshmukh,rohit.deshmukh17@gmail.com,+919656931857,Other,2005-01-23,Kolkata,Gujarat,291595,2025-12-24,Home Office,2026-05-05 23:28:05,Silver
+CUST00118,Riya,Kumar,riya.kumar98@gmail.com,+919619884429,MALE,1980-04-24, Delhi,delhi,849143,2025-06-10,Home Office,2026-06-25 19:36:58,Gold
+CUST00119,Ananya,Choudhury,ananya.choudhury45@gmail.com,97157 66024,F,1986-11-06,PUNE, MAHARASHTRA,411603,2025-03-03,Corporate,2026-02-09 23:42:13,Gold
+CUST00120,Rahul,Mehta,rahul.mehta44@gmail.com,+91 9847508242,M,1999-12-07, Delhi,Delhi,666838,2025-06-25,Home Office,2025-12-23 03:12:44,Gold
+CUST00121,Vivaan,Malhotra,vivaan.malhotra27@gmail.com,,Other,1970-09-30,Bangalore,Tamil Nadu,319145,2025-08-12,Corporate,2026-03-21 19:09:47,Gold
+CUST00122,Rahul,Verma,rahul.verma78@gmail.com,+919140048684,F,1971-12-18,Mumbai,West Bengal,305362,2025-08-13,Consumer,2025-08-21 00:48:28,Silver
+CUST00123,Ishaan,Joshi,ishaan.joshi68@gmail.com,96833 64453,FEMALE,1969-02-17,Chennai,Tamil Nadu,228119,2025-09-14,Consumer,2026-06-25 18:55:24,Platinum
+CUST00124,Pari,Mehta ,pari.mehta47@gmail.com,+919913126162,M,2003-06-19,Bangalore,West Bengal,200952,2025-11-08,Home Office,2025-12-15 09:07:36,Platinum
+CUST00125,Sai,Iyer,,+91 9579678614,female,1998-12-25,Mumbai,delhi,836421,2025-07-03,Consumer,2025-10-03 08:52:12,Platinum
+CUST00126,Pari,Reddy,pari.reddy49@gmail.com,+91 9785811060,female,1974-11-29,mumbai,Tamil Nadu,745164,2025-10-18,Corporate,2026-07-17 19:26:00,Silver
+CUST00127,Riya,Choudhury,riya.choudhury41@gmail.com,9739750911,Other,1984-08-14, MUMBAI,Rajasthan,684252,2026-01-28,Consumer,2026-09-08 00:55:41,Silver
+CUST00128,Riya,Iyer,riya.iyer97@gmail.com,+91-9726150048,male,1990-04-25,Mumbai,Tamil Nadu,545605,2025-12-21,Home Office,2026-01-13 05:29:10,Gold
+CUST00129,Riya,Bose,riya@gmail,+919900801470,other,1988-10-31,PUNE,maharashtra,173183,2025-02-23,Corporate,2025-03-20 06:11:27,Gold
+CUST00130,Ishaan,Das,ishaan.das92@gmail.com,+91-9502074351,FEMALE,1985-09-08,Bangalore,maharashtra,803940,2026-02-23,Consumer,2026-07-08 22:44:09,Silver
+CUST00131,Vihaan,Nair,vihaan.nair38@gmail.com,9911941471,Female,1997-01-18,Bangalore,Gujarat,350821,2025-07-12,Corporate,2026-04-07 02:50:37,Silver
+CUST00132,Arjun,Mehta,arjun.mehta14@gmail.com,95501 56166,Male,1964-07-30, MUMBAI,Rajasthan,736823,2025-02-07,Consumer,2026-09-06 00:04:42,Silver
+CUST00133,Vivaan,Singh,vivaan.singh17@gmail.com,+919410594268,other,2000-09-08,Ahmedabad,Karnataka,260220,2026-05-28,Home Office,2026-07-10 17:23:06,Gold
+CUST00134,Saanvi,Reddy,saanvi.reddy32@gmail.com,95587 03133,FEMALE,1983-06-09,Ahmedabad,West Bengal,444218,2025-11-20,Corporate,2026-01-17 07:39:45,Platinum
+CUST00135,Ishaan,Singh,ishaan.singh38@gmail.com,+919859754807,FEMALE,1998-04-09,Bangalore,West Bengal,250607,2025-10-29,Consumer,2026-02-05 17:23:15,Silver
+CUST00136,Reyansh,Rao,reyansh.rao21@gmail.com,+919990568217,Male,2005-11-04,Hyderabad,Rajasthan,186320,2025-05-27,Home Office,2026-08-04 05:20:44,Silver
+CUST00137,Reyansh,Choudhury,reyansh.choudhury11@gmail.com,9304036387,FEMALE,2001-02-16,Jaipur,Delhi,360957,2026-03-05,Corporate,2026-06-23 17:48:24,Bronze
+CUST00138,Diya,Bose,diya.bose75@gmail.com,9600368062,FEMALE,1981-10-16, Delhi,Karnataka,157937,2026-03-13,Consumer,2026-05-09 14:19:08,Gold
+CUST00139,Aarav,Mehta,aarav.mehta47@gmail.com,+919454190155,F,1976-09-20,Kolkata,Gujarat,828114,2025-09-20,Corporate,2026-07-13 15:41:27,Platinum
+CUST00140,Vikram,Choudhury,vikram.choudhury31@gmail.com,+919478146284,M,1993-03-25,mumbai,Gujarat,171586,2026-02-11,Consumer,2026-03-12 19:50:28,Silver
+CUST00141,Vikram,Verma,vikram.verma39@gmail.com,9262166848,MALE,1985-05-24,Mumbai,Rajasthan,756468,2026-01-11,Home Office,2026-07-19 18:42:37,Gold
+CUST00142,Aarav,Sharma,,+91 9675244407,Male,2005-11-13,Bangalore, MAHARASHTRA,210993,2026-02-12,Consumer,2026-05-16 21:14:40,Bronze
+CUST00143,Reyansh,Deshmukh,reyansh.deshmukh60@gmail.com,+91-9535968611,other,1975-05-15,delhi,maharashtra,791464,2025-01-25,Consumer,2025-12-06 09:34:37,Gold
+CUST00144,Diya,Singh,,+91-9636718857,female,1966-06-28,Chennai,Maharashtra,835917,2026-03-17,Corporate,2026-05-08 21:01:00,Silver
+CUST00145,Vivaan,Gupta,vivaan.gupta94@gmail.com,9437675369,MALE,1987-02-07, MUMBAI,delhi,362154,2026-03-17,Corporate,2026-07-26 15:11:20,Gold
+CUST00146,Ankit,Banerjee,ankit.banerjee98@gmail.com,+91 9637722224,Male,1975-10-18, MUMBAI,Karnataka,753685,2026-04-08,Corporate,2026-09-05 19:58:37,Platinum
+CUST00147,Ananya,Sharma,ananya.sharma39@gmail.com,+91-9503111666,M,2004-12-16,Bangalore,maharashtra,419728,2025-07-11,Home Office,2025-09-06 12:25:14,Silver
+CUST00148,Aditya,Mehta,aditya.mehta59@gmail.com,9214408183,Male,1990-04-06,PUNE,delhi,201538,2025-05-26,Corporate,2026-05-10 04:17:18,Gold
+CUST00149,Riya,Banerjee,riya.banerjee80@gmail.com,+91 9742144634,F,,Bangalore,West Bengal,696717,2025-07-08,Home Office,2026-08-17 07:08:27,Platinum
+CUST00150,Sai,Singh,sai.singh28@gmail.com,+91 9566730092,F,1965-03-26,PUNE,delhi,765396,2026-01-21,Home Office,2026-09-17 14:11:49,Silver
+CUST00151,Reyansh,Bose,reyansh.bose52@gmail.com,+91 9507903732,FEMALE,2004-04-20,Hyderabad, MAHARASHTRA,742513,2025-06-06,Corporate,2026-02-05 00:56:38,Silver
+CUST00152,Sai,Singh,sai.singh72@gmail.com,+919939638591,female,1986-09-27,PUNE,maharashtra,319506,2026-04-05,Home Office,2026-05-10 22:26:00,Platinum
+CUST00153, Amit,Banerjee,amit.banerjee36@gmail.com,9412814503,F,1969-06-21,Ahmedabad,delhi,800659,2025-04-30,Home Office,2026-03-25 09:06:53,Silver
+CUST00154,Pooja,Singh,pooja.singh61@gmail.com,+91-9842716738,Other,2028-07-12,Jaipur,Gujarat,199111,2025-03-26,Consumer,2026-08-19 17:22:36,Silver
+CUST00155,Amit,Kumar,amit.kumar92@gmail.com,+91 9529086280,F,1966-09-16,delhi,Delhi,653999,2026-03-10,Home Office,2026-06-04 05:54:58,Gold
+CUST00156,Pari,Kumar,pari.kumar74@gmail.com,+91-9126373949,male,1965-11-03, MUMBAI, MAHARASHTRA,469732,2025-12-20,Consumer,2026-07-11 01:09:27,Gold
+CUST00157,Anika,Kumar,anika.kumar50@gmail.com,9147978060,Male,2004-02-04, MUMBAI, MAHARASHTRA,365762,2026-02-05,Consumer,2026-09-08 03:00:00,Bronze
+CUST00158,Sai,Rao,sai.rao61@gmail.com,+91-9300131434,F,2029-08-11, Delhi,Tamil Nadu,517724,2025-01-04,Home Office,2025-06-20 07:02:39,Silver
+CUST00159,Reyansh,Mehta,reyansh.mehta23@gmail.com,+919676480186,female,1991-02-19, MUMBAI,delhi,623262,2026-02-14,Home Office,2026-06-16 14:27:31,Bronze
+CUST00160,Ahana,Singh,ahana.singh68@gmail.com,+91 9973744799,other,2005-09-26,mumbai,Karnataka,430215,2025-04-01,Consumer,2026-01-16 19:00:54,Platinum
+CUST00161,Priya,Iyer,priya.iyer59@gmail.com,96225 58165,M,1993-04-27,delhi, MAHARASHTRA,582909,2026-04-27,Consumer,2026-07-05 19:52:57,Gold
+CUST00162,Aarav,Choudhury,aarav.choudhury74@gmail.com,+91-9539304662,F,1990-03-15,Kolkata, MAHARASHTRA,142360,2025-06-21,Corporate,2025-07-16 16:26:54,Gold
+CUST00163,Krishna,Shah,krishna.shah73@gmail.com,92215 59383,male,1996-12-15,PUNE,Gujarat,153632,2025-12-09,Home Office,2026-03-04 16:37:39,Bronze
+CUST00164,Saanvi,Malhotra,saanvi.malhotra14@gmail.com,9474281674,FEMALE,1967-12-27, Delhi,Delhi,726483,2025-09-30,Home Office,2026-05-25 08:17:05,Platinum
+CUST00165,Rahul,Das,rahul.das36@gmail.com,+91 9712112671,Other,1996-08-30,mumbai,Karnataka,416850,2025-08-13,Home Office,2026-03-09 09:11:54,Gold
+CUST00166,Sneha,Sen,sneha.sen62@gmail.com,+919397773877,M,1981-12-01, Delhi,West Bengal,715475,2026-05-07,Corporate,2026-09-06 02:38:49,Platinum
+CUST00167,Saanvi,Singh,saanvi.singh21@gmail.com,+91 9905094179,female,1993-03-18,PUNE,Rajasthan,INVALID_PIN,2025-03-14,Home Office,2026-03-05 10:23:58,Gold
+CUST00168,Rahul,Kumar,rahul.kumar64@gmail.com,+91 9631196129,female,1982-12-25,Chennai,Rajasthan,618914,2025-09-24,Home Office,2026-07-18 00:29:35,Bronze
+CUST00169,Vivaan,Verma,vivaan.verma25@gmail.com,+91-9269633510,FEMALE,,Bangalore,Delhi,248321,2026-05-20,Corporate,2026-06-20 17:42:52,Gold
+CUST00170,Sneha,Mehta,sneha.mehta95@gmail.com,9277731206,F,1975-12-07,Bangalore,maharashtra,111140,2025-06-15,Corporate,2025-08-15 07:20:31,Platinum
+CUST00171,Arjun,Joshi,,9977364141,F,1992-07-04, MUMBAI,Delhi,217403,2025-03-22,Corporate,2026-01-01 15:39:44,Gold
+CUST00172,Ankit,Reddy,ankit.reddy27@gmail.com,+919827070406,male,1960-07-29,Hyderabad, MAHARASHTRA,333405,2026-05-03,Home Office,2026-06-02 05:42:53,Gold
+CUST00173,Deepak,Das,deepak.das22@gmail.com,92322 39057,F,1989-03-21,PUNE, MAHARASHTRA,785934,2025-03-07,Consumer,2026-05-11 06:34:14,Silver
+CUST00174,Ahana,Deshmukh,ahana.deshmukh13@gmail.com,+91 9806957378,MALE,1994-09-03, Delhi,West Bengal,167220,2025-07-05,Corporate,2026-05-01 15:04:09,Bronze
+CUST00175,Vihaan,Shah,vihaan.shah11@gmail.com,+919439809925,F,1998-09-05,Bangalore,Karnataka,291163,2026-01-01,Consumer,2026-01-08 07:54:19,Silver
+CUST00176, Meera,Gupta,meera.gupta60@gmail.com,97749 22644,F,1987-05-17, MUMBAI,Gujarat,270098,2025-08-04,Consumer,2026-04-02 05:27:23,Gold
+CUST00177,Aditya,Sen,aditya.sen51@gmail.com,9781068259,Female,1976-03-28,Mumbai,Delhi,565590,2025-04-01,Corporate,2026-07-20 16:11:09,Bronze
+CUST00178,Ahana,Verma,ahana.verma25@gmail.com,,M,1971-02-24,Kolkata,Karnataka,381841,2025-05-10,Corporate,2025-08-17 06:34:22,Bronze
+CUST00179,Neha,Mehta,neha.mehta52@gmail.com,93920 36942,male,1999-03-29,Ahmedabad,maharashtra,645594,2025-10-07,Consumer,2026-04-19 17:53:54,Bronze
+CUST00180,Sneha,Joshi,sneha.joshi83@gmail.com,+919223838514,Other,,Mumbai,Delhi,491658,2025-10-25,Consumer,2026-01-02 23:17:29,Platinum
+CUST00181,Deepak,Verma,deepak.verma63@gmail.com,+91-9366570563,female,1965-04-19,Hyderabad,Karnataka,816034,2025-02-10,Consumer,2025-08-03 06:21:03,Platinum
+CUST00182,Pooja,Sen,pooja.sen69@gmail.com,+91 9930568802,female,1991-01-30,Mumbai,Karnataka,701195,2025-08-25,Home Office,2026-03-01 11:22:24,Silver
+CUST00183,Pari,Kumar,pari.kumar35@gmail.com,+919686863518,M,,Bangalore,Maharashtra,473252,2026-05-09,Home Office,2026-05-11 19:31:48,Bronze
+CUST00184,Ananya,Sharma,ananya.sharma49@gmail.com,+919668883968,F,1964-01-28,mumbai,delhi,352717,2026-02-08,Corporate,2026-07-03 08:53:26,Silver
+CUST00185,Pari,Gupta,pari.gupta60@gmail.com,9709692870,F,1968-11-22, Delhi,delhi,440311,2025-11-02,Home Office,2026-09-21 07:02:13,Gold
+CUST00186,Neha,Rao,neha.rao35@gmail.com,99269 38633,male,1971-03-09,Kolkata,Tamil Nadu,236602,2026-02-21,Corporate,2026-05-12 21:40:02,Silver
+CUST00187,Pari,Reddy,pari.reddy97@gmail.com,98566 71023,Male,1982-04-22,mumbai,maharashtra,483024,2025-11-04,Home Office,2025-11-23 18:47:05,Gold
+CUST00188,Amit,Reddy,amit@.com,96969 50800,MALE,1966-12-07,mumbai,maharashtra,12345,2025-06-22,Consumer,2025-11-23 13:13:06,Bronze
+CUST00189,Vikram,Singh,vikram.singh84@gmail.com,9972680546,Male,1973-06-16,Ahmedabad,Tamil Nadu,206447,2025-09-15,Consumer,2025-10-02 02:29:46,Bronze
+CUST00190,Pari,Verma,pari.verma60@gmail.com,+91-9510952606,M,1972-09-25,delhi,delhi,265852,2025-01-27,Home Office,2026-05-23 20:11:58,Gold
+CUST00191,Ahana,Shah,ahana.shah71@gmail.com,+91-9400407178,M,2003-09-25,Chennai,Delhi,680066,2025-01-16,Corporate,2026-09-15 12:01:52,Silver
+CUST00192,Priya,Kumar,priya.kumar82@gmail.com,+91 9517021222,M,2029-07-16, Delhi,Maharashtra,404580,2025-02-15,Corporate,2026-04-02 17:33:09,Platinum
+CUST00193,Aadhya,Joshi,aadhya.joshi94@gmail.com,9673044801,MALE,1986-06-07,PUNE, MAHARASHTRA,731302,2025-09-05,Home Office,2026-06-02 22:22:54,Gold
+CUST00194, Aadhya,Joshi,aadhya.joshi82@gmail.com,+91-9302114356,Other,1993-05-16,Mumbai,maharashtra,740890,2025-06-19,Consumer,2026-08-02 20:36:20,Bronze
+CUST00195,Anika,Sharma,anika.sharma53@gmail.com,+91 9961596686,Male,2029-06-30,Jaipur, MAHARASHTRA,661861,2025-10-11,Consumer,2026-03-05 12:09:29,Gold
+CUST00196,Priya,Singh,priya.singh30@gmail.com,+91-9569083854,female,1998-03-30,Jaipur,Rajasthan,344082,2026-04-03,Consumer,2026-06-15 22:13:26,Gold
+CUST00197,Ishaan,Reddy,ishaan.reddy83@gmail.com,99276 72827,Male,1981-08-27,Hyderabad,Delhi,219168,2026-01-21,Consumer,2026-05-30 00:16:23,Platinum
+CUST00198,Neha,Gupta,neha.gupta21@gmail.com,+91 9819433407,FEMALE,, Delhi,Delhi,477507,2025-07-19,Consumer,2025-07-20 08:19:59,Bronze
+CUST00199,Vivaan,Singh,vivaan.singh62@gmail.com,+91 9506639535,Other,1992-08-17,Hyderabad,Delhi,187290,2025-01-26,Corporate,2025-02-11 13:08:25,Gold
+CUST00200,Ananya,Mehta,ananya.mehta58@gmail.com,91805 33234,male,2001-10-04,Kolkata,Maharashtra,795387,2025-05-09,Home Office,2026-04-11 09:51:08,Gold
+CUST00201,Sai,Verma,sai.verma99@gmail.com,98838 03621,Female,1980-03-27, Delhi,maharashtra,709545,2026-03-03,Corporate,2026-05-02 14:00:57,Silver
+CUST00202, Vivaan,Kumar,vivaan.kumar90@gmail.com,9314399191,Male,2003-06-06,delhi,maharashtra,231120,2025-08-28,Corporate,2026-08-29 07:09:53,Bronze
+CUST00203,Anika,Mehta,anika.mehta58@gmail.com,9578647558,Female,1977-12-03, Delhi,delhi,268472,2025-03-17,Consumer,2026-08-18 01:43:18,Silver
+CUST00204,Aadhya,Banerjee,aadhya.banerjee17@gmail.com,99787 55907,F,1992-04-23,Hyderabad,Delhi,192791,2025-11-03,Home Office,2025-11-17 03:22:46,Silver
+CUST00205,Navya,Joshi,navya.joshi89@gmail.com,+91-9913025234,M,1971-05-17, Delhi,Delhi,553941,2025-03-02,Home Office,2026-02-04 01:12:48,Gold
+CUST00206,Reyansh,Iyer,reyansh.iyer18@gmail.com,+91-9697391512,Other,1978-10-18,Chennai,Tamil Nadu,122965,2026-04-29,Home Office,2026-08-09 09:57:24,Silver
+CUST00207,Pooja,Das,pooja.das84@gmail.com,9207593219,other,1979-06-20,Chennai,Karnataka,386968,2025-10-25,Home Office,2026-05-02 02:25:33,Platinum
+CUST00208,Meera,Deshmukh,meera.deshmukh89@gmail.com,+91-9844813102,Male,1982-07-23,Jaipur,Delhi,608303,2025-07-28,Corporate,2025-08-13 07:56:36,Platinum
+CUST00209,Ananya,Reddy,ananya.reddy97@gmail.com,+919344767409,Female,1990-02-25,PUNE,delhi,744367,2026-05-17,Consumer,2026-06-22 21:51:27,Bronze
+CUST00210,Pari,Patel,pari.patel76@gmail.com,9981560713,Other,1964-06-18,delhi,Gujarat,659754,2026-03-18,Consumer,2026-04-21 10:29:41,Silver
+CUST00211,Reyansh,Patel,reyansh.patel56@gmail.com,+91 9394181098,FEMALE,2003-03-29, MUMBAI,Maharashtra,622531,2026-04-07,Corporate,2026-05-11 21:22:29,Platinum
+CUST00212,Sneha,Choudhury,sneha.choudhury43@gmail.com,9839647637,Female,2027-03-19,mumbai,Rajasthan,334730,2025-06-21,Home Office,2025-12-13 18:40:32,Platinum
+CUST00213,Amit,Patel,amit.patelgmail.com,+919242071170,other,1975-03-24,delhi,Rajasthan,430298,2026-05-15,Corporate,2026-08-05 12:37:50,Gold
+CUST00214,Ankit,Singh,ankit.singh48@gmail.com,99850 97007,F,1960-07-01,Chennai,Karnataka,732616,2026-04-19,Corporate,2026-06-16 00:30:55,Bronze
+CUST00215,Amit,Malhotra,amit.malhotra51@gmail.com,+91 9380404354,MALE,1976-05-08,Mumbai,Rajasthan,445110,2025-04-19,Home Office,2025-05-09 10:59:44,Bronze
+CUST00216,Rahul,Choudhury,rahul.choudhury59@gmail.com,97260 16935,MALE,1975-02-17,Ahmedabad,Gujarat,608845,2025-10-06,Home Office,2026-01-31 00:53:21,Gold
+CUST00217,Sneha,Nair,sneha.nair22@gmail.com,+91 9895555607,Other,1972-06-16,Ahmedabad,Karnataka,343050,2025-10-03,Consumer,2026-07-19 23:30:06,Silver
+CUST00218,Sneha,Reddy,sneha.reddy84@gmail.com,+91-9226466892,Male,1999-09-17,Hyderabad,Rajasthan,313994,2026-01-24,Consumer,2026-06-21 22:59:21,Bronze
+CUST00219,Navya,Reddy,navya.reddy35@gmail.com,+91-9711392447,M,1972-04-09, MUMBAI,Tamil Nadu,295414,2025-09-01,Home Office,2025-10-16 11:54:48,Gold
+CUST00220,Aarav,Bose,aarav.bose30@gmail.com,9919876144,M,2003-02-09,Bangalore,West Bengal,610591,2025-10-25,Consumer,2025-11-09 09:09:40,Bronze
+CUST00221,Riya,Patel,riya.patel77@gmail.com,9826652789,MALE,1983-06-07,delhi, MAHARASHTRA,637787,2026-04-03,Corporate,2026-05-05 15:59:14,Bronze
+CUST00222,Aditya,Verma,aditya.verma86@gmail.com,+919565644493,female,1993-05-10,PUNE,Delhi,532987,2025-01-15,Consumer,2025-07-09 02:09:50,Gold
+CUST00223,Neha,Iyer ,neha.iyer25@gmail.com,9798512415,F,1977-05-28,Chennai,Rajasthan,160291,2026-05-30,Consumer,2026-06-03 00:01:00,Silver
+CUST00224,Vivaan,Malhotra,vivaan.malhotra70@gmail.com,9320648482,Female,1966-11-14,Ahmedabad,Gujarat,745054,2025-04-17,Corporate,2025-07-08 00:39:23,Platinum
+CUST00225,Navya,Deshmukh,navya.deshmukh35@gmail.com,+91 9935327024,Other,1984-05-10,Jaipur,West Bengal,151320,2026-03-02,Corporate,2026-05-22 09:53:42,Platinum
+CUST00226,Priya,Choudhury ,priya.choudhury24@gmail.com,+91-9818356830,M,1994-10-27, MUMBAI,maharashtra,785637,2025-06-29,Corporate,2026-02-14 11:23:36,Bronze
+CUST00227,Krishna,Bose,krishna.bose47@gmail.com,+91 9826672529,F,1966-06-19,Mumbai,Maharashtra,805579,2026-05-18,Consumer,2026-07-21 12:19:37,Platinum
+CUST00228,Aadhya,Bose,aadhya.bose57@gmail.com,9296354549,F,1991-01-25,delhi,West Bengal,611477,2025-11-24,Home Office,2026-01-28 08:17:25,Bronze
+CUST00229,Vihaan,Iyer,vihaan.iyer30@gmail.com,+91-9734313309,other,1972-05-02,Hyderabad,West Bengal,751056,2025-01-23,Home Office,2026-08-11 06:37:46,Silver
+CUST00230,Ankit,Iyer,ankit.iyer66@gmail.com,+91 9380904676,Male,1995-09-18,Jaipur,Rajasthan,344866,2025-09-20,Home Office,2026-04-11 22:03:20,Platinum
+CUST00231,Priya,Deshmukh,priya.deshmukh54@gmail.com,+91-9788702788,M,1997-12-29,Hyderabad,Maharashtra,12345,2025-05-02,Home Office,2026-05-02 09:31:04,Bronze
+CUST00232,Sneha,Choudhury,sneha.choudhury40@gmail.com,9398668947,Other,2003-10-11,Bangalore,West Bengal,192660,2025-12-23,Corporate,2026-08-03 03:12:57,Gold
+CUST00233,Pari,Gupta,pari.gupta73@gmail.com,9119079456,F,1997-11-29,Chennai,Maharashtra,743554,2026-04-26,Home Office,2026-06-24 23:45:31,Gold
+CUST00234,Ankit,Sen,ankit.sen53@gmail.com,+919158277565,FEMALE,2002-03-05,Hyderabad,Tamil Nadu,490942,2025-12-18,Consumer,2026-01-25 07:59:42,Silver
+CUST00235, Rohit,Shah,rohit.shah47@gmail.com,9501461715,Male,1993-07-05,mumbai,West Bengal,750525,2025-06-02,Consumer,2025-09-03 23:06:20,Silver
+CUST00236,Deepak,Singh,deepak.singh53@gmail.com,9545034151,other,1990-08-28,Kolkata,Rajasthan,251177,2026-01-23,Consumer,2026-08-17 10:11:37,Gold
+CUST00237,Neha,Verma,neha.verma75@gmail.com,92902 69669,M,1968-09-25, MUMBAI,West Bengal,745606,2025-09-07,Home Office,2026-08-16 06:45:28,Platinum
+CUST00238,Diya,Das,diya.das45@gmail.com,+91 9468141835,FEMALE,1969-05-27,Bangalore,Rajasthan,647180,2025-08-21,Home Office,2026-04-21 23:51:56,Silver
+CUST00239,Priya,Banerjee,priya.banerjee47@gmail.com,+919821955780,M,2003-05-04,PUNE,maharashtra,699594,2026-01-09,Home Office,2026-08-18 17:28:39,Silver
+CUST00240,Amit,Das,amit.das64@gmail.com,9661277051,Male,1963-08-11,Ahmedabad,Maharashtra,278753,2025-08-11,Home Office,2026-02-22 05:41:47,Gold
+CUST00241,Arjun,Verma,arjun.verma14@gmail.com,9585969649,other,1998-03-27, Delhi,Gujarat,645741,2025-08-12,Home Office,2025-09-17 21:44:29,Platinum
+CUST00242,Deepak,Singh,deepak.singh50@gmail.com,9157769665,Female,1990-02-24, Delhi,Karnataka,683168,2026-04-14,Consumer,2026-09-12 09:03:15,Platinum
+CUST00243,Neha,Patel,neha.patel33@gmail.com,98892 85590,male,1989-02-27,delhi,Gujarat,278747,2026-03-30,Corporate,2026-03-31 16:35:49,Bronze
+CUST00244,Ananya,Bose,ananya.bose51@gmail.com,99307 12117,Female,1998-12-20,Chennai,Karnataka,852058,2025-09-04,Home Office,2025-11-29 07:30:56,Gold
+CUST00245,Sai,Sen,sai.sen78@gmail.com,+919475168561,MALE,1982-07-12,PUNE,delhi,758315,2026-02-17,Corporate,2026-09-23 01:14:04,Platinum
+CUST00246,Vikram,Sharma,vikram.sharma92@gmail.com,+919766935087,Male,1981-11-02,Bangalore,maharashtra,676480,2025-08-08,Consumer,2026-09-14 03:25:44,Platinum
+CUST00247,Vikram,Kumar,vikram.kumar47@gmail.com,+91 9306708606,Other,1966-07-13,mumbai,Gujarat,767387,2025-02-20,Consumer,2026-07-26 12:26:07,Platinum
+CUST00248,Rahul,Patel,rahul.patel78@gmail.com,+91-9896045379,male,1970-06-18,Mumbai,Tamil Nadu,149727,2025-03-09,Consumer,2025-04-21 03:08:16,Gold
+CUST00249,Sai,Mehta,sai.mehta43@gmail.com,+91-9584392493,F,1986-07-04,Ahmedabad,maharashtra,782581,2026-04-26,Consumer,2026-09-20 01:53:57,Gold
+CUST00250,Neha,Joshi,neha.joshi74@gmail.com,+91 9944918740,other,1989-10-13,Bangalore,West Bengal,142317,2026-01-04,Consumer,2026-07-30 08:03:01,Silver
+CUST00251,Ayaan,Iyer,ayaan.iyer47@gmail.com,+91 9254699931,female,1960-10-04,Chennai,Gujarat,153803,2025-01-04,Home Office,2026-04-13 08:12:57,Silver
+CUST00252,Diya,Banerjee,diya.banerjee54@gmail.com,97935 63667,M,1975-01-09,Hyderabad,delhi,300168,2026-03-17,Consumer,2026-08-29 22:51:19,Platinum
+CUST00253,Rohit,Banerjee,rohit.banerjee18@gmail.com,93119 75522,FEMALE,1984-04-20,mumbai,Delhi,759610,2025-02-24,Consumer,2025-10-29 01:17:27,Gold
+CUST00254,Anika,Bose,anika.bose29@gmail.com,+91 9491371841,F,1981-04-24, Delhi,Delhi,781968,2025-12-05,Corporate,2026-04-24 08:35:38,Gold
+CUST00255,Arjun,Rao,arjun.rao49@gmail.com,+919216858154,other,1979-02-04,mumbai,Gujarat,767058,2025-03-01,Home Office,2025-04-28 22:55:08,Gold
+CUST00256,Ankit,Sharma,ankit.sharma84@gmail.com,+919733546669,Male,1996-12-25,Chennai,Tamil Nadu,265853,2025-10-12,Corporate,2026-01-06 20:43:19,Gold
+CUST00257,Ankit,Joshi,ankit.joshi75@gmail.com,94906 97670,Male,2001-10-13,Ahmedabad, MAHARASHTRA,257190,2025-12-13,Consumer,2026-02-21 03:54:21,Platinum
+CUST00258,Meera,Joshi,meera.joshi71@gmail.com,+919143400463,FEMALE,1977-12-27,PUNE,Delhi,326819,2026-02-07,Corporate,2026-07-07 23:22:12,Gold
+CUST00259,Anika,Bose,anika.bose23@gmail.com,+91 9659819889,Female,1998-10-19,mumbai,West Bengal,493042,2026-04-02,Home Office,2026-09-23 21:09:59,Gold
+CUST00260,Vikram,Gupta,vikram.gupta76@gmail.com,+91 9977501292,FEMALE,2001-02-11,Mumbai,Gujarat,571268,2025-05-09,Consumer,2025-07-08 12:08:41,Gold
+CUST00261,Navya,Mehta,navya.mehta25@gmail.com,+91 9545188049,male,1992-08-01,Kolkata,Delhi,788701,2025-11-16,Consumer,2026-02-18 18:53:17,Silver
+CUST00262,Vivaan,Iyer,vivaan.iyer15@gmail.com,9257695200,M,1972-04-01,Chennai,West Bengal,700983,2026-05-11,Consumer,2026-09-16 18:06:14,Silver
+CUST00263,Vikram,Reddy,vikram.reddy70@gmail.com,+919283144690,F,1999-08-25,mumbai,Rajasthan,387371,2025-05-11,Home Office,2026-02-01 10:24:51,Gold
+CUST00264,Deepak,Bose,deepak.bose26@gmail.com,93172 70101,Other,1970-03-06,Hyderabad,maharashtra,754611,2026-04-11,Consumer,2026-09-11 02:25:48,Bronze
+CUST00265,Riya,Sen,riya.sen87@gmail.com,+91-9101288710,Other,1962-12-15,Jaipur,Gujarat,615544,2025-10-24,Corporate,2026-06-09 21:05:21,Bronze
+CUST00266,Pooja,Joshi,pooja.joshi39@gmail.com,+91 9189998443,other,1987-10-22,delhi,Delhi,INVALID_PIN,2025-01-06,Home Office,2026-02-16 09:28:45,Platinum
+CUST00267, Vihaan,Sen,vihaan.sen50@gmail.com,+919214442861,F,1977-04-05,delhi,Gujarat,493406,2026-04-21,Corporate,2026-08-31 10:08:05,Gold
+CUST00268,Diya,Patel,diya.patel57@gmail.com,+91 9619433519,Female,1987-02-03,Jaipur, MAHARASHTRA,801309,2025-04-03,Home Office,2025-09-28 23:10:01,Bronze
+CUST00269,Pari,Nair,pari.nair80@gmail.com,9835045478,M,2003-04-09,Mumbai,maharashtra,604581,2026-04-12,Corporate,2026-04-29 08:09:04,Silver
+CUST00270,Aditya,Mehta,aditya@.com,95301 89140,Other,2000-08-28,Mumbai, MAHARASHTRA,570296,2025-01-09,Consumer,2026-06-03 12:51:55,Bronze
+CUST00271,Deepak,Sen,deepak.sen76@gmail.com,+919760555221,Male,2004-07-28,Mumbai, MAHARASHTRA,399341,2025-11-07,Corporate,2026-07-25 07:41:10,Bronze
+CUST00272,Diya,Singh,diya.singh18@gmail.com,+91 9690120616,Other,1983-09-08,PUNE,delhi,313975,2025-12-20,Corporate,2026-07-31 11:50:28,Bronze
+CUST00273,Aarav,Mehta,aarav.mehta74@gmail.com,92256 37455,Female,1999-02-14,delhi,Tamil Nadu,700526,2026-01-11,Consumer,2026-05-23 13:22:55,Silver
+CUST00274,Rohit,Bose,rohit.bose71@gmail.com,+91-9172535838,MALE,1975-08-24,PUNE,West Bengal,651594,2026-02-21,Consumer,2026-06-03 07:52:20,Gold
+CUST00275,Ayaan,Reddy,ayaan.reddy19@gmail.com,+91-9291647610,female,1999-01-15,delhi, MAHARASHTRA,826290,2025-05-28,Corporate,2025-10-30 19:01:58,Gold
+CUST00276,Ayaan,Shah,ayaan.shah41@gmail.com,+919482281482,male,1965-05-04,Ahmedabad,Tamil Nadu,677777,2025-02-02,Corporate,2025-11-18 03:26:47,Silver
+CUST00277,Ahana,Rao,ahana.rao45@gmail.com,99206 20417,Female,1999-03-30,mumbai,Maharashtra,553733,2026-01-07,Home Office,2026-01-20 04:02:17,Silver
+CUST00278,Navya,Kumar,navya.kumar25@gmail.com,+91 9593997037,Male,, Delhi,West Bengal,451245,2025-10-08,Home Office,2026-09-08 13:42:20,Bronze
+CUST00279,Krishna,Nair,krishna.nair88@gmail.com,+91-9297475805,F,1985-05-02,PUNE,West Bengal,298628,2026-03-20,Consumer,2026-07-10 15:42:13,Silver
+CUST00280,Amit,Shah,amit.shah81@gmail.com,+919508970423,M,1970-03-06,Kolkata,Maharashtra,633867,2025-04-15,Home Office,2026-05-22 00:26:31,Silver
+CUST00281,Riya,Rao,riya.rao82@gmail.com,+919206273380,Male,1977-04-21,Kolkata,maharashtra,460913,2025-07-21,Corporate,2026-04-27 15:02:55,Bronze
+CUST00282,Riya,Banerjee,,98296 99746,MALE,2004-03-22,Ahmedabad,Gujarat,408434,2025-10-03,Corporate,2026-06-22 06:19:27,Gold
+CUST00283,Navya,Choudhury,navya.choudhury88@gmail.com,+919778295798,M,1982-12-16,Bangalore,Rajasthan,184810,2025-03-03,Consumer,2025-11-25 08:23:47,Gold
+CUST00284,Ayaan,Rao,ayaan.rao92@gmail.com,+91 9577706000,other,1990-08-22,Bangalore, MAHARASHTRA,134224,2025-04-08,Home Office,2025-10-07 08:40:50,Bronze
+CUST00285,Amit,Mehta,amit.mehta31@gmail.com,9202600029,FEMALE,1961-10-17,Bangalore,Gujarat,197296,2025-03-22,Corporate,2026-07-15 19:37:31,Silver
+CUST00286,Arjun,Gupta,arjun.gupta41@gmail.com,+919575839885,M,1971-08-11,Mumbai,Maharashtra,450999,2026-01-05,Corporate,2026-08-03 18:46:37,Bronze
+CUST00287,Deepak,Mehta,deepak.mehta79@gmail.com,+91-9741651145,other,2003-07-15,Ahmedabad,Gujarat,474033,2026-01-10,Home Office,2026-04-08 07:37:42,Gold
+CUST00288,Pooja,Gupta,pooja.gupta48@gmail.com,,Other,1969-04-10,PUNE,delhi,118722,2026-01-18,Corporate,2026-05-14 10:50:34,Gold
+CUST00289,Aarav,Das,aarav.das80@gmail.com,95420 98017,F,1971-02-10,Jaipur,West Bengal,341308,2025-07-24,Consumer,2026-06-17 05:25:12,Platinum
+CUST00290,Rahul,Shah,rahul.shah98@gmail.com,94056 69440,Female,1964-08-28,mumbai, MAHARASHTRA,777831,2025-12-20,Home Office,2026-06-14 12:18:19,Bronze
+CUST00291,Krishna,Deshmukh,krishna.deshmukh78@gmail.com,,male,1968-07-04,Jaipur,Tamil Nadu,354120,2025-03-12,Consumer,2025-03-23 11:53:04,Silver
+CUST00292,Anika,Patel,anika.patel57@gmail.com,9949785821,female,1969-12-10,Mumbai,delhi,184853,2026-02-26,Corporate,2026-05-08 10:30:04,Platinum
+CUST00293,Reyansh,Mehta,reyansh.mehta41@gmail.com,+919575625690,Male,1966-05-24,Chennai,Delhi,824545,2025-08-31,Corporate,2026-01-01 14:52:17,Silver
+CUST00294,Rahul,Verma,rahul.verma71@gmail.com,+91 9313377873,Male,1974-10-27, MUMBAI,Delhi,450278,2025-01-12,Consumer,2026-09-21 17:23:33,Bronze
+CUST00295,Krishna,Joshi,,+91-9941250135,other,1966-02-02, Delhi, MAHARASHTRA,829266,2026-04-26,Corporate,2026-09-21 00:10:57,Gold
+CUST00296,Rahul,Verma,rahul.verma23@gmail.com,+91 9349832483,Other,1983-08-20,Kolkata,Delhi,ABC123,2025-10-21,Corporate,2026-07-29 18:00:46,Gold
+CUST00297,Arjun,Mehta,arjun.mehta47@gmail.com,+919626232278,other,1983-08-29,PUNE,Tamil Nadu,737762,2026-03-07,Consumer,2026-04-03 10:59:02,Gold
+CUST00298,Navya,Iyer,navya.iyer68@gmail.com,,Other,1972-08-16,Mumbai,Rajasthan,760325,2025-07-05,Corporate,2025-08-23 16:04:47,Platinum
+CUST00299,Amit,Banerjee,amit.banerjee80@gmail.com,+91 9404007541,F,1967-07-08, MUMBAI,Gujarat,155904,2025-04-11,Consumer,2025-05-06 02:09:09,Platinum
+CUST00300,Reyansh,Malhotra,reyansh.malhotra59@gmail.com,96645 96387,other,1984-12-05, Delhi,Rajasthan,123722,2025-06-12,Home Office,2026-06-28 19:37:20,Platinum
+CUST00301,Deepak,Gupta,deepak.gupta63@gmail.com,9952818991,other,1962-10-07,Jaipur,maharashtra,191722,2025-06-17,Home Office,2025-09-01 03:06:09,Silver
+CUST00302,Vihaan,Shah,vihaan.shah41@gmail.com,92920 90149,Other,1967-03-07,Ahmedabad,Rajasthan,591004,2025-11-28,Consumer,2026-02-01 12:01:48,Platinum
+CUST00303,Pooja,Nair,pooja.nair78@gmail.com,+91 9575680693,female,1982-02-03,PUNE,West Bengal,561505,2025-09-09,Home Office,2025-12-11 17:15:31,Silver
+CUST00304,Meera,Banerjee,meera.banerjee42@gmail.com,+91-9585764529,F,,Mumbai,delhi,652753,2025-04-15,Corporate,2025-04-21 00:37:54,Platinum
+CUST00305,Ishaan,Shah,ishaan.shah98@gmail.com,96944 91286,Other,1998-11-24,mumbai,maharashtra,482933,2025-05-02,Consumer,2025-11-24 01:47:05,Platinum
+CUST00306,Aadhya,Joshi,aadhya.joshi83@gmail.com,9333471497,female,1971-10-07,Kolkata,Rajasthan,209997,2026-04-08,Home Office,2026-06-05 15:50:51,Platinum
+CUST00307,Vivaan,Joshi,vivaan.joshi52@gmail.com,+91-9977399222,F,1968-03-15, Delhi,Rajasthan,774679,2026-05-07,Corporate,2026-05-17 13:11:51,Gold
+CUST00308,Ishaan,Sen,ishaan.sen74@gmail.com,9264494545,F,2000-07-01,Hyderabad,Gujarat,562918,2025-08-14,Corporate,2025-12-07 01:05:53,Platinum
+CUST00309,Arjun,Rao,arjun@.com,95279 15151,F,1968-11-14,mumbai,Tamil Nadu,621560,2025-11-04,Home Office,2026-06-13 22:27:51,Silver
+CUST00310,Reyansh,Banerjee,reyansh.banerjee19@gmail.com,+91 9561779564,other,2005-09-17,Bangalore,West Bengal,309743,2025-09-07,Corporate,2026-04-25 18:19:57,Bronze
+CUST00311,Rahul,Sharma,rahul.sharma66@gmail.com,9572944000,MALE,1985-06-09,mumbai,maharashtra,167188,2025-07-08,Home Office,2025-10-31 11:38:55,Silver
+CUST00312, Sneha,Reddy,sneha.reddy67@gmail.com,+919456349916,Other,1997-03-08,Chennai,delhi,763307,2025-04-20,Home Office,2026-09-21 20:11:12,Gold
+CUST00313,Aarav,Singh,aarav@@gmail.com,93154 95749,Female,2004-07-22,Mumbai,maharashtra,394490,2026-05-30,Home Office,2026-08-08 21:36:58,Silver
+CUST00314, Sneha,Malhotra,sneha.malhotra39@gmail.com,9646041020,female,2000-08-19,Chennai,maharashtra,634971,2025-12-22,Home Office,2025-12-31 01:46:10,Gold
+CUST00315,Vivaan,Shah,vivaan.shah30@gmail.com,,female,1980-07-28, Delhi,Gujarat,175022,2026-05-02,Corporate,2026-07-16 05:57:38,Gold
+CUST00316,Ankit,Sharma,ankit.sharma53@gmail.com,+919805375110,male,1995-06-08,Ahmedabad,Rajasthan,829872,2025-06-26,Corporate,2025-12-30 08:12:53,Silver
+CUST00317,Meera,Iyer,meera.iyer67@gmail.com,+919322003929,other,1973-10-07,mumbai,delhi,659250,2025-04-16,Corporate,2025-08-06 19:07:33,Bronze
+CUST00318,Rahul,Joshi,rahul.joshi25@gmail.com,9256253951,female,1988-03-05,Bangalore,delhi,777783,2025-08-01,Consumer,2025-12-25 15:15:59,Silver
+CUST00319,Vihaan,Iyer,vihaan.iyer44@gmail.com,+919757518717,other,1961-10-10,PUNE,maharashtra,609754,2025-04-15,Home Office,2026-07-28 20:12:00,Silver
+CUST00320,Anika,Kumar,anika.kumar30@gmail.com,+91-9134606221,Male,1988-02-09, Delhi,Delhi,179349,2025-05-18,Corporate,2026-09-09 19:47:48,Bronze
+CUST00321,Anika,Rao,anika.rao15@gmail.com,+91-9985116006,female,1998-12-02,Hyderabad,Gujarat,848316,2025-01-30,Home Office,2025-04-25 19:43:06,Silver
+CUST00322,Pari,Bose,pari.bose76@gmail.com,9889382867,Other,2002-11-30,Mumbai,Delhi,527376,2025-08-25,Corporate,2026-08-18 21:26:06,Silver
+CUST00323,Sai,Das,sai.das28@gmail.com,+91-9793746209,male,1967-09-13,mumbai,Rajasthan,839929,2026-03-01,Consumer,2026-08-01 01:24:50,Bronze
+CUST00324,Saanvi,Rao,saanvi.rao35@gmail.com,+91 9196829676,female,1971-02-28,Jaipur,maharashtra,850533,2025-12-16,Home Office,2026-05-06 00:16:16,Silver
+CUST00325,Aditya,Sen,aditya.sen88@gmail.com,95066 03082,F,1971-08-18,PUNE,Rajasthan,267381,2025-05-06,Consumer,2025-09-22 20:31:48,Silver
+CUST00326,Rohit,Verma,rohit.verma67@gmail.com,9294020880,M,1960-03-28,Hyderabad,delhi,12345,2026-01-22,Corporate,2026-08-21 14:14:55,Silver
+CUST00327,Pooja,Sharma,pooja.sharma94@gmail.com,+91-9540396677,male,1960-06-12, Delhi,Gujarat,769173,2026-03-10,Consumer,2026-03-29 01:24:58,Bronze
+CUST00328,Sai,Iyer,sai.iyer14@gmail.com,99998 11151,Female,1965-12-19,Mumbai,maharashtra,296907,2025-05-06,Home Office,2025-12-13 04:44:38,Gold
+CUST00329,Ahana,Deshmukh,ahana.deshmukh84@gmail.com,9138482956,Female,1985-10-14, MUMBAI,West Bengal,178080,2025-08-16,Corporate,2025-11-28 22:54:45,Bronze
+CUST00330,Vihaan,Mehta,vihaan.mehta36@gmail.com,92173 62383,Other,1992-11-29,Jaipur,Rajasthan,851140,2025-08-12,Corporate,2026-04-14 21:20:00,Bronze
+CUST00331,Krishna,Sen,krishna.sen88@gmail.com,+91-9658029852,FEMALE,2001-06-20, Delhi,delhi,111658,2025-04-02,Consumer,2026-03-29 21:38:12,Platinum
+CUST00332,Rahul,Malhotra,rahul.malhotra63@gmail.com,+91 9458406707,Other,1974-06-13,Mumbai,Delhi,376777,2025-02-22,Corporate,2025-10-13 22:15:18,Bronze
+CUST00333,Navya,Banerjee ,navya.banerjee53@gmail.com,97108 74853,Male,1973-03-15,PUNE,Karnataka,612382,2026-01-04,Consumer,2026-09-12 07:14:39,Bronze
+CUST00334,Arjun,Choudhury,arjun.choudhury52@gmail.com,+91-9974204752,Male,1980-05-15,Hyderabad,Karnataka,129628,2025-06-11,Home Office,2026-02-24 09:59:21,Silver
+CUST00335,Pooja,Kumar,pooja.kumar53@gmail.com,97727 10898,M,1986-07-05,mumbai,Rajasthan,433257,2025-09-02,Home Office,2025-09-14 13:29:23,Platinum
+CUST00336,Krishna,Das,krishna.das48@gmail.com,+919424611800,male,1962-07-18, Delhi,maharashtra,136147,2026-01-10,Home Office,2026-03-11 17:36:10,Gold
+CUST00337,Reyansh,Rao,reyansh.rao51@gmail.com,92054 96809,M,1962-06-27,Kolkata,West Bengal,657719,2025-03-31,Consumer,2025-11-28 12:27:03,Platinum
+CUST00338,Deepak,Verma,deepak.verma69@gmail.com,92107 05823,Female,2030-03-24,delhi,Delhi,311899,2025-08-11,Corporate,2026-04-16 11:23:10,Silver
+CUST00339,Rohit,Bose,rohit.bose24@gmail.com,,other,1966-12-19, Delhi,Gujarat,443956,2025-07-30,Consumer,2026-03-07 13:16:11,Silver
+CUST00340,Meera,Shah,meera.shah79@gmail.com,9239665900,FEMALE,1963-06-08, MUMBAI,West Bengal,557182,2025-11-01,Consumer,2026-08-02 01:55:44,Platinum
+CUST00341,Ahana,Joshi,ahana.joshi55@gmail.com,+919977721640,Other,1991-09-09,Hyderabad, MAHARASHTRA,842535,2025-12-30,Consumer,2026-06-25 15:38:52,Gold
+CUST00342,Ishaan,Bose,ishaan.bose88@gmail.com,+91-9490250763,M,2005-04-07,PUNE,Karnataka,141735,2025-02-20,Corporate,2025-05-19 10:51:46,Bronze
+CUST00343,Aadhya,Choudhury,aadhya.choudhury87@gmail.com,9645406800,F,1967-04-13,PUNE,Gujarat,426794,2026-02-18,Corporate,2026-07-24 10:58:38,Silver
+CUST00344,Meera,Das,meera.das71@gmail.com,+919465839040,other,1989-08-16,Hyderabad,Karnataka,357626,2025-05-15,Home Office,2025-07-14 22:36:12,Platinum
+CUST00345,Neha,Joshi,neha.joshi51@gmail.com,+91-9982640532,M,1987-08-13, MUMBAI,Rajasthan,735377,2025-10-22,Corporate,2026-05-02 06:34:39,Platinum
+CUST00346,Rahul,Verma,rahul.verma91@gmail.com,+919912906014,M,1979-11-02,Bangalore,Rajasthan,315172,2025-06-09,Home Office,2026-02-10 15:37:14,Bronze
+CUST00347,Ishaan,Joshi,ishaan.joshi65@gmail.com,9469651326,other,,Chennai,West Bengal,418475,2025-02-18,Corporate,2026-04-20 19:22:38,Platinum
+CUST00348,Vivaan,Sharma,vivaan.sharma46@gmail.com,+91-9352588284,other,1981-08-25,Jaipur,West Bengal,566330,2026-02-28,Consumer,2026-05-06 18:02:59,Silver
+CUST00349,Anika,Iyer,anika.iyer63@gmail.com,+919819477978,M,,Ahmedabad,Maharashtra,620344,2026-05-27,Corporate,2026-06-22 09:24:12,Silver
+CUST00350,Aditya,Iyer,aditya.iyer99@gmail.com,95570 96375,M,1988-11-10,Chennai,Tamil Nadu,346707,2025-05-25,Corporate,2026-09-06 21:27:29,Gold
+CUST00351,Aarav,Joshi,aarav.joshi44@gmail.com,96864 41554,female,2027-02-28,Hyderabad,Tamil Nadu,228662,2026-03-27,Corporate,2026-08-08 18:56:39,Platinum
+CUST00352,Aditya,Iyer,aditya.iyer45@gmail.com,91840 03766,other,1992-02-24,Ahmedabad,maharashtra,675390,2026-03-27,Corporate,2026-07-24 06:01:35,Platinum
+CUST00353,Vivaan,Rao ,vivaan.rao70@gmail.com,+91-9455960435,female,1980-01-18,delhi, MAHARASHTRA,736668,2025-08-25,Home Office,2026-03-15 11:18:11,Gold
+CUST00354,Vivaan,Choudhury,vivaan.choudhury47@gmail.com,9770355280,Female,1968-08-18,Chennai,maharashtra,401346,2025-07-15,Consumer,2026-02-19 00:16:01,Gold
+CUST00355, Krishna,Mehta,krishna.mehta85@gmail.com,+91-9807762976,female,1977-10-11,Jaipur,Delhi,663008,2025-01-26,Corporate,2025-04-02 06:12:33,Gold
+CUST00356,Arjun,Deshmukh,arjun.deshmukh62@gmail.com,+91-9355494114,M,1983-06-25,Mumbai,delhi,231629,2025-02-10,Consumer,2026-02-06 04:58:06,Gold
+CUST00357,Diya,Choudhury,diya.choudhury78@gmail.com,+91-9833913230,FEMALE,1996-02-05,Bangalore,Maharashtra,580623,2025-10-24,Home Office,2026-02-24 07:30:12,Platinum
+CUST00358,Navya,Verma,navya.verma65@gmail.com,+91 9800150455,female,1966-09-08,delhi,Rajasthan,818095,2025-07-07,Home Office,2025-12-06 05:06:00,Silver
+CUST00359,Navya,Rao,navya.rao11@gmail.com,9993019801,Male,1995-09-29, MUMBAI,Tamil Nadu,407059,2025-07-15,Consumer,2025-08-11 02:16:05,Platinum
+CUST00360,Aarav,Deshmukh,aarav.deshmukh37@gmail.com,9785136281,male,2001-02-23,mumbai,West Bengal,789379,2026-03-16,Consumer,2026-09-06 15:57:26,Silver
+CUST00361,Vihaan,Nair,vihaan.nair91@gmail.com,+91-9396764585,female,1965-01-13,delhi,Maharashtra,458814,2025-02-16,Corporate,2025-09-10 05:17:04,Bronze
+CUST00362,Sai,Bose,sai.bose60@gmail.com,9628342500,M,1989-05-06, Delhi,Rajasthan,573032,2025-07-21,Consumer,2025-08-17 05:53:39,Gold
+CUST00363,Aditya,Gupta,aditya.gupta73@gmail.com,9787554766,Male,1978-02-17,mumbai,Karnataka,712554,2025-01-03,Home Office,2026-07-07 11:46:05,Silver
+CUST00364,Rohit,Choudhury,rohit.choudhury18@gmail.com,+91-9103551249,FEMALE,1996-06-05,PUNE,Karnataka,530076,2025-02-12,Home Office,2026-06-30 11:14:39,Bronze
+CUST00365,Aditya,Kumar,aditya.kumar68@gmail.com,+919411340750,M,1986-02-21,Ahmedabad,Delhi,519055,2025-03-24,Home Office,2026-09-10 23:15:23,Platinum
+CUST00366,Aadhya,Choudhury,aadhya.choudhury27@gmail.com,91272 35036,MALE,1964-04-14,Chennai,delhi,581133,2025-01-13,Consumer,2025-10-04 06:47:30,Platinum
+CUST00367,Vivaan,Rao,vivaan.rao93@gmail.com,95921 71427,M,1975-11-08, MUMBAI,Maharashtra,622644,2026-05-23,Consumer,2026-08-23 08:20:44,Silver
+CUST00368,Deepak,Deshmukh,deepak.deshmukh32@gmail.com,9430000948,FEMALE,2000-03-21, MUMBAI,maharashtra,733880,2026-04-24,Consumer,2026-05-06 10:15:42,Bronze
+CUST00369,Pooja,Patel,pooja.patel96@gmail.com,92297 10628,Other,1974-07-05,Mumbai,Rajasthan,176293,2025-04-04,Corporate,2025-07-23 11:42:13,Platinum
+CUST00370,Rohit,Das,rohit.das41@gmail.com,+919143700111,male,2003-01-08,Hyderabad,West Bengal,126390,2026-01-14,Consumer,2026-01-16 16:54:50,Bronze
+CUST00371,Aarav,Nair,aarav.nair46@gmail.com,+91-9966951820,M,2003-07-16,delhi,Gujarat,360876,2025-05-16,Home Office,2025-06-14 19:08:16,Silver
+CUST00372,Ahana,Nair,ahana.nair48@gmail.com,91049 07047,MALE,1996-01-30, MUMBAI,Rajasthan,675941,2026-01-30,Consumer,2026-07-29 12:03:07,Platinum
+CUST00373,Rohit,Patel,rohit.patel97@gmail.com,+91-9609396906,M,1962-12-07,Mumbai,Karnataka,565787,2025-07-15,Corporate,2026-07-02 05:22:47,Bronze
+CUST00374,Vivaan,Malhotra,vivaan.malhotra13@gmail.com,9224623936,MALE,2000-05-01,Hyderabad,Karnataka,819732,2025-09-10,Consumer,2026-07-10 11:47:00,Platinum
+CUST00375,Vihaan,Rao,vihaan.rao35@gmail.com,9336934839,FEMALE,1963-09-12,Bangalore, MAHARASHTRA,749038,2025-12-20,Consumer,2026-05-19 19:49:28,Silver
+CUST00376,Aadhya,Iyer,aadhya.iyer44@gmail.com,9236592599,other,1969-04-15, MUMBAI,Tamil Nadu,289518,2025-09-24,Consumer,2026-09-04 02:39:04,Bronze
+CUST00377,Ishaan,Deshmukh,ishaan.deshmukh31@gmail.com,+919693516844,male,1995-07-04,Kolkata,Delhi,595243,2025-08-05,Consumer,2026-07-04 08:40:40,Platinum
+CUST00378,Neha,Shah,neha.shah85@gmail.com,9716006526,F,1962-09-22,Kolkata,Gujarat,666922,2025-11-03,Corporate,2026-09-13 17:45:54,Silver
+CUST00379,Pooja,Malhotra,pooja.malhotra11@gmail.com,+919536602838,M,1976-04-07,Ahmedabad,maharashtra,12345,2025-08-25,Consumer,2026-08-17 12:13:07,Silver
+CUST00380,Sneha,Joshi ,sneha.joshi27@gmail.com,+919535252390,female,2003-02-07,Mumbai,maharashtra,834305,2025-09-16,Home Office,2025-09-29 06:44:17,Platinum
+CUST00381,Ishaan,Das,ishaan.das83@gmail.com,9945777677,other,1963-09-24,Chennai,Karnataka,226357,2025-10-25,Corporate,2026-04-24 04:12:05,Silver
+CUST00382,Ahana,Verma,ahana.verma18@gmail.com,+919930620382,M,1976-03-28,Chennai,maharashtra,718300,2025-06-12,Home Office,2025-12-05 01:17:51,Silver
+CUST00383,Ananya,Kumar,ananya.kumar16@gmail.com,+91-9470684221,FEMALE,1968-05-07,Kolkata,Gujarat,668740,2025-08-16,Corporate,2026-05-28 22:56:17,Bronze
+CUST00384,Pooja,Gupta,pooja.gupta60@gmail.com,9409637808,male,1967-08-16,Jaipur, MAHARASHTRA,324179,2026-02-09,Home Office,2026-02-18 05:48:34,Gold
+CUST00385,Ishaan,Das,ishaan.das54@gmail.com,9892109271,Female,1961-07-01, Delhi,Gujarat,541691,2026-03-26,Corporate,2026-07-31 19:54:03,Silver
+CUST00386,Rahul,Rao,rahul.rao80@gmail.com,94265 05925,M,1980-11-08,mumbai,delhi,499968,2025-08-12,Consumer,2025-12-06 00:39:47,Silver
+CUST00387,Aadhya,Reddy,aadhya.reddy78@gmail.com,+919288290663,M,1962-10-19,PUNE,Rajasthan,383057,2025-10-15,Consumer,2026-01-02 19:22:28,Silver
+CUST00388,Riya,Verma,riya.verma67@gmail.com,92745 87852,Female,1961-09-11,Bangalore,Tamil Nadu,590291,2025-09-06,Consumer,2025-09-08 09:19:13,Silver
+CUST00389,Neha,Banerjee,neha.banerjee70@gmail.com,99097 74911,M,1990-01-31,PUNE,maharashtra,152028,2025-04-19,Home Office,2026-06-21 05:40:37,Platinum
+CUST00390, Vihaan,Reddy,vihaan.reddy55@gmail.com,91590 91919,MALE,1975-02-12,delhi,Delhi,ABC123,2026-02-23,Corporate,2026-03-29 03:08:40,Silver
+CUST00391,Navya,Singh,navya.singh17@gmail.com,+91-9487690454,M,1989-02-06,PUNE,West Bengal,408478,2025-09-25,Corporate,2026-01-23 13:20:31,Bronze
+CUST00392,Pari,Banerjee,pari.banerjee63@gmail.com,+919409918418,F,1988-03-08,mumbai,Rajasthan,260617,2025-06-11,Corporate,2026-06-15 00:48:01,Platinum
+CUST00393,Sneha,Sen,sneha.sen58@gmail.com,+91 9539655012,F,1991-06-13,Jaipur,Rajasthan,253579,2025-06-04,Consumer,2026-03-28 07:07:47,Gold
+CUST00394,Ishaan,Banerjee,ishaan.banerjee84@gmail.com,+91-9700523461,MALE,2027-01-04,mumbai,delhi,781671,2026-05-10,Corporate,2026-06-03 13:03:37,Bronze
+CUST00395,Rahul,Reddy,rahul.reddy41@gmail.com,,Female,1964-07-16,Hyderabad,Karnataka,703048,2025-12-05,Corporate,2026-08-06 14:15:12,Gold
+CUST00396,Amit,Choudhury,amit.choudhury83@gmail.com,,Female,1963-12-25,mumbai,Karnataka,836960,2025-04-16,Corporate,2025-08-21 02:09:07,Silver
+CUST00397,Vivaan,Mehta,vivaan.mehta16@gmail.com,9668666911,Other,2002-09-26,mumbai,maharashtra,285255,2026-02-27,Corporate,2026-06-30 02:49:38,Silver
+CUST00398,Vikram,Reddy,vikram.reddy78@gmail.com,+919984027553,Male,1979-02-24,PUNE,Tamil Nadu,280949,2025-03-21,Consumer,2025-07-19 14:19:10,Silver
+CUST00399,Navya,Shah,navya.shah98@gmail.com,96644 15423,Other,1967-10-03,Bangalore,Tamil Nadu,232228,2025-04-12,Consumer,2026-04-20 09:12:43,Silver
+CUST00400,Aadhya,Reddy,aadhya.reddy86@gmail.com,+919467268165,Female,2030-06-19, MUMBAI,Delhi,837968,2025-04-21,Home Office,2025-10-14 13:25:25,Gold
+CUST00401,Ishaan,Iyer,ishaan.iyer24@gmail.com,+91-9931819535,F,1967-05-03,Mumbai,Gujarat,601869,2025-04-03,Corporate,2025-05-06 23:41:46,Gold
+CUST00402,Aditya,Reddy,aditya.reddy87@gmail.com,+919314774593,female,2027-08-15,Jaipur,delhi,474734,2025-10-01,Consumer,2026-08-29 16:00:33,Silver
+CUST00403,Navya,Deshmukh,navya.deshmukh84@gmail.com,+919667836278,MALE,1971-09-09,Chennai,Maharashtra,213480,2025-06-16,Home Office,2026-06-19 22:52:27,Silver
+CUST00404,Aadhya,Joshi,aadhya.joshi55@gmail.com,+919555365152,Other,1967-09-05,PUNE,maharashtra,654974,2025-04-16,Corporate,2026-01-22 03:47:11,Gold
+CUST00405,Priya,Reddy,priya.reddy24@gmail.com,95906 41779,Female,1990-03-18, Delhi,Gujarat,558751,2025-05-27,Consumer,2026-06-01 02:27:54,Gold
+CUST00406,Amit,Kumar,amit.kumar23@gmail.com,9661204449,male,1987-04-06,Jaipur,Rajasthan,286920,2025-02-20,Corporate,2025-07-24 21:31:43,Gold
+CUST00407,Ananya,Patel,ananya.patel64@gmail.com,93990 56778,other,2003-10-24,Bangalore,Karnataka,742465,2025-11-11,Corporate,2026-05-28 18:06:13,Platinum
+CUST00408,Krishna,Iyer,krishna.iyer73@gmail.com,9244534648,male,1964-08-22,Kolkata,Maharashtra,511220,2026-04-15,Home Office,2026-06-18 01:59:09,Bronze
+CUST00409,Arjun,Reddy,arjun.reddy76@gmail.com,+91-9951188873,MALE,1993-11-18,Kolkata,Gujarat,470308,2026-02-24,Home Office,2026-03-03 16:53:25,Platinum
+CUST00410,Rohit,Verma,rohit.verma67@gmail.com,+91-9504088307,FEMALE,2027-10-02,Chennai,delhi,282118,2026-01-17,Corporate,2026-03-10 23:21:54,Platinum
+CUST00411,Ishaan,Singh,ishaan.singh94@gmail.com,96791 68164,FEMALE,1970-08-21,Chennai,Maharashtra,628722,2026-04-05,Corporate,2026-08-02 21:01:36,Platinum
+CUST00412,Amit,Kumar,amit.kumar85@gmail.com,+91 9998651200,female,1999-09-27,Mumbai,Karnataka,558946,2025-09-26,Corporate,2026-03-05 01:23:39,Silver
+CUST00413,Aadhya,Verma,aadhya.verma85@gmail.com,9838724998,Female,1971-07-21,Mumbai,Gujarat,593299,2026-05-26,Corporate,2026-09-14 04:58:55,Silver
+CUST00414,Navya,Das,navya.das50@gmail.com,+91 9519082280,other,1993-03-26, MUMBAI,Delhi,637192,2025-09-21,Consumer,2026-05-18 12:05:05,Platinum
+CUST00415,Ishaan,Kumar,ishaan.kumar19@gmail.com,+919675347404,Female,1980-03-25,Hyderabad,West Bengal,764912,2025-03-13,Home Office,2026-06-05 12:31:17,Gold
+CUST00416,Vihaan,Joshi,vihaan.joshi70@gmail.com,9472928235,Female,1980-05-29,Bangalore,Gujarat,544440,2025-11-09,Corporate,2026-07-10 04:31:07,Silver
+CUST00417,Navya,Bose,navya.bose90@gmail.com,93002 94656,FEMALE,1991-10-19,delhi,Gujarat,564794,2026-03-16,Home Office,2026-07-16 10:04:53,Bronze
+CUST00418,Vivaan,Sen,vivaan.sen97@gmail.com,+91-9567495148,female,1964-05-20,Ahmedabad,Delhi,389902,2025-08-11,Home Office,2025-12-14 16:24:26,Gold
+CUST00419,Krishna,Deshmukh,krishna.deshmukh13@gmail.com,+91 9988230184,FEMALE,1989-09-05,Bangalore,Maharashtra,395960,2025-04-16,Consumer,2025-11-03 16:07:02,Gold
+CUST00420,Pooja,Mehta,pooja.mehta72@gmail.com,9159407206,female,1964-04-29,Bangalore,Karnataka,204694,2025-11-05,Home Office,2025-12-29 20:46:31,Gold
+CUST00421,Ayaan,Malhotra,ayaan.malhotra95@gmail.com,99322 74313,Female,1966-02-21, Delhi,Rajasthan,438635,2025-09-13,Home Office,2026-06-27 01:52:30,Platinum
+CUST00422,Diya,Shah,diya.shah37@gmail.com,+91-9571883135,Female,1963-10-22,Kolkata,Gujarat,228449,2025-09-03,Home Office,2026-02-15 09:43:41,Bronze
+CUST00423,Anika,Shah,anika.shah56@gmail.com,+91 9494857051,Male,2001-03-23,Mumbai,Maharashtra,814223,2025-07-06,Corporate,2026-09-08 11:28:33,Silver
+CUST00424,Diya,Reddy,diya.reddy97@gmail.com,+91-9353813127,F,,Bangalore,delhi,356899,2025-08-20,Consumer,2025-12-22 11:13:00,Platinum
+CUST00425,Deepak,Bose,deepak.bose62@gmail.com,9394244475,FEMALE,1988-02-07,PUNE,West Bengal,215273,2025-05-05,Home Office,2025-11-24 05:51:04,Platinum
+CUST00426,Navya,Gupta,navya.gupta51@gmail.com,9129367792,M,2003-08-17,mumbai,Maharashtra,768817,2025-08-26,Corporate,2025-10-29 04:44:07,Bronze
+CUST00427,Vihaan,Nair,vihaan.nair93@gmail.com,+91-9737819952,female,1969-01-31,delhi, MAHARASHTRA,453493,2025-08-07,Consumer,2025-10-12 10:23:35,Silver
+CUST00428,Saanvi,Kumar,saanvi.kumar83@gmail.com,91246 63947,other,1966-01-20,Kolkata,Delhi,286954,2025-02-08,Corporate,2026-06-03 16:27:07,Silver
+CUST00429,Saanvi,Deshmukh,saanvi.deshmukh82@gmail.com,98715 73078,F,1990-11-15,Ahmedabad,Tamil Nadu,323014,2025-05-29,Corporate,2026-01-07 16:00:02,Platinum
+CUST00430,Neha,Choudhury,neha.choudhury37@gmail.com,+919403833764,F,1969-12-06,Mumbai,delhi,356925,2026-04-25,Corporate,2026-06-12 23:38:23,Bronze
+CUST00431,Aadhya,Joshi,,+91-9447082726,MALE,1988-10-20,Jaipur,Rajasthan,209908,2026-03-09,Consumer,2026-03-29 20:57:24,Silver
+CUST00432,Ananya,Shah,ananya.shah95@gmail.com,9742346790,Male,2002-03-02,Bangalore,delhi,813870,2025-10-16,Consumer,2026-05-21 09:34:50,Bronze
+CUST00433,Vivaan,Joshi,vivaan.joshi53@gmail.com,9241647522,female,1989-06-17,mumbai,delhi,156308,2025-04-10,Corporate,2025-11-14 13:55:44,Gold
+CUST00434,Neha,Kumar,neha.kumar88@gmail.com,93832 07928,female,1971-03-24,PUNE,Tamil Nadu,268613,2026-03-08,Home Office,2026-08-26 11:31:39,Silver
+CUST00435,Vivaan,Patel,vivaan@gmail,+91-9601580067,male,1993-09-05,Mumbai,Tamil Nadu,853471,2026-03-12,Corporate,2026-09-06 09:42:55,Platinum
+CUST00436,Anika,Malhotra,anika.malhotra21@gmail.com,+919405067716,M,1978-07-25,Hyderabad,Rajasthan,114327,2026-02-13,Home Office,2026-04-24 16:39:41,Platinum
+CUST00437,Saanvi,Gupta,saanvi.gupta52@gmail.com,,male,2000-03-03, MUMBAI,Karnataka,195001,2025-12-24,Home Office,2026-09-06 14:43:12,Bronze
+CUST00438,Anika,Bose,anika.bose52@gmail.com,98045 60130,FEMALE,1998-09-24,mumbai,Delhi,784910,2025-08-08,Corporate,2025-09-20 21:53:34,Silver
+CUST00439,Neha,Gupta,neha.gupta42@gmail.com,+91-9927723397,male,2027-11-20,mumbai,West Bengal,408777,2026-05-18,Home Office,2026-06-17 14:24:19,Platinum
+CUST00440,Vihaan,Reddy,vihaan.reddy49@gmail.com,+919748017800,female,1985-01-02,Chennai,Delhi,516942,2026-01-06,Corporate,2026-08-12 17:33:06,Gold
+CUST00441,Ahana,Das,ahana.das33@gmail.com,9557432377,Male,1991-07-17,Ahmedabad,Delhi,272603,2026-01-20,Home Office,2026-09-22 05:23:47,Silver
+CUST00442,Rahul,Sen,rahul.sen71@gmail.com,+91 9237213199,MALE,1980-02-09,Hyderabad,Maharashtra,157286,2026-02-03,Consumer,2026-08-21 02:21:28,Silver
+CUST00443,Saanvi,Das,saanvi.das42@gmail.com,9728748729,Other,,Jaipur,Tamil Nadu,301060,2025-11-02,Consumer,2025-12-04 13:34:47,Silver
+CUST00444,Saanvi,Reddy,saanvi.reddy67@gmail.com,+91 9384621456,M,1965-04-28,Jaipur,Rajasthan,816121,2025-03-24,Corporate,2026-05-13 15:38:15,Silver
+CUST00445,Aarav,Sharma ,aarav.sharma68@gmail.com,98062 18351,FEMALE,2001-12-20,PUNE,West Bengal,201893,2025-04-08,Consumer,2025-04-18 22:30:10,Bronze
+CUST00446,Reyansh,Malhotra,reyansh.malhotra13@gmail.com,+919796453883,MALE,2002-08-08,Chennai,Delhi,595937,2025-04-26,Corporate,2026-03-19 18:24:23,Bronze
+CUST00447,Aarav,Malhotra,aarav.malhotra72@gmail.com,95826 64425,MALE,1998-10-01,Bangalore,Maharashtra,217651,2026-05-05,Home Office,2026-07-28 11:58:09,Silver
+CUST00448,Saanvi,Choudhury,saanvi.choudhury47@gmail.com,+91-9529153534,Other,2001-08-11,Ahmedabad,Tamil Nadu,173654,2026-02-15,Consumer,2026-07-29 05:45:26,Gold
+CUST00449,Meera,Rao,meera.rao70@gmail.com,+91 9768615479,FEMALE,1961-06-01,mumbai,delhi,602035,2025-09-25,Corporate,2025-12-24 05:08:15,Platinum
+CUST00450,Navya,Shah,navya.shah94@gmail.com,+91-9415029454,F,2005-10-21,Ahmedabad,Karnataka,279897,2026-04-28,Consumer,2026-06-22 20:19:40,Bronze
+CUST00451,Priya,Gupta,priya.gupta87@gmail.com,+91-9951995296,FEMALE,1974-04-02,Chennai,Maharashtra,486216,2025-07-22,Corporate,2025-11-22 18:26:01,Silver
+CUST00452,Sai,Sen,sai.sen89@gmail.com,+919703422986,FEMALE,1983-02-27,PUNE,Maharashtra,694081,2025-07-27,Consumer,2026-09-01 01:54:57,Silver
+CUST00453,Ahana,Malhotra,ahana.malhotra68@gmail.com,9911495781,male,2001-06-27, MUMBAI,Gujarat,220532,2025-05-10,Home Office,2025-08-10 10:45:15,Bronze
+CUST00454,Sneha,Patel,sneha.patel66@gmail.com,9635143260,M,1982-10-08,mumbai,maharashtra,570439,2025-11-19,Consumer,2026-02-23 04:39:00,Bronze
+CUST00455,Vikram,Choudhury,vikram.choudhury57@gmail.com,+91 9545612096,MALE,1996-01-16,Bangalore,Delhi,559654,2025-11-18,Corporate,2026-05-15 06:23:54,Gold
+CUST00456,Sneha,Sen,sneha@@gmail.com,98705 44763,male,1981-06-03,Bangalore, MAHARASHTRA,522370,2025-01-29,Home Office,2026-06-12 01:15:56,Platinum
+CUST00457,Arjun,Joshi,arjun.joshi94@gmail.com,+91-9417531682,F,1997-09-03,delhi,Karnataka,118287,2025-08-06,Home Office,2025-11-28 09:11:36,Platinum
+CUST00458,Priya,Singh,priya.singh89@gmail.com,+91 9848903745,F,1980-07-08, MUMBAI,Maharashtra,518938,2025-04-08,Home Office,2026-06-02 21:58:32,Platinum
+CUST00459,Ishaan,Patel,ishaan.patel91@gmail.com,91299 47975,other,1980-09-06,Jaipur,West Bengal,225807,2025-02-16,Corporate,2025-09-06 07:40:50,Gold
+CUST00460,Rahul,Sen,rahul.sen25@gmail.com,9714647698,FEMALE,1976-01-25,Jaipur,Rajasthan,768238,2026-02-19,Home Office,2026-05-21 00:44:52,Silver
+CUST00461,Aadhya,Reddy,aadhya.reddy96@gmail.com,95055 15484,MALE,1995-02-22,Hyderabad,Delhi,488817,2025-12-19,Consumer,2026-02-14 18:55:11,Gold
+CUST00462,Priya,Das,priya.das26@gmail.com,9579065046,female,1987-05-29,Hyderabad,Gujarat,523960,2025-07-24,Home Office,2026-08-16 06:25:18,Gold
+CUST00463,Rahul,Das,rahul.das63@gmail.com,92549 90533,M,1991-02-23,mumbai,Gujarat,233793,2025-06-15,Corporate,2026-06-17 19:55:53,Silver
+CUST00464,Vivaan,Nair,vivaan.nair87@gmail.com,9218472553,female,1962-09-28,Chennai, MAHARASHTRA,429737,2025-10-18,Corporate,2026-02-10 00:32:24,Silver
+CUST00465,Anika,Sharma,anika.sharma16@gmail.com,+91 9427667311,MALE,1993-04-06,Mumbai,maharashtra,180847,2025-02-04,Corporate,2026-02-13 10:43:13,Platinum
+CUST00466,Meera,Reddy,meera.reddy70@gmail.com,99951 60803,M,1994-05-07,Ahmedabad,Tamil Nadu,809632,2025-12-15,Consumer,2026-09-24 11:32:43,Bronze
+CUST00467,Ananya,Gupta,ananya.gupta39@gmail.com,94639 96201,Male,1990-02-25,Jaipur,delhi,283660,2025-01-20,Home Office,2026-05-24 16:28:07,Bronze
+CUST00468,Pooja,Reddy,pooja.reddy34@gmail.com,96817 90182,Male,1995-07-04, Delhi,Tamil Nadu,129571,2025-04-04,Home Office,2026-05-22 12:49:09,Silver
+CUST00469,Sai,Sharma,sai.sharma84@gmail.com,99664 24854,other,2000-01-28,Mumbai,Tamil Nadu,134394,2025-09-22,Corporate,2025-12-01 03:42:21,Bronze
+CUST00470,Saanvi,Sharma,saanvi.sharma24@gmail.com,+919681731069,Female,1977-05-22, MUMBAI, MAHARASHTRA,537061,2025-05-12,Consumer,2026-09-01 16:36:06,Gold
+CUST00471, Ananya,Nair,ananya.nair50@gmail.com,+91 9448126205,F,1968-03-25,Mumbai,Delhi,736005,2026-04-01,Consumer,2026-07-05 21:49:27,Gold
+CUST00472,Navya,Sen,navya.sen69@gmail.com,+91-9170285223,Male,1975-11-27,Mumbai,delhi,724647,2025-03-20,Consumer,2026-05-25 16:46:07,Silver
+CUST00473,Rahul,Iyer,rahul.iyer91@gmail.com,+919940612700,female,1971-06-12, Delhi,Gujarat,692120,2025-12-17,Consumer,2025-12-18 06:24:41,Platinum
+CUST00474,Vikram,Bose,vikram.bose31@gmail.com,,FEMALE,1977-01-26,Ahmedabad,West Bengal,772918,2025-06-15,Home Office,2026-07-16 15:14:08,Bronze
+CUST00475,Ishaan,Verma,ishaan.verma21@gmail.com,+919232045510,Other,1989-05-24, Delhi,Rajasthan,443766,2025-09-24,Home Office,2026-01-03 15:14:26,Gold
+CUST00476,Rohit,Bose,rohit.bose36@gmail.com,+91 9743722897,Male,1969-02-05,Ahmedabad,Maharashtra,114488,2025-01-08,Home Office,2025-05-23 05:30:14,Bronze
+CUST00477,Saanvi,Banerjee,saanvi.banerjee78@gmail.com,9796962892,Other,2030-07-16,Ahmedabad,Tamil Nadu,480142,2025-10-20,Home Office,2026-03-08 08:38:52,Platinum
+CUST00478,Diya,Nair,diya.nair25@gmail.com,+91-9307222353,Male,1961-05-06,delhi,Karnataka,753242,2026-05-01,Corporate,2026-09-18 00:29:20,Bronze
+CUST00479,Ayaan,Shah,ayaan@.com,98591 01116,MALE,,Ahmedabad,West Bengal,400820,2026-03-19,Home Office,2026-06-22 23:05:38,Gold
+CUST00480,Sai,Banerjee,sai.banerjee87@gmail.com,91701 80435,M,1968-09-02,delhi,Rajasthan,658490,2025-08-02,Consumer,2025-08-20 00:47:07,Silver
+CUST00481,Priya,Banerjee,priya.banerjee10@gmail.com,9788232308,female,1987-09-08,delhi,maharashtra,599252,2026-01-20,Corporate,2026-08-09 19:21:57,Silver
+CUST00482,Rohit,Verma,rohit.verma63@gmail.com,9439562230,F,1965-07-26,Hyderabad,Maharashtra,346589,2025-11-26,Consumer,2026-03-03 06:36:11,Bronze
+CUST00483,Reyansh,Nair,reyansh.nair13@gmail.com,9967646831,other,1982-10-01,delhi,Delhi,359938,2025-09-22,Consumer,2026-08-07 19:11:27,Bronze
+CUST00484,Ananya,Sen,ananya.sen89@gmail.com,+91-9202725681,other,1964-02-17,Mumbai,West Bengal,837045,2025-02-20,Consumer,2025-04-09 16:01:08,Silver
+CUST00485,Deepak,Bose,deepak.bose23@gmail.com,9700498762,Female,1987-05-02, MUMBAI,Rajasthan,354436,2026-04-11,Home Office,2026-08-10 20:59:33,Silver
+CUST00486,Aarav,Bose,aarav.bose89@gmail.com,9798921553,FEMALE,2000-01-01, Delhi,maharashtra,734087,2025-02-22,Home Office,2025-07-22 20:21:23,Gold
+CUST00487,Ankit,Joshi,ankit.joshi71@gmail.com,+919577411727,MALE,1962-12-31,Mumbai, MAHARASHTRA,567020,2026-02-03,Home Office,2026-06-22 11:46:09,Bronze
+CUST00488,Ishaan,Joshi,ishaan.joshi49@gmail.com,+91 9412527533,Male,2004-10-02,Ahmedabad, MAHARASHTRA,641742,2026-03-11,Consumer,2026-08-22 10:47:49,Bronze
+CUST00489,Aadhya,Patel,aadhya.patel18@gmail.com,+91-9817109365,FEMALE,1982-07-14,Hyderabad,Rajasthan,756031,2025-08-21,Corporate,2026-05-03 23:26:26,Gold
+CUST00490,Sai,Malhotra,sai@@gmail.com,+919785870900,MALE,1974-07-03, Delhi,Tamil Nadu,457619,2025-10-19,Consumer,2026-03-24 10:41:14,Silver
+CUST00491,Sai,Sharma,sai.sharmagmail.com,+919572884620,other,1984-06-28,Mumbai,Maharashtra,407902,2025-05-16,Consumer,2025-12-05 18:20:26,Platinum
+CUST00492,Neha,Nair,neha.nair12@gmail.com,9381093372,Male,1969-05-04,Bangalore,maharashtra,330450,2025-08-25,Corporate,2026-02-28 11:40:49,Gold
+CUST00493,Aadhya,Kumar,aadhya.kumar89@gmail.com,9863368317,male,1968-11-24, Delhi,Delhi,838083,2025-10-18,Corporate,2026-06-08 12:49:39,Silver
+CUST00494,Saanvi,Shah,saanvi.shah78@gmail.com,+91 9259522516,MALE,1979-01-22,mumbai,Gujarat,622744,2025-06-12,Home Office,2025-08-14 18:01:13,Bronze
+CUST00495,Pooja,Choudhury,pooja.choudhury59@gmail.com,97926 40312,female,1991-08-05,mumbai,Karnataka,661002,2026-01-11,Home Office,2026-07-22 13:06:21,Silver
+CUST00496,Anika,Mehta,anika.mehta93@gmail.com,+919335714544,FEMALE,1986-12-10, Delhi,delhi,505401,2026-03-20,Consumer,2026-09-18 10:51:24,Bronze
+CUST00497,Vikram,Kumar,vikram.kumar47@gmail.com,+919477500732,other,1994-11-10,Hyderabad,Karnataka,600263,2025-12-02,Corporate,2026-04-24 15:56:57,Platinum
+CUST00498,Pooja,Choudhury,pooja.choudhury39@gmail.com,+91 9181484595,male,1994-02-22,Chennai,Gujarat,399853,2025-06-26,Consumer,2025-09-27 00:02:57,Platinum
+CUST00499,Aditya,Kumar,aditya.kumar52@gmail.com,+91 9900164591,MALE,1969-05-19,Jaipur,Gujarat,118949,2025-08-21,Corporate,2026-05-17 20:17:53,Bronze
+CUST00500,Pooja,Singh,pooja.singh11@gmail.com,+919650450492,F,1974-04-13,Kolkata,Delhi,689460,2025-12-31,Home Office,2026-06-28 06:29:09,Silver
+CUST00501,Ananya,Gupta,ananya.gupta99@gmail.com,+91-9571029923,Other,2027-08-04,Hyderabad, MAHARASHTRA,120152,2026-01-24,Home Office,2026-06-10 22:38:40,Platinum
+CUST00502,Ananya,Shah,ananya.shah98@gmail.com,94501 25214,Male,1962-03-11,mumbai, MAHARASHTRA,456293,2026-03-18,Home Office,2026-08-20 12:08:05,Bronze
+CUST00503,Ahana,Deshmukh,ahana.deshmukh60@gmail.com,+919514930176,FEMALE,1998-10-03,Kolkata,delhi,219381,2026-03-06,Consumer,2026-03-18 21:44:31,Bronze
+CUST00504,Vikram,Deshmukh,vikram.deshmukh59@gmail.com,+91 9350224182,Other,1963-11-29,PUNE,Gujarat,12345,2025-09-11,Corporate,2026-02-10 16:50:17,Silver
+CUST00505,Sai,Malhotra,sai.malhotra59@gmail.com,+919321705882,MALE,2005-03-28,Kolkata, MAHARASHTRA,435388,2026-04-02,Consumer,2026-07-08 21:20:48,Platinum
+CUST00506,Priya,Bose ,priya.bose18@gmail.com,+919749451237,Other,1998-09-26,Kolkata,Tamil Nadu,150984,2025-03-12,Corporate,2026-07-27 18:09:57,Bronze
+CUST00507,Ankit,Bose,ankit.bose60@gmail.com,+919969714515,F,2002-01-13,Jaipur,West Bengal,801096,2025-05-23,Home Office,2026-08-08 03:24:23,Silver
+CUST00508,Vihaan,Singh,vihaan.singh30@gmail.com,97743 99203,Female,1964-07-16,Jaipur,Delhi,541257,2026-03-06,Consumer,2026-07-27 14:12:58,Silver
+CUST00509,Aditya,Malhotra,aditya.malhotra31@gmail.com,9643382699,FEMALE,2029-09-19,Jaipur,Tamil Nadu,528741,2025-05-31,Corporate,2025-06-30 08:06:57,Bronze
+CUST00510,Aarav,Mehta,aarav.mehta69@gmail.com,9173269109,Other,1989-10-14,mumbai,Tamil Nadu,279206,2025-05-13,Consumer,2026-08-27 23:05:52,Silver
+CUST00511,Vihaan,Nair,vihaan.nair19@gmail.com,+91 9112037305,M,1972-02-09, Delhi,Maharashtra,668156,2025-06-17,Corporate,2025-07-24 23:52:20,Silver
+CUST00512,Vikram,Sen,vikram.sen59@gmail.com,9576727072,other,,Bangalore,Delhi,502844,2025-07-05,Consumer,2025-09-14 06:16:49,Bronze
+CUST00513, Aarav,Das ,aarav.das97@gmail.com,9336832921,M,1962-12-29,Bangalore,Gujarat,453033,2025-09-08,Home Office,2026-05-10 01:15:21,Platinum
+CUST00514,Reyansh,Deshmukh,reyansh.deshmukh25@gmail.com,+91 9213693493,female,1987-05-14,Ahmedabad,Karnataka,12345,2025-06-15,Corporate,2025-12-03 05:10:19,Platinum
+CUST00515,Aditya,Mehta,aditya.mehta37@gmail.com,99241 45310,FEMALE,1966-12-05,Jaipur,Gujarat,706855,2025-05-14,Corporate,2025-07-26 18:23:46,Platinum
+CUST00516,Ahana,Rao,ahana.rao98@gmail.com,+91 9288260274,FEMALE,1961-03-14,Hyderabad,Rajasthan,645850,2026-05-13,Home Office,2026-06-27 16:40:50,Silver
+CUST00517,Navya,Joshi ,navya.joshigmail.com,+91-9892328358,MALE,1964-01-29,mumbai,Karnataka,321825,2025-04-28,Corporate,2025-10-04 13:21:47,Bronze
+CUST00518,Rahul,Verma,rahul.verma66@gmail.com,+919452928046,Female,1962-09-11,Chennai,West Bengal,412468,2025-01-19,Consumer,2026-08-11 15:25:15,Bronze
+CUST00519,Ananya,Rao,ananya.rao95@gmail.com,+919960552321,other,1995-06-27,PUNE, MAHARASHTRA,116337,2025-02-20,Corporate,2025-04-15 13:09:33,Bronze
+CUST00520,Reyansh,Verma,reyansh.verma21@gmail.com,+919689320084,MALE,1989-01-02,Jaipur,Tamil Nadu,317132,2025-07-10,Corporate,2025-11-24 06:43:41,Bronze
+CUST00521,Ahana,Shah,ahana.shah35@gmail.com,+91-9938902595,male,1984-06-20,Bangalore,West Bengal,572817,2025-11-25,Home Office,2026-07-19 23:36:48,Bronze
+CUST00522,Neha,Das,neha.das12@gmail.com,9558914339,Female,1970-05-25,Chennai, MAHARASHTRA,596174,2025-08-26,Corporate,2026-04-03 13:07:01,Platinum
+CUST00523,Diya,Banerjee,diya.banerjee70@gmail.com,9303609169,Male,1985-06-20,Kolkata,West Bengal,523821,2025-10-17,Corporate,2026-04-25 22:52:19,Platinum
+CUST00524,Ishaan,Joshi,ishaan.joshi25@gmail.com,+919707317600,MALE,1977-05-15,Jaipur,Karnataka,622358,2026-05-09,Home Office,2026-07-19 16:43:33,Bronze
+CUST00525,Priya,Verma,priya.verma41@gmail.com,+91 9973087834,Male,2003-11-30,mumbai,delhi,824150,2025-04-25,Corporate,2025-11-03 15:16:24,Silver
+CUST00526,Ahana,Joshi,,+91-9791916428,F,1965-06-20,Chennai,Delhi,283879,2025-11-28,Corporate,2026-08-24 05:50:49,Silver
+CUST00527,Ishaan,Sen,ishaan.sen49@gmail.com,9907950191,male,1983-06-08,mumbai,delhi,527303,2025-08-28,Consumer,2026-01-06 02:35:08,Bronze
+CUST00528, Vikram,Choudhury,vikram.choudhury77@gmail.com,+91-9409602992,M,1972-09-06,Jaipur, MAHARASHTRA,300825,2026-01-26,Consumer,2026-07-20 09:51:43,Bronze
+CUST00529,Meera,Patel,meera.patel34@gmail.com,+91-9538937500,other,2003-04-23,mumbai,maharashtra,506078,2025-04-07,Corporate,2025-05-27 18:10:18,Bronze
+CUST00530,Ananya,Sharma,ananya.sharma22@gmail.com,,Female,1960-06-28,Ahmedabad,Rajasthan,153893,2025-03-17,Consumer,2026-04-26 22:17:03,Platinum
+CUST00531,Pooja,Sharma,pooja.sharma44@gmail.com,+91 9608128757,other,1985-03-25,Ahmedabad,Karnataka,361236,2025-10-08,Home Office,2026-03-12 07:28:33,Silver
+CUST00532,Diya,Deshmukh,diya.deshmukh22@gmail.com,,F,1969-06-13,Mumbai,Rajasthan,666406,2025-08-06,Home Office,2026-02-15 02:43:46,Gold
+CUST00533,Aadhya,Bose,aadhya.bose62@gmail.com,+91 9103359850,Male,1963-02-11,Jaipur,Karnataka,354904,2026-04-17,Corporate,2026-07-03 23:47:13,Platinum
+CUST00534,Neha,Deshmukh,neha.deshmukh70@gmail.com,9851082116,F,1973-04-10,Jaipur, MAHARASHTRA,709673,2026-01-27,Consumer,2026-03-18 14:51:45,Silver
+CUST00535,Anika,Gupta,anika.gupta69@gmail.com,9579196694,FEMALE,1976-05-23, Delhi,Delhi,801793,2025-03-11,Consumer,2026-02-12 06:07:49,Silver
+CUST00536,Priya,Sharma,priya.sharma45@gmail.com,+91-9376626542,male,1996-05-17,Ahmedabad,Tamil Nadu,835389,2025-09-16,Consumer,2026-09-13 08:40:51,Silver
+CUST00537,Meera,Deshmukh,meera.deshmukh58@gmail.com,99429 75252,F,1975-03-19,delhi,maharashtra,226794,2025-03-11,Corporate,2026-06-14 05:05:46,Bronze
+CUST00538,Deepak,Patel,deepak.patel50@gmail.com,9719459743,Female,1996-06-12, Delhi,West Bengal,445170,2025-10-11,Home Office,2026-08-16 21:03:51,Gold
+CUST00539,Arjun,Sen,arjun.sen11@gmail.com,+91 9594568456,M,1980-03-13, Delhi,Tamil Nadu,264587,2026-04-13,Corporate,2026-05-11 11:56:04,Silver
+CUST00540,Neha,Verma,neha.verma25@gmail.com,98586 22505,FEMALE,1974-09-05,Kolkata,delhi,505008,2025-02-15,Corporate,2025-06-14 06:55:18,Platinum
+CUST00541,Vikram,Patel,vikram.patel16@gmail.com,+919933265252,FEMALE,1980-05-09,Ahmedabad, MAHARASHTRA,684560,2025-11-01,Corporate,2026-04-14 18:08:08,Platinum
+CUST00542,Amit,Choudhury,amit.choudhury77@gmail.com,+919403186123,Other,1968-11-27,PUNE,Rajasthan,166753,2025-08-25,Corporate,2025-12-30 07:50:10,Gold
+CUST00543,Meera,Iyer,meera.iyer36@gmail.com,+919903569612,Male,1999-03-05, MUMBAI, MAHARASHTRA,557859,2025-05-11,Consumer,2025-07-25 06:21:42,Silver
+CUST00544,Aadhya,Choudhury,aadhya.choudhury93@gmail.com,+919565812219,F,1968-01-31, Delhi,West Bengal,831404,2026-04-09,Consumer,2026-08-13 19:23:51,Bronze
+CUST00545,Neha,Singh,neha.singh21@gmail.com,+91-9978530356,Female,1990-04-16,PUNE,Maharashtra,196652,2025-04-05,Corporate,2026-08-16 23:56:32,Silver
+CUST00546,Amit,Sen,amit.sen71@gmail.com,9900323451,other,1992-12-12,Ahmedabad,West Bengal,241320,2025-03-19,Corporate,2025-05-07 13:24:47,Platinum
+CUST00547,Priya,Banerjee,,96759 73140,FEMALE,1999-10-16,Chennai,maharashtra,327542,2026-05-27,Consumer,2026-07-01 14:49:16,Gold
+CUST00548,Sneha,Deshmukh ,sneha.deshmukh50@gmail.com,92383 15117,MALE,1965-12-22,Chennai,delhi,146706,2025-03-07,Consumer,2026-04-04 20:32:20,Bronze
+CUST00549,Ishaan,Kumar,ishaan.kumar94@gmail.com,,Female,1995-05-07,delhi,Gujarat,715104,2026-01-16,Home Office,2026-05-18 11:17:31,Silver
+CUST00550,Navya,Kumar,navya.kumar94@gmail.com,9354584572,MALE,1974-08-24,mumbai,Rajasthan,730530,2025-10-06,Corporate,2025-11-25 19:05:34,Gold
+CUST00551,Neha,Deshmukh,neha.deshmukh93@gmail.com,+91-9529560480,male,1988-12-10,Jaipur, MAHARASHTRA,183986,2026-05-05,Home Office,2026-06-26 07:29:42,Silver
+CUST00552,Rahul,Patel,rahul.patel75@gmail.com,+919550634913,female,1989-07-04,Bangalore,Maharashtra,369521,2025-03-02,Corporate,2025-06-07 00:16:15,Bronze
+CUST00553,Riya,Malhotra,riya.malhotra21@gmail.com,+91 9458111525,M,1975-05-13,delhi,Maharashtra,343021,2025-10-22,Consumer,2026-08-22 01:49:27,Bronze
+CUST00554,Deepak,Malhotra,deepak.malhotra72@gmail.com,94746 28744,Female,2001-05-03, MUMBAI,Maharashtra,518487,2025-05-21,Corporate,2026-07-08 07:15:09,Gold
+CUST00555,Riya,Deshmukh,riya.deshmukh43@gmail.com,,Other,2004-09-29,mumbai, MAHARASHTRA,390358,2025-02-11,Home Office,2026-06-22 12:53:52,Bronze
+CUST00556,Aadhya,Shah,aadhya.shah66@gmail.com,+91-9957349455,Other,1989-02-09,Chennai,Delhi,201166,2025-08-26,Corporate,2026-04-26 07:46:54,Platinum
+CUST00557,Sneha,Gupta,sneha.gupta21@gmail.com,9161645155,Female,1993-07-15,Mumbai,West Bengal,253056,2026-01-08,Corporate,2026-07-27 13:41:22,Silver
+CUST00558,Amit,Banerjee,amit.banerjee10@gmail.com,98544 02110,female,2004-12-28,Chennai,Rajasthan,580446,2025-05-11,Home Office,2026-06-22 12:43:24,Gold
+CUST00559,Ankit,Shah,ankit.shah55@gmail.com,+91-9553894576,F,1967-09-15,PUNE,Delhi,233591,2025-08-14,Corporate,2026-08-24 13:17:43,Bronze
+CUST00560,Ishaan,Mehta,ishaan.mehta37@gmail.com,97903 87684,Male,2002-01-14,Kolkata,Maharashtra,755431,2025-12-24,Corporate,2026-04-19 10:26:51,Gold
+CUST00561, Aadhya,Malhotra,aadhya.malhotra55@gmail.com,,F,1965-10-07,Chennai,Gujarat,540671,2025-04-07,Corporate,2025-04-12 13:24:51,Silver
+CUST00562,Arjun,Mehta,arjun.mehta64@gmail.com,+91 9675984517,male,2004-08-28,Kolkata, MAHARASHTRA,565041,2025-01-05,Corporate,2026-07-10 09:07:07,Silver
+CUST00563,Reyansh,Malhotra,reyansh.malhotra52@gmail.com,+919272134233,FEMALE,1978-02-01, MUMBAI,West Bengal,629641,2025-04-09,Corporate,2026-02-14 13:46:15,Gold
+CUST00564,Navya,Singh,navya.singh26@gmail.com,9636871915,MALE,1983-04-13,Bangalore,Rajasthan,565427,2026-01-08,Corporate,2026-04-28 13:57:31,Platinum
+CUST00565,Anika,Gupta,anika.gupta75@gmail.com,9401870524,Female,1976-10-31,Ahmedabad,West Bengal,850778,2025-03-22,Home Office,2026-04-16 05:27:07,Silver
+CUST00566,Ahana,Nair,ahana.nair29@gmail.com,+91-9242051544,Male,1973-01-28,mumbai,West Bengal,12345,2025-06-05,Consumer,2025-07-14 15:30:04,Bronze
+CUST00567,Diya,Das,diya.das38@gmail.com,9614531970,Other,1963-07-07,delhi,maharashtra,404185,2025-09-30,Home Office,2026-03-12 00:18:18,Silver
+CUST00568,Ayaan,Rao,,+919445357898,Female,2001-04-10, MUMBAI,West Bengal,625152,2025-10-10,Corporate,2026-02-05 14:27:20,Gold
+CUST00569,Vihaan,Malhotra,vihaan.malhotra26@gmail.com,+91 9895956334,other,1985-04-14, Delhi,delhi,512705,2025-03-09,Consumer,2025-06-19 02:31:51,Gold
+CUST00570,Rahul,Deshmukh,rahul.deshmukh93@gmail.com,+91-9307154333,male,1997-03-12,Hyderabad,Karnataka,607234,2025-06-06,Home Office,2025-10-04 06:11:48,Platinum
+CUST00571,Vivaan,Iyer,vivaan.iyer81@gmail.com,+91-9493002419,male,1964-08-09,Kolkata,West Bengal,638346,2025-01-17,Consumer,2026-04-28 08:48:40,Bronze
+CUST00572,Krishna,Iyer,krishna.iyer98@gmail.com,+91-9974598695,FEMALE,1994-12-10, MUMBAI, MAHARASHTRA,644018,2025-10-26,Home Office,2026-08-25 01:21:28,Bronze
+CUST00573,Diya,Singh,,9735776226,Other,1995-09-24,delhi,delhi,420760,2025-07-28,Home Office,2025-10-29 01:43:26,Silver
+CUST00574,Sai,Shah,sai@@gmail.com,+919398238769,Female,1963-07-04,Ahmedabad,Delhi,330173,2026-02-20,Consumer,2026-02-20 18:37:12,Gold
+CUST00575,Rahul,Kumar,rahul.kumar80@gmail.com,+91-9243464363,other,1963-11-24,Ahmedabad,Maharashtra,339932,2025-08-06,Consumer,2026-02-21 01:44:35,Silver
+CUST00576,Aarav,Banerjee,aarav.banerjee84@gmail.com,+91-9900764212,Female,2003-03-01,Hyderabad,Gujarat,573665,2025-06-21,Corporate,2026-01-16 03:41:01,Platinum
+CUST00577,Reyansh,Joshi,reyansh.joshi67@gmail.com,+91-9879843791,female,1992-08-05, MUMBAI,Tamil Nadu,304016,2025-05-17,Consumer,2026-08-03 06:07:59,Bronze
+CUST00578,Anika,Nair ,anika.nair32@gmail.com,98380 54504,MALE,1964-11-25,Bangalore,Delhi,786457,2025-11-09,Consumer,2026-08-17 22:15:13,Bronze
+CUST00579,Navya,Iyer,navya.iyer58@gmail.com,9218149731,Male,1965-09-08,delhi, MAHARASHTRA,738766,2025-01-11,Consumer,2026-09-18 09:13:31,Silver
+CUST00580,Vihaan,Banerjee,vihaan.banerjee35@gmail.com,99156 91332,FEMALE,1980-12-01,PUNE,Tamil Nadu,168590,2026-02-27,Home Office,2026-06-11 00:56:36,Platinum
+CUST00581,Rahul,Banerjee,rahul.banerjee47@gmail.com,+91-9998167196,M,, Delhi,Maharashtra,514104,2025-04-25,Corporate,2026-09-16 12:10:43,Bronze
+CUST00582,Ishaan,Shah,ishaan.shah24@gmail.com,+919218257262,male,1979-03-06,PUNE,maharashtra,234100,2025-10-08,Consumer,2026-09-20 19:33:25,Silver
+CUST00583,Vivaan,Deshmukh,vivaan.deshmukh33@gmail.com,+91 9261297535,other,1983-09-16, MUMBAI,delhi,803876,2025-10-14,Corporate,2026-08-25 13:12:29,Gold
+CUST00584,Deepak,Gupta,deepak.gupta93@gmail.com,+91-9258677766,FEMALE,1992-07-22, MUMBAI,maharashtra,402004,2025-04-23,Consumer,2025-12-30 06:57:20,Silver
+CUST00585,Arjun,Nair,arjun.nair71@gmail.com,95444 69356,female,2004-07-02, Delhi,West Bengal,631250,2026-02-23,Home Office,2026-09-02 18:21:15,Platinum
+CUST00586,Riya,Banerjee,riya.banerjee63@gmail.com,+919933859910,male,1960-03-12, Delhi,Maharashtra,606948,2025-04-14,Consumer,2025-05-31 00:57:02,Gold
+CUST00587,Deepak,Kumar,deepak.kumar27@gmail.com,92547 69407,F,1975-04-14,Mumbai, MAHARASHTRA,839579,2025-04-22,Corporate,2025-05-12 14:16:55,Gold
+CUST00588,Priya,Das,priya.das19@gmail.com,+919737722802,Male,1969-08-12, MUMBAI,Delhi,706832,2025-11-20,Consumer,2026-09-13 18:14:13,Gold
+CUST00589,Sai,Choudhury,sai.choudhury48@gmail.com,+91 9875840127,FEMALE,1960-11-24,delhi,maharashtra,783663,2025-01-25,Home Office,2026-09-01 08:52:33,Platinum
+CUST00590,Sai,Sen,sai.sen68@gmail.com,+91 9990688422,other,1975-06-20,Bangalore, MAHARASHTRA,206403,2026-02-10,Corporate,2026-03-30 15:48:40,Gold
+CUST00591,Neha,Patel,neha.patel81@gmail.com,+91-9182902790,FEMALE,2003-09-06,Bangalore,West Bengal,499524,2026-05-18,Corporate,2026-06-25 01:53:15,Silver
+CUST00592,Krishna,Malhotra,krishna.malhotra52@gmail.com,,Female,1967-03-31, MUMBAI,Delhi,434136,2025-05-26,Home Office,2025-10-30 12:14:30,Silver
+CUST00593,Rahul,Verma,rahul.verma15@gmail.com,+91-9948498387,Male,1966-05-05,delhi,Maharashtra,406121,2025-11-06,Home Office,2026-01-20 22:14:52,Bronze
+CUST00594,Ananya,Singh,ananya.singh22@gmail.com,98961 27318,male,1970-03-21,Mumbai,Rajasthan,610122,2026-04-01,Consumer,2026-05-27 18:33:47,Gold
+CUST00595,Sai,Iyer,sai.iyer39@gmail.com,+919967020791,M,1994-02-18,Chennai,Rajasthan,468000,2025-12-14,Consumer,2026-04-25 05:32:15,Bronze
+CUST00596,Ishaan,Kumar,ishaan@.com,97553 98297,male,1998-07-30,Ahmedabad,Tamil Nadu,125668,2025-04-21,Corporate,2026-06-20 18:01:53,Silver
+CUST00597,Sneha,Gupta,sneha.gupta47@gmail.com,94007 73683,female,1964-11-03,mumbai,Tamil Nadu,606251,2025-07-18,Corporate,2025-11-04 22:48:08,Bronze
+CUST00598,Vihaan,Joshi,vihaan.joshi62@gmail.com,+919830772348,FEMALE,2002-07-04,PUNE,Karnataka,543266,2026-01-28,Corporate,2026-05-11 01:10:46,Silver
+CUST00599,Ankit,Verma,ankit.verma41@gmail.com,9702154855,M,1979-10-12,Bangalore, MAHARASHTRA,186524,2025-06-23,Corporate,2026-06-17 07:28:27,Platinum
+CUST00600,Amit,Gupta,amit.gupta69@gmail.com,9293567046,F,1973-07-28,Bangalore,Karnataka,469058,2026-04-15,Corporate,2026-05-26 17:12:51,Bronze
+CUST00601,Priya,Choudhury,priya.choudhury70@gmail.com,+91 9329211822,other,2029-07-22,Bangalore,Maharashtra,489053,2025-12-01,Corporate,2026-02-21 23:03:09,Platinum
+CUST00602,Vivaan,Patel,vivaan.patel44@gmail.com,9289091970,M,1987-07-26, MUMBAI,delhi,583350,2025-11-23,Home Office,2026-02-14 03:47:05,Bronze
+CUST00603,Amit,Mehta,amit.mehta64@gmail.com,+91 9908716628,M,1988-07-08,Kolkata,Tamil Nadu,278495,2025-12-06,Corporate,2026-09-01 08:33:11,Gold
+CUST00604,Meera,Singh,meera.singh35@gmail.com,98172 19263,other,2005-03-10,Jaipur,Karnataka,12345,2025-12-23,Consumer,2026-07-05 05:11:43,Silver
+CUST00605,Sneha,Rao,sneha.rao76@gmail.com,+919583784000,FEMALE,1999-05-11, MUMBAI,Maharashtra,306773,2025-11-23,Home Office,2026-06-23 10:32:34,Platinum
+CUST00606,Rohit,Nair,rohit.nair34@gmail.com,9719373399,female,1961-02-06,delhi,delhi,240805,2026-01-23,Home Office,2026-07-19 18:40:27,Silver
+CUST00607,Saanvi,Das,saanvi.das52@gmail.com,+91-9288778639,F,1997-08-12,Hyderabad, MAHARASHTRA,510099,2025-08-10,Home Office,2026-07-16 04:46:43,Platinum
+CUST00608,Rahul,Reddy,rahul.reddy22@gmail.com,9965371229,male,2001-12-08,Bangalore,maharashtra,764129,2026-02-28,Consumer,2026-08-19 13:54:57,Gold
+CUST00609,Navya,Joshi,navya.joshi37@gmail.com,95881 55117,F,1991-12-15, MUMBAI,Karnataka,596484,2025-11-17,Home Office,2026-08-18 01:52:43,Bronze
+CUST00610, Pooja,Singh,pooja.singh46@gmail.com,+91 9807254247,Female,1988-03-21,Ahmedabad,Delhi,INVALID_PIN,2025-11-18,Consumer,2025-11-25 00:38:48,Silver
+CUST00611,Aarav,Iyer,aarav.iyer86@gmail.com,92829 77147,F,1986-08-19, Delhi,Rajasthan,164087,2026-03-25,Corporate,2026-04-19 20:33:06,Bronze
+CUST00612,Rahul,Singh,rahul.singh76@gmail.com,9348001621,M,2002-12-20,Hyderabad,West Bengal,767791,2025-07-22,Home Office,2025-11-22 16:00:24,Platinum
+CUST00613,Ananya,Patel ,,9264334700,other,1965-05-11,Hyderabad,West Bengal,ABC123,2025-04-12,Corporate,2026-08-18 04:50:29,Bronze
+CUST00614,Rahul,Kumar,rahul.kumar34@gmail.com,+91-9363339926,Female,1978-09-17, MUMBAI, MAHARASHTRA,779397,2026-03-26,Consumer,2026-04-17 12:55:49,Platinum
+CUST00615,Pari,Deshmukh,pari.deshmukh33@gmail.com,+91 9630691582,MALE,1993-05-31,Mumbai,West Bengal,766076,2025-03-01,Consumer,2026-08-17 03:27:02,Platinum
+CUST00616,Saanvi,Singh,saanvi.singh30@gmail.com,+919110888052,other,1962-02-20, MUMBAI,Karnataka,617418,2026-04-22,Home Office,2026-08-07 00:40:36,Bronze
+CUST00617,Aarav,Nair,aarav.nair87@gmail.com,,Male,1970-05-14, Delhi,Karnataka,337497,2025-01-23,Corporate,2025-05-11 12:54:52,Platinum
+CUST00618,Ayaan,Gupta,ayaan.gupta71@gmail.com,+91 9198751865,Other,1991-10-13,Jaipur,Tamil Nadu,529370,2025-05-30,Corporate,2025-10-12 06:59:26,Silver
+CUST00619,Reyansh,Mehta,reyansh.mehta85@gmail.com,+919952657874,FEMALE,1990-05-12,Bangalore,Rajasthan,444233,2026-04-29,Consumer,2026-08-25 18:06:17,Silver
+CUST00620,Diya,Das,diya.das18@gmail.com,91362 49528,Female,1979-12-21,Hyderabad,Gujarat,141395,2025-03-31,Consumer,2025-12-06 16:26:34,Silver
+CUST00621,Saanvi,Nair,saanvi.nair57@gmail.com,9437641228,Male,1960-09-27,Jaipur,Karnataka,705035,2025-09-07,Consumer,2026-04-13 21:12:19,Gold
+CUST00622,Aditya,Singh,aditya.singh81@gmail.com,9752732351,other,1988-09-12,Ahmedabad,West Bengal,445672,2025-06-03,Consumer,2025-07-12 11:30:57,Bronze
+CUST00623,Pooja,Choudhury,pooja.choudhury25@gmail.com,+91 9745781277,other,1999-03-23,Mumbai,delhi,12345,2026-03-24,Consumer,2026-09-17 05:29:07,Gold
+CUST00624,Pari,Reddy,pari.reddygmail.com,9117472245,FEMALE,1988-03-30,Jaipur,delhi,472624,2025-11-07,Consumer,2026-06-12 01:27:04,Gold
+CUST00625,Rohit,Rao,rohit.rao68@gmail.com,9788372804,female,1966-12-28,Mumbai,Delhi,120902,2025-04-18,Consumer,2025-12-25 12:43:32,Gold
+CUST00626,Sneha,Das,sneha.das57@gmail.com,9677198900,Male,1962-12-06, MUMBAI,Maharashtra,188688,2025-07-24,Corporate,2026-05-15 15:40:31,Silver
+CUST00627,Krishna,Nair,krishna.nair50@gmail.com,99085 64991,F,2005-06-22, MUMBAI,Gujarat,715957,2026-01-07,Home Office,2026-07-16 13:18:00,Bronze
+CUST00628,Krishna,Rao,krishna.rao47@gmail.com,94790 41274,MALE,1974-01-04,Jaipur,maharashtra,628632,2025-02-16,Consumer,2025-02-27 00:10:57,Silver
+CUST00629,Amit,Patel,amit.patel53@gmail.com,97340 69344,Other,1981-03-21,Jaipur,Tamil Nadu,639019,2025-03-24,Consumer,2025-09-10 00:05:55,Gold
+CUST00630,Deepak,Kumar,deepak.kumar35@gmail.com,9301813509,Female,1980-11-25,Hyderabad,maharashtra,222380,2025-03-27,Consumer,2025-04-09 11:28:58,Bronze
+CUST00631,Ankit,Bose ,ankit.bose67@gmail.com,92270 51781,male,1974-06-06,mumbai,West Bengal,642600,2025-09-17,Consumer,2026-03-07 14:56:52,Silver
+CUST00632,Krishna,Kumar,krishna.kumar64@gmail.com,+91-9303419997,M,1996-01-14,Hyderabad,Tamil Nadu,224489,2025-02-08,Home Office,2025-08-21 02:19:41,Bronze
+CUST00633,Vihaan,Shah,vihaan.shah40@gmail.com,+91 9208482276,MALE,1987-07-13,Bangalore,West Bengal,835284,2025-07-28,Corporate,2026-01-04 03:29:04,Bronze
+CUST00634,Sai,Patel,sai.patel10@gmail.com,96403 49998,FEMALE,1976-03-27,mumbai,Karnataka,284741,2025-05-26,Corporate,2026-05-15 02:12:00,Bronze
+CUST00635,Arjun,Sharma,arjun@gmail,9283314690,other,1992-03-30,Hyderabad,Maharashtra,369534,2026-01-03,Consumer,2026-01-20 14:23:10,Gold
+CUST00636,Vikram,Sharma,vikram.sharma77@gmail.com,+919910667004,male,1982-11-04,Kolkata,Tamil Nadu,682224,2025-07-19,Home Office,2026-08-01 18:02:55,Platinum
+CUST00637,Krishna,Kumar,krishna.kumar52@gmail.com,99316 41272,FEMALE,1995-05-04,Jaipur,Maharashtra,540251,2025-06-21,Home Office,2025-10-09 02:05:41,Platinum
+CUST00638,Aadhya,Choudhury,aadhya.choudhury65@gmail.com,9899255963,MALE,1985-09-15,Ahmedabad,maharashtra,767344,2026-02-28,Corporate,2026-09-20 21:06:22,Platinum
+CUST00639,Sai,Mehta,sai.mehta85@gmail.com,+91 9396618097,MALE,1995-05-23,Jaipur,Karnataka,238935,2025-12-03,Corporate,2026-07-11 17:56:57,Gold
+CUST00640,Pooja,Kumar,pooja.kumar97@gmail.com,+919831135579,Other,2002-06-13,Chennai, MAHARASHTRA,412263,2025-02-20,Corporate,2025-03-04 07:12:07,Platinum
+CUST00641,Pari,Verma,pari.verma72@gmail.com,+91 9562055622,Male,1969-05-16,PUNE,delhi,636379,2026-03-12,Consumer,2026-04-14 22:43:53,Gold
+CUST00642,Priya,Mehta,priya.mehta20@gmail.com,+91-9134506505,female,2003-05-08,Bangalore,West Bengal,212906,2025-07-22,Corporate,2026-03-21 06:47:28,Bronze
+CUST00643,Sai,Joshi,sai.joshi27@gmail.com,+91 9314218652,M,1973-07-30,delhi,delhi,704192,2026-05-04,Corporate,2026-08-18 00:28:01,Gold
+CUST00644,Sai,Singh,sai.singh77@gmail.com,94363 60856,female,1989-02-06,Kolkata,West Bengal,593692,2025-01-22,Home Office,2025-02-12 00:24:17,Platinum
+CUST00645,Rohit,Das,rohit.das41@gmail.com,+919500625049,other,1998-06-27,delhi,Maharashtra,521734,2025-04-08,Corporate,2026-09-11 06:47:47,Gold
+CUST00646,Aarav,Bose,aarav.bose16@gmail.com,9390098025,female,1979-10-10,Hyderabad,Tamil Nadu,173822,2025-04-05,Home Office,2026-07-03 09:54:55,Gold
+CUST00647,Amit,Sen,amit.sen28@gmail.com,+919631829323,MALE,2003-07-13,mumbai,delhi,116765,2026-01-12,Home Office,2026-03-31 14:52:38,Gold
+CUST00648, Vihaan,Gupta,vihaan.gupta22@gmail.com,+91-9211247194,Male,1990-03-15,Bangalore,Maharashtra,424493,2025-11-11,Corporate,2026-01-21 16:54:32,Platinum
+CUST00649,Vikram,Shah,vikram.shah97@gmail.com,98066 93185,male,2003-04-17,Mumbai, MAHARASHTRA,799403,2025-07-06,Consumer,2026-08-08 05:57:58,Silver
+CUST00650,Neha,Banerjee,neha.banerjee22@gmail.com,+91 9629316212,Female,1967-04-21,Kolkata,West Bengal,265364,2025-01-22,Corporate,2026-01-12 18:02:31,Silver
+CUST00651,Vihaan,Joshi,vihaan@.com,+919480885074,FEMALE,1991-03-11,delhi,Maharashtra,485126,2026-01-24,Home Office,2026-04-16 17:11:19,Gold
+CUST00652,Aadhya,Sen,aadhya.sen55@gmail.com,+91 9704675307,FEMALE,1969-07-12,delhi,delhi,181524,2026-05-17,Corporate,2026-07-29 04:53:33,Platinum
+CUST00653,Anika,Deshmukh,anika.deshmukh94@gmail.com,+91 9238965779,other,1983-09-08,Hyderabad,Rajasthan,180853,2025-02-04,Consumer,2026-08-28 03:21:59,Bronze
+CUST00654,Sai,Shah,sai.shah70@gmail.com,+919348608349,male,1971-11-03,Jaipur,West Bengal,550461,2025-02-19,Consumer,2026-06-10 06:39:08,Silver
+CUST00655,Krishna,Malhotra,krishna.malhotra57@gmail.com,+919131631847,female,1990-08-03,Bangalore, MAHARASHTRA,711652,2026-03-09,Consumer,2026-05-24 05:32:34,Gold
+CUST00656,Krishna,Choudhury,krishna.choudhury30@gmail.com,+919667504169,male,2002-10-23,Ahmedabad,maharashtra,257391,2025-01-05,Corporate,2026-08-29 13:12:23,Platinum
+CUST00657,Saanvi,Joshi,saanvi.joshi92@gmail.com,+919304157942,other,1994-01-30,PUNE,Karnataka,695837,2025-04-18,Consumer,2026-03-24 23:25:44,Platinum
+CUST00658,Saanvi,Singh,saanvi.singh76@gmail.com,+91-9226623684,MALE,1996-10-13,PUNE,Maharashtra,413979,2025-07-15,Corporate,2026-04-19 05:56:01,Bronze
+CUST00659,Aditya,Nair,aditya.nair76@gmail.com,+91 9636921386,F,1997-02-24,Jaipur,maharashtra,385832,2026-05-23,Consumer,2026-05-29 15:32:17,Bronze
+CUST00660,Ananya,Das,ananya.das27@gmail.com,+91 9976991925,Male,1964-12-17,Hyderabad,Rajasthan,147080,2025-09-26,Consumer,2026-03-07 06:40:05,Bronze
+CUST00661,Ahana,Deshmukh,ahana.deshmukh26@gmail.com,9144819032,Male,1975-04-30,Ahmedabad,Karnataka,428158,2025-06-26,Consumer,2025-08-08 21:35:03,Bronze
+CUST00662,Aarav,Patel,aarav.patel12@gmail.com,+91-9155985344,F,1989-03-29,Jaipur,West Bengal,231198,2025-12-07,Consumer,2026-08-03 06:20:11,Bronze
+CUST00663,Ankit,Kumar,ankit.kumar40@gmail.com,9732023202,MALE,1996-06-27,Hyderabad,Maharashtra,125623,2025-07-14,Consumer,2025-09-11 15:02:10,Bronze
+CUST00664,Vivaan,Iyer,vivaan.iyer87@gmail.com,+91 9362255365,M,1992-07-29,Ahmedabad,maharashtra,190089,2025-07-14,Home Office,2025-12-21 05:34:15,Bronze
+CUST00665,Anika,Kumar,anika.kumar48@gmail.com,99377 42398,Female,1976-08-13,Chennai,delhi,677720,2026-01-27,Consumer,2026-02-17 00:11:45,Silver
+CUST00666,Aadhya,Das,aadhya.das36@gmail.com,+919659414065,Female,1974-05-05, MUMBAI,Karnataka,258858,2025-01-28,Consumer,2026-07-25 06:39:32,Bronze
+CUST00667,Pari,Bose ,pari.bose44@gmail.com,+91 9512506547,male,2001-06-29,Bangalore,Tamil Nadu,12345,2025-10-25,Corporate,2026-04-15 14:31:28,Platinum
+CUST00668,Vivaan,Shah,vivaan.shah16@gmail.com,91336 14668,female,2001-06-04,PUNE,delhi,729666,2025-06-18,Consumer,2026-03-10 00:20:21,Silver
+CUST00669,Neha,Deshmukh,neha.deshmukh17@gmail.com,+91-9694095087,Female,1996-05-22,Kolkata,West Bengal,705909,2026-02-08,Corporate,2026-04-12 04:18:06,Bronze
+CUST00670,Diya,Bose,diya.bose11@gmail.com,+91 9832934806,male,1996-12-08,delhi,Karnataka,150482,2026-04-24,Corporate,2026-07-03 08:15:08,Platinum
+CUST00671,Krishna,Mehta,krishna.mehta25@gmail.com,+91 9809503340,Female,1990-03-14,Kolkata,Maharashtra,599098,2025-01-29,Corporate,2026-02-06 17:31:27,Platinum
+CUST00672,Rahul,Banerjee,rahul.banerjee45@gmail.com,+91 9692112642,male,1977-07-22,delhi,delhi,243403,2025-06-26,Home Office,2025-11-09 04:13:27,Gold
+CUST00673,Arjun,Deshmukh,arjun.deshmukh33@gmail.com,95727 78060,female,1975-07-06,Mumbai,delhi,126902,2025-10-02,Home Office,2026-07-08 09:51:49,Bronze
+CUST00674,Vivaan,Deshmukh,vivaan.deshmukh24@gmail.com,+919354453959,female,1988-04-21, MUMBAI,West Bengal,260030,2025-01-20,Corporate,2026-05-06 15:01:14,Platinum
+CUST00675,Pooja,Kumar,pooja.kumar70@gmail.com,94157 47781,Male,1963-01-13,delhi, MAHARASHTRA,136776,2025-03-24,Home Office,2025-09-04 18:34:33,Silver
+CUST00676,Pooja,Rao,pooja.rao84@gmail.com,+91-9330713535,other,2030-02-02,mumbai,West Bengal,790749,2025-03-02,Consumer,2025-08-24 08:48:48,Platinum
+CUST00677,Meera,Sen,meera.sen78@gmail.com,9666674119,other,1995-09-09,Chennai,Tamil Nadu,314498,2026-03-23,Corporate,2026-09-16 17:12:43,Bronze
+CUST00678,Ayaan,Rao,ayaan.rao68@gmail.com,+919223927974,FEMALE,1987-11-23,PUNE,maharashtra,640206,2025-03-01,Corporate,2026-07-21 19:58:03,Bronze
+CUST00679,Anika,Deshmukh,anika.deshmukh26@gmail.com,+91-9363006537,other,2001-03-16,delhi,delhi,233695,2025-03-05,Corporate,2026-01-26 07:48:39,Bronze
+CUST00680,Navya,Iyer,navya.iyer33@gmail.com,+919116656158,male,1997-09-27,Jaipur,Tamil Nadu,242538,2025-01-27,Corporate,2025-02-15 01:19:52,Gold
+CUST00681,Priya,Nair,priya.nair59@gmail.com,+919480499500,F,1976-06-05,Jaipur,delhi,462994,2026-04-05,Home Office,2026-08-03 03:39:03,Platinum
+CUST00682,Vihaan,Verma,vihaan.verma62@gmail.com,+91-9895317860,Female,1969-02-27,Jaipur, MAHARASHTRA,728197,2026-01-31,Consumer,2026-03-31 18:33:05,Bronze
+CUST00683,Ankit,Sharma,ankit.sharma58@gmail.com,92897 54082,other,1966-08-05, Delhi,delhi,160634,2026-03-15,Home Office,2026-09-05 09:53:56,Silver
+CUST00684,Navya,Joshi,navya.joshi59@gmail.com,+919291572514,Male,1974-05-03,Bangalore,Gujarat,755375,2025-09-02,Consumer,2026-01-15 01:43:42,Bronze
+CUST00685,Ishaan,Nair,ishaan.nair31@gmail.com,93785 59780,male,2005-05-08,delhi, MAHARASHTRA,688986,2026-01-31,Consumer,2026-02-10 17:44:33,Bronze
+CUST00686,Ahana,Verma,ahana.verma10@gmail.com,9983043354,female,1998-11-13,Bangalore,Tamil Nadu,585896,2025-08-18,Consumer,2025-11-19 05:57:50,Gold
+CUST00687,Pari,Das,pari.das45@gmail.com,+91 9225050802,male,1975-02-19,Jaipur,maharashtra,641692,2025-09-18,Corporate,2026-03-13 13:43:44,Bronze
+CUST00688,Rahul,Sen,rahul.sen14@gmail.com,98570 99319,female,1997-12-25,Ahmedabad,Maharashtra,767757,2025-01-07,Consumer,2025-04-23 12:06:40,Platinum
+CUST00689,Meera,Singh,meera.singh70@gmail.com,+919973885029,FEMALE,1973-07-06,Ahmedabad,maharashtra,334594,2025-01-03,Corporate,2025-02-24 17:27:01,Bronze
+CUST00690,Anika,Banerjee,anika@gmail,97775 59423,MALE,1992-12-13,Chennai, MAHARASHTRA,353158,2025-08-15,Home Office,2026-08-27 15:36:29,Silver
+CUST00691,Anika,Singh,anika.singh38@gmail.com,+91 9910633311,F,1982-02-21, Delhi,West Bengal,597311,2025-09-05,Home Office,2025-10-19 19:04:21,Bronze
+CUST00692,Aadhya,Singh,aadhya.singh72@gmail.com,+919837898928,Male,1994-07-14, Delhi,West Bengal,448892,2025-07-23,Home Office,2026-03-26 21:30:38,Platinum
+CUST00693,Saanvi,Singh,saanvi.singh16@gmail.com,+919881884679,female,1963-02-08,delhi,Tamil Nadu,710316,2025-05-10,Home Office,2025-10-17 12:18:06,Platinum
+CUST00694,Rohit,Malhotra,rohit.malhotra87@gmail.com,9875487184,F,1982-09-05,PUNE,Gujarat,161606,2026-02-07,Consumer,2026-06-28 11:18:49,Bronze
+CUST00695,Riya,Patel,riya.patel39@gmail.com,+91 9273306409,female,1997-08-17,Jaipur,Delhi,147828,2025-01-16,Home Office,2025-04-06 04:28:50,Silver
+CUST00696,Navya,Singh,navya.singh13@gmail.com,+919929370675,Male,1968-05-31,Bangalore,West Bengal,393115,2025-03-07,Consumer,2025-05-04 08:22:28,Bronze
+CUST00697, Navya,Das,navya.das29@gmail.com,+91-9731570422,MALE,1981-03-30,PUNE,West Bengal,134571,2025-08-23,Corporate,2026-08-15 03:10:46,Platinum
+CUST00698,Reyansh,Malhotra,reyansh.malhotra47@gmail.com,+91-9338642289,Other,1979-05-10,Jaipur,Gujarat,510985,2025-01-14,Corporate,2026-08-02 11:31:07,Silver
+CUST00699,Diya,Kumar,diya.kumar83@gmail.com,+919526649827,FEMALE,1998-04-28, MUMBAI,delhi,770513,2025-03-06,Consumer,2026-05-16 14:43:22,Gold
+CUST00700,Sai,Patel,sai.patel28@gmail.com,+91-9999871235,Other,1998-07-23, Delhi,Maharashtra,374267,2025-11-16,Corporate,2026-08-31 11:39:51,Bronze
+CUST00701,Ananya,Iyer,ananya.iyer10@gmail.com,93246 52751,FEMALE,1981-04-20,Ahmedabad,Delhi,853303,2026-01-11,Home Office,2026-08-14 14:52:56,Bronze
+CUST00702,Sneha,Gupta,sneha.gupta26@gmail.com,92740 46155,male,1989-10-11, MUMBAI,Maharashtra,629239,2025-05-13,Home Office,2026-06-25 01:32:23,Gold
+CUST00703,Anika,Iyer,anika.iyer47@gmail.com,+91 9415920240,Other,1985-04-15,Hyderabad, MAHARASHTRA,658669,2025-06-08,Home Office,2026-03-24 04:06:28,Gold
+CUST00704,Navya,Deshmukh,navya.deshmukh27@gmail.com,+91-9867812836,Male,1972-03-12,mumbai,Tamil Nadu,115875,2025-08-31,Home Office,2026-01-23 23:37:59,Gold
+CUST00705,Reyansh,Malhotra,reyansh.malhotra69@gmail.com,+91 9171695888,Other,1983-06-22,Ahmedabad,Maharashtra,397919,2025-08-09,Corporate,2026-04-04 05:14:21,Platinum
+CUST00706,Aadhya,Deshmukh,aadhya.deshmukh92@gmail.com,91831 89355,M,1974-09-23,delhi, MAHARASHTRA,217293,2025-04-09,Home Office,2026-07-09 14:19:07,Gold
+CUST00707,Rahul,Singh,rahul.singh45@gmail.com,98916 32826,FEMALE,1960-03-07, Delhi,Delhi,754795,2025-04-24,Consumer,2025-08-30 19:14:22,Silver
+CUST00708,Anika,Sharma,anika.sharma75@gmail.com,+91-9556775928,female,1967-12-25, Delhi,Gujarat,514258,2026-01-04,Corporate,2026-05-05 14:44:30,Platinum
+CUST00709,Vikram,Sen,vikram.sen37@gmail.com,+91 9780505229,M,1998-02-20,Kolkata,Tamil Nadu,372710,2025-04-04,Home Office,2026-03-08 14:07:32,Silver
+CUST00710,Rahul,Kumar,rahul.kumar95@gmail.com,+919555350212,other,1972-12-29,Bangalore,Karnataka,121191,2025-06-02,Corporate,2026-03-09 12:00:58,Bronze
+CUST00711, Navya,Patel,navya.patel57@gmail.com,9639870249,other,2004-01-16,delhi,Tamil Nadu,839284,2025-07-16,Corporate,2025-08-29 23:45:27,Silver
+CUST00712,Meera,Sharma,meera.sharma90@gmail.com,+91-9286585153,Other,1962-08-07,PUNE,Maharashtra,270634,2025-05-18,Consumer,2025-07-21 17:45:38,Bronze
+CUST00713,Saanvi,Malhotra,saanvi.malhotra22@gmail.com,+919397939907,other,1982-08-21,Ahmedabad,Karnataka,287434,2026-04-01,Home Office,2026-06-11 22:30:33,Bronze
+CUST00714,Navya,Sharma,navya.sharma95@gmail.com,93071 67679,M,1965-09-18,mumbai,Tamil Nadu,748089,2025-06-04,Home Office,2026-07-01 22:17:34,Platinum
+CUST00715,Saanvi,Nair,saanvi.nair49@gmail.com,9476544916,female,1965-11-09,Hyderabad,Tamil Nadu,204961,2025-05-22,Home Office,2025-07-28 21:00:22,Silver
+CUST00716,Sai,Rao,sai.rao11@gmail.com,+91-9502148053,male,1976-10-15,delhi,Delhi,249183,2025-08-30,Consumer,2026-06-20 18:45:27,Gold
+CUST00717,Priya,Reddy,priya.reddy38@gmail.com,+919392916147,M,1977-08-25,Jaipur,Tamil Nadu,623683,2025-10-03,Home Office,2026-02-22 01:39:15,Gold
+CUST00718,Aadhya,Sen,aadhya.sen14@gmail.com,+91-9728378396,M,1974-05-03,Jaipur,West Bengal,825148,2025-08-13,Consumer,2026-05-06 00:16:20,Platinum
+CUST00719,Priya,Sen,priya.sen75@gmail.com,+919377255013,FEMALE,1967-11-05,Chennai, MAHARASHTRA,599944,2026-04-01,Corporate,2026-06-13 02:05:42,Platinum
+CUST00720,Meera,Singh,meera.singh23@gmail.com,+919108480736,F,1982-11-29,Ahmedabad,maharashtra,485395,2025-08-26,Consumer,2026-08-24 11:56:33,Platinum
+CUST00721,Riya,Nair,riya.nair85@gmail.com,+91-9567043846,FEMALE,1977-03-09,Jaipur,Karnataka,615999,2025-11-08,Corporate,2025-11-24 04:03:53,Gold
+CUST00722,Deepak,Shah,deepak.shah63@gmail.com,93892 24147,F,1971-02-28,Chennai, MAHARASHTRA,735844,2026-02-12,Consumer,2026-09-20 15:41:42,Platinum
+CUST00723,Rohit,Iyer,rohit.iyer21@gmail.com,+919922296311,female,1971-04-02,Kolkata,Maharashtra,320142,2025-05-14,Corporate,2026-01-08 12:18:08,Bronze
+CUST00724,Aditya,Nair,aditya.nair41@gmail.com,+91 9696300619,Male,1983-06-16, MUMBAI,Tamil Nadu,523189,2025-06-15,Corporate,2026-04-03 07:43:08,Silver
+CUST00725,Vikram,Bose,vikram.bose26@gmail.com,+91-9243372740,female,2005-11-30,Jaipur,West Bengal,670061,2025-02-25,Corporate,2026-03-11 22:31:30,Bronze
+CUST00726, Amit,Joshi,amit.joshi40@gmail.com,94649 12176,Male,1987-02-04, MUMBAI,Delhi,307102,2025-02-04,Consumer,2025-09-26 21:22:17,Bronze
+CUST00727,Saanvi,Gupta,saanvi.gupta46@gmail.com,+91-9825068787,Male,1988-09-12,mumbai, MAHARASHTRA,652480,2025-03-24,Corporate,2025-05-27 20:32:21,Gold
+CUST00728,Aadhya,Malhotra,aadhya.malhotra30@gmail.com,97170 60322,F,1960-10-15,Kolkata,West Bengal,167160,2025-08-24,Corporate,2026-03-13 05:02:56,Silver
+CUST00729,Neha,Malhotra,neha.malhotra57@gmail.com,+91 9864529386,Other,1967-08-07,mumbai,West Bengal,512100,2025-03-04,Consumer,2025-03-09 13:09:38,Silver
+CUST00730,Ananya,Joshi,ananya.joshi68@gmail.com,+91 9599035658,Male,1993-04-26,Kolkata,Karnataka,738442,2025-10-14,Corporate,2026-03-29 04:01:09,Platinum
+CUST00731,Ananya,Reddy ,ananya.reddy47@gmail.com,+91-9118810873,female,1962-06-04,Hyderabad,maharashtra,148391,2026-02-17,Home Office,2026-07-21 12:33:01,Silver
+CUST00732,Ayaan,Nair,ayaan.nair91@gmail.com,+91 9394952837,FEMALE,1976-08-11,Jaipur,Gujarat,152616,2025-03-01,Corporate,2025-12-16 00:08:44,Platinum
+CUST00733,Vivaan,Iyer,vivaan.iyer22@gmail.com,9878891323,female,1980-07-19,Bangalore,West Bengal,ABC123,2025-07-19,Home Office,2025-09-19 02:07:38,Gold
+CUST00734,Vikram,Das,vikram.das48@gmail.com,+919678916093,Male,1992-03-07, Delhi,West Bengal,832326,2025-05-25,Corporate,2026-06-18 19:45:48,Platinum
+CUST00735,Amit,Verma,amit.verma44@gmail.com,,MALE,,Bangalore, MAHARASHTRA,594905,2026-04-11,Home Office,2026-06-12 02:22:49,Platinum
+CUST00736,Vihaan,Shah,vihaan.shah88@gmail.com,98645 40259,FEMALE,2003-03-13,Hyderabad,Karnataka,608706,2026-03-10,Consumer,2026-07-21 08:00:52,Platinum
+CUST00737,Ananya,Rao,ananya.rao73@gmail.com,+919849176905,F,1962-03-12,Ahmedabad,Rajasthan,772055,2026-01-13,Home Office,2026-05-28 00:09:25,Silver
+CUST00738,Aditya,Patel,aditya.patel50@gmail.com,9601845574,M,1971-05-07,Hyderabad,Karnataka,545572,2025-01-19,Corporate,2026-03-27 09:08:48,Bronze
+CUST00739,Neha,Choudhury,neha.choudhury58@gmail.com,9232600684,F,1967-07-12,Hyderabad,delhi,276847,2025-11-08,Home Office,2026-04-16 05:00:01,Gold
+CUST00740,Aadhya,Patel,aadhya.patel56@gmail.com,+91 9813216442,Other,1986-09-08, Delhi,West Bengal,596450,2025-08-11,Corporate,2025-12-11 06:48:05,Bronze
+CUST00741,Deepak,Nair ,deepak.nair69@gmail.com,9833743378,F,1988-06-13,Bangalore,West Bengal,140452,2026-04-26,Consumer,2026-05-23 14:28:36,Silver
+CUST00742,Ahana,Deshmukh,ahana.deshmukh62@gmail.com,94489 87901,MALE,2002-07-25,Kolkata,maharashtra,133824,2026-04-13,Home Office,2026-06-27 16:17:27,Silver
+CUST00743,Riya,Sen,riya.sen57@gmail.com,+919356962879,FEMALE,1973-08-05,PUNE, MAHARASHTRA,142391,2025-06-10,Home Office,2026-06-03 23:54:20,Platinum
+CUST00744,Pari,Shah,pari.shah32@gmail.com,9637101700,other,1970-11-02, Delhi,Tamil Nadu,183235,2025-01-06,Home Office,2025-01-31 10:51:01,Bronze
+CUST00745,Amit,Das,amit.das19@gmail.com,93792 04274,male,2001-04-21,Ahmedabad,Gujarat,569823,2026-01-09,Home Office,2026-02-01 16:09:03,Bronze
+CUST00746,Ishaan,Singh,ishaan@.com,+91-9649283044,F,1967-01-19,mumbai,delhi,717977,2025-03-28,Home Office,2025-08-07 01:19:14,Bronze
+CUST00747,Aadhya,Das,aadhya.das71@gmail.com,+91 9204287930,male,1993-06-14, Delhi,delhi,832673,2025-12-12,Corporate,2026-06-05 07:05:53,Gold
+CUST00748,Priya,Mehta,priya.mehta28@gmail.com,+919127853390,female,1979-10-26,delhi, MAHARASHTRA,429545,2026-01-05,Home Office,2026-06-24 23:45:56,Platinum
+CUST00749,Amit,Reddy,amit.reddy87@gmail.com,+91 9512560249,MALE,2027-11-25,Hyderabad,delhi,122653,2025-07-21,Corporate,2026-08-20 12:47:41,Platinum
+CUST00750,Neha,Sen,neha.sen54@gmail.com,97304 31863,female,1985-09-20,Kolkata, MAHARASHTRA,615469,2025-05-17,Corporate,2026-03-08 06:47:29,Platinum
+CUST00751,Aarav,Gupta,aarav.gupta45@gmail.com,9882502045,MALE,1991-04-04,Hyderabad,Maharashtra,659578,2025-06-27,Home Office,2025-12-01 16:34:56,Bronze
+CUST00752,Aadhya,Verma,aadhya.verma18@gmail.com,96741 87598,male,1963-10-23,Kolkata,Rajasthan,366579,2025-07-18,Home Office,2025-12-07 19:01:04,Gold
+CUST00753,Priya,Shah,priya.shah87@gmail.com,9397938187,MALE,1964-05-01,mumbai,Gujarat,327823,2025-06-26,Consumer,2026-09-24 16:19:58,Gold
+CUST00754,Rohit,Joshi,rohit.joshi16@gmail.com,9780651069,MALE,1990-01-26, MUMBAI,Tamil Nadu,678715,2026-04-03,Consumer,2026-07-28 23:00:48,Bronze
+CUST00755,Anika,Reddy,anika.reddy24@gmail.com,+919575283027,other,2001-10-23,Kolkata,Maharashtra,536948,2026-04-13,Corporate,2026-07-17 17:45:35,Bronze
+CUST00756,Rahul,Nair,rahul.nair92@gmail.com,+919671434688,female,1998-03-12,Chennai,delhi,226885,2025-05-22,Corporate,2025-05-27 13:34:38,Bronze
+CUST00757,Ananya,Sen,ananya.sen65@gmail.com,+91-9201541586,female,1996-08-25,mumbai,Delhi,353063,2025-06-15,Corporate,2026-07-10 08:29:36,Bronze
+CUST00758,Ishaan,Rao,ishaan.rao88@gmail.com,+919821433431,female,1986-12-18,mumbai, MAHARASHTRA,274766,2025-09-10,Home Office,2026-03-13 23:02:36,Platinum
+CUST00759,Rahul,Deshmukh,rahul.deshmukh43@gmail.com,+91 9995972094,female,1982-09-16,Jaipur,Karnataka,440665,2025-12-16,Corporate,2026-05-30 11:13:33,Platinum
+CUST00760,Meera,Singh ,meera.singh17@gmail.com,+919479687950,FEMALE,1961-04-29,Jaipur,Delhi,378362,2025-08-17,Corporate,2025-09-05 08:49:14,Platinum
+CUST00761,Ananya,Das,ananya.das35@gmail.com,97630 95528,FEMALE,1967-04-09, MUMBAI,Delhi,612984,2026-04-06,Corporate,2026-04-15 11:34:58,Bronze
+CUST00762,Rohit,Singh,rohit.singh45@gmail.com,+91-9729335505,Male,2003-07-12,PUNE,delhi,569407,2025-08-09,Consumer,2026-08-11 06:16:54,Gold
+CUST00763,Arjun,Gupta,arjun.gupta29@gmail.com,+91 9733301861,other,1965-12-27,Kolkata,Delhi,683137,2026-05-29,Corporate,2026-09-14 06:27:35,Bronze
+CUST00764,Navya,Reddy,navya.reddy99@gmail.com,+91 9437113304,FEMALE,1974-08-14,mumbai,Karnataka,593188,2025-10-09,Corporate,2025-12-25 14:38:39,Bronze
+CUST00765,Amit,Mehta,amit.mehtagmail.com,+91-9558843089,FEMALE,1995-12-16,Mumbai,Gujarat,703195,2025-12-06,Consumer,2026-06-20 09:43:11,Gold
+CUST00766,Sneha,Rao,sneha.rao91@gmail.com,91811 23954,male,1967-08-24,Chennai, MAHARASHTRA,201992,2026-03-22,Corporate,2026-07-19 05:41:39,Silver
+CUST00767,Rahul,Patel,rahul.patel45@gmail.com,+919893427121,female,2004-02-01,Hyderabad,Karnataka,836230,2025-12-02,Consumer,2026-05-07 18:24:07,Bronze
+CUST00768, Meera,Reddy,,+919558648441,Female,1999-10-07,Ahmedabad,Karnataka,795363,2025-06-05,Home Office,2026-03-08 01:31:05,Gold
+CUST00769,Ankit,Joshi,ankit.joshi33@gmail.com,96727 57561,Male,1996-10-01,PUNE,maharashtra,440655,2025-06-28,Home Office,2025-12-07 21:53:45,Bronze
+CUST00770,Reyansh,Reddy,reyansh.reddy37@gmail.com,+919129309334,FEMALE,1985-07-11,Mumbai,Tamil Nadu,328717,2025-10-23,Consumer,2026-04-15 00:04:18,Gold
+CUST00771,Pari,Singh,pari.singh25@gmail.com,92880 08739,other,1968-04-12,mumbai,Delhi,622868,2026-04-15,Corporate,2026-09-08 08:57:55,Silver
+CUST00772,Ananya,Das,ananya.das56@gmail.com,9646250322,FEMALE,,Bangalore,West Bengal,214927,2025-10-03,Corporate,2026-01-31 20:58:25,Bronze
+CUST00773,Vikram,Gupta,vikram.gupta99@gmail.com,+91-9791040857,FEMALE,,delhi,Karnataka,371094,2025-05-18,Home Office,2025-05-25 23:04:43,Gold
+CUST00774,Arjun,Sen,arjun.sen17@gmail.com,+91 9325298519,female,1970-09-19,Bangalore, MAHARASHTRA,653792,2025-04-28,Home Office,2025-09-16 15:28:48,Silver
+CUST00775,Aadhya,Malhotra ,aadhya.malhotra61@gmail.com,93847 36299,female,2027-02-10,PUNE,Maharashtra,145886,2025-04-23,Corporate,2025-05-29 05:31:12,Bronze
+CUST00776,Riya,Singh,riya.singh22@gmail.com,,MALE,1964-07-06, MUMBAI,Tamil Nadu,545240,2026-02-21,Corporate,2026-04-15 02:04:08,Gold
+CUST00777,Sneha,Deshmukh ,sneha.deshmukh42@gmail.com,98047 76508,female,2005-06-26,Jaipur,maharashtra,708989,2025-06-02,Consumer,2025-11-19 19:18:44,Bronze
+CUST00778,Navya,Iyer,navya.iyer22@gmail.com,94031 17074,male,1977-01-21,mumbai,delhi,594599,2026-04-04,Home Office,2026-07-14 05:58:23,Gold
+CUST00779,Meera,Mehta,meera.mehta94@gmail.com,9890714563,F,1973-06-19,mumbai,Maharashtra,145772,2025-07-04,Consumer,2026-05-08 21:40:10,Platinum
+CUST00780,Ananya,Sharma,ananya.sharma90@gmail.com,+91-9719765375,FEMALE,1990-11-03,Hyderabad,delhi,233543,2025-08-05,Home Office,2026-09-09 13:25:54,Platinum
+CUST00781,Deepak,Rao,deepak.rao72@gmail.com,9589965577,female,1977-11-20, MUMBAI,Karnataka,136649,2026-02-27,Consumer,2026-04-04 17:46:42,Platinum
+CUST00782,Ayaan,Bose,ayaan.bose26@gmail.com,+91-9429671389,F,1965-08-24,Chennai, MAHARASHTRA,645723,2025-06-01,Consumer,2025-11-20 16:30:17,Silver
+CUST00783,Rohit,Sharma,rohit.sharma29@gmail.com,96696 86115,Male,1984-09-04,Chennai,Delhi,666658,2025-05-10,Corporate,2025-09-10 19:49:13,Bronze
+CUST00784,Vihaan,Nair,vihaan.nair29@gmail.com,+91-9754623401,MALE,1987-04-12,delhi,West Bengal,551728,2026-01-06,Corporate,2026-05-11 03:58:54,Silver
+CUST00785, Arjun,Reddy,arjun.reddy49@gmail.com,98875 47201,other,1964-01-11,Bangalore, MAHARASHTRA,278038,2025-07-08,Corporate,2025-11-09 04:04:19,Platinum
+CUST00786,Rahul,Das,rahul.das19@gmail.com,+919396586682,F,1999-11-15,Ahmedabad, MAHARASHTRA,259327,2025-08-02,Corporate,2025-08-11 07:53:15,Platinum
+CUST00787,Rahul,Malhotra,rahul.malhotra86@gmail.com,+91-9809122115,Female,1996-10-31,Jaipur,Rajasthan,183823,2025-09-23,Corporate,2025-10-09 01:36:54,Bronze
+CUST00788,Diya,Mehta,diya.mehta98@gmail.com,+91 9623238801,MALE,1966-01-10,Jaipur,Rajasthan,490161,2025-07-07,Home Office,2026-07-26 12:45:38,Platinum
+CUST00789,Vikram,Das,vikram.das45@gmail.com,+91 9886454293,Female,1982-05-18,Bangalore,delhi,197130,2025-01-11,Consumer,2026-07-18 22:01:32,Platinum
+CUST00790,Pooja,Choudhury,pooja.choudhury95@gmail.com,+91-9938508532,Other,1998-06-28,Bangalore,Rajasthan,809985,2025-10-25,Consumer,2026-06-15 19:50:31,Gold
+CUST00791,Vihaan,Joshi,vihaan.joshi22@gmail.com,+919920371691,female,2001-02-01,Bangalore,West Bengal,151802,2025-09-27,Home Office,2026-07-30 20:11:14,Bronze
+CUST00792,Pari,Bose,pari.bose90@gmail.com,9563638879,MALE,1961-08-23,Ahmedabad,Karnataka,542165,2025-01-23,Home Office,2026-01-12 17:00:47,Platinum
+CUST00793,Sneha,Mehta,sneha.mehta41@gmail.com,9941501994,female,2003-03-14,delhi, MAHARASHTRA,683863,2026-05-19,Corporate,2026-08-05 11:14:04,Platinum
+CUST00794,Rohit,Kumar,rohit.kumar21@gmail.com,97618 57388,MALE,1980-10-23, MUMBAI,maharashtra,438125,2026-04-28,Corporate,2026-08-31 03:21:23,Bronze
+CUST00795,Sai,Singh,sai.singh53@gmail.com,+919488118171,M,1967-08-02, Delhi,Rajasthan,640705,2026-05-14,Home Office,2026-07-11 09:53:35,Silver
+CUST00796,Rohit,Banerjee,rohit.banerjee35@gmail.com,98641 45083,F,1969-12-02,Jaipur,Karnataka,526030,2025-04-14,Corporate,2025-07-03 19:37:49,Silver
+CUST00797,Sneha,Reddy,sneha.reddy38@gmail.com,+919143779506,Other,1978-08-19,Mumbai,Tamil Nadu,838844,2025-06-20,Consumer,2025-12-12 11:49:06,Platinum
+CUST00798,Pari,Patel,pari.patel88@gmail.com,+91-9571318858,Other,1998-08-28, Delhi,West Bengal,653762,2026-03-28,Corporate,2026-07-27 23:53:58,Gold
+CUST00799,Meera,Singh,meera.singh43@gmail.com,+919491394490,female,1965-03-29,Jaipur, MAHARASHTRA,846557,2025-07-11,Home Office,2025-10-19 18:48:37,Bronze
+CUST00800,Vihaan,Sen,vihaan.sen87@gmail.com,94740 30217,MALE,1999-01-29,Mumbai,Tamil Nadu,631282,2026-04-05,Corporate,2026-04-17 15:32:18,Platinum
+CUST00801,Sai,Sharma,sai.sharma54@gmail.com,+919858393530,male,1964-06-13,Jaipur,delhi,138917,2026-04-10,Corporate,2026-07-02 22:28:00,Platinum
+CUST00802,Priya,Iyer,priya.iyer78@gmail.com,+91 9427127331,MALE,1994-07-26,Bangalore, MAHARASHTRA,824418,2026-04-01,Corporate,2026-09-16 08:43:39,Gold
+CUST00803,Aarav,Deshmukh,aarav.deshmukh19@gmail.com,+91-9668838330,M,1976-12-05,Hyderabad, MAHARASHTRA,140920,2026-05-20,Corporate,2026-06-12 14:44:04,Silver
+CUST00804,Ananya,Gupta,ananya.gupta97@gmail.com,+91-9537629448,FEMALE,1983-05-12,mumbai,maharashtra,296029,2025-12-01,Corporate,2026-06-13 07:52:49,Silver
+CUST00805,Aditya,Nair,aditya.nair92@gmail.com,+91-9464771758,male,1961-05-22,Hyderabad,Maharashtra,172020,2025-10-17,Consumer,2025-12-22 06:37:11,Silver
+CUST00806, Aarav,Sen,aarav.sen82@gmail.com,+919174506118,MALE,1993-11-25,mumbai,Gujarat,472019,2025-03-17,Home Office,2025-07-15 10:51:09,Gold
+CUST00807,Ahana,Kumar,ahana.kumar32@gmail.com,+91-9974413971,Male,1996-07-31, MUMBAI,delhi,223011,2025-09-29,Home Office,2025-12-08 04:26:39,Platinum
+CUST00808,Meera,Sen,meera.sen29@gmail.com,+91-9462276937,Other,1990-06-25, MUMBAI,Gujarat,368183,2025-10-12,Consumer,2026-01-13 00:52:10,Silver
+CUST00809,Vikram,Choudhury,vikram.choudhury71@gmail.com,98083 04553,male,1966-03-10,Ahmedabad,Karnataka,700345,2026-03-23,Home Office,2026-07-04 23:20:53,Silver
+CUST00810,Navya,Singh,navya.singh27@gmail.com,+91 9312645460,F,1985-08-29, MUMBAI,Tamil Nadu,ABC123,2025-03-23,Corporate,2026-06-01 23:09:06,Gold
+CUST00811,Anika,Deshmukh,anika.deshmukh46@gmail.com,9850439942,Other,1972-10-18, MUMBAI,delhi,709026,2026-02-26,Consumer,2026-06-28 09:44:50,Bronze
+CUST00812,Neha,Verma,neha.verma34@gmail.com,9677419345,F,1995-08-28,mumbai,Gujarat,843147,2025-02-04,Consumer,2025-04-22 08:38:13,Platinum
+CUST00813,Pari,Nair,pari.nair36@gmail.com,97132 62627,Male,1985-12-16, Delhi,maharashtra,114969,2025-07-06,Home Office,2026-03-20 14:47:07,Bronze
+CUST00814,Sai,Singh,sai.singh15@gmail.com,+919742904674,other,1988-10-09,Ahmedabad,Rajasthan,766609,2025-08-29,Consumer,2026-03-29 07:52:07,Bronze
+CUST00815,Saanvi,Sharma,saanvi.sharma34@gmail.com,+91 9624218465,other,,Jaipur,West Bengal,580946,2025-04-11,Home Office,2025-10-01 07:11:54,Gold
+CUST00816,Aditya,Malhotra,aditya.malhotra33@gmail.com,+91 9279708658,F,1979-06-29,delhi,Rajasthan,235201,2025-11-03,Consumer,2025-12-07 07:51:10,Silver
+CUST00817,Riya,Choudhury,riya@.com,9345505787,F,1964-08-02, Delhi,West Bengal,569391,2025-04-21,Corporate,2026-07-29 14:07:44,Platinum
+CUST00818,Rohit,Verma,rohit.verma36@gmail.com,91469 84680,Male,1983-03-25,delhi, MAHARASHTRA,320397,2026-05-16,Consumer,2026-07-31 07:11:42,Silver
+CUST00819,Diya,Iyer,diya.iyer90@gmail.com,+91-9806535237,Male,1964-09-20, Delhi,Rajasthan,693903,2025-05-06,Consumer,2026-07-05 02:12:09,Bronze
+CUST00820,Ananya,Verma,ananya.verma12@gmail.com,+91 9282445097,female,2030-11-01, MUMBAI,Delhi,INVALID_PIN,2025-01-03,Home Office,2025-02-18 00:45:10,Silver
+CUST00821,Vikram,Singh,vikram.singh90@gmail.com,9685814790,Male,1992-06-02,Hyderabad,West Bengal,755975,2025-10-28,Corporate,2026-08-14 22:22:27,Platinum
+CUST00822,Ayaan,Choudhury,ayaan.choudhury68@gmail.com,+91-9264430586,Other,1975-03-26,mumbai,delhi,292823,2025-10-29,Corporate,2025-12-30 23:31:31,Bronze
+CUST00823,Aadhya,Sharma,aadhya@.com,+919681429608,F,2002-08-19,PUNE,Delhi,551598,2025-11-21,Corporate,2026-09-02 07:12:46,Platinum
+CUST00824,Pari,Bose,pari.bose95@gmail.com,98766 45741,MALE,1972-12-29,Hyderabad,Delhi,801354,2026-04-26,Corporate,2026-07-25 16:10:40,Silver
+CUST00825,Riya,Das,riya.das70@gmail.com,+91-9800334617,Female,2002-06-08,Bangalore,Maharashtra,464087,2026-03-05,Consumer,2026-08-01 18:09:04,Bronze
+CUST00826,Deepak,Sen,deepak@@gmail.com,+919816178863,Female,1998-05-03,mumbai,West Bengal,317419,2025-04-28,Corporate,2025-12-29 20:45:12,Bronze
+CUST00827,Pari,Shah,pari.shah50@gmail.com,99196 86587,Other,1962-05-27,Ahmedabad,maharashtra,199916,2025-01-17,Consumer,2025-02-27 15:32:17,Platinum
+CUST00828,Ananya,Gupta,ananya.gupta29@gmail.com,9430242008,female,1981-06-20,Hyderabad,Tamil Nadu,847782,2025-05-17,Corporate,2026-01-07 15:06:44,Bronze
+CUST00829,Vihaan,Banerjee,vihaan.banerjee25@gmail.com,+91-9763882641,M,2002-10-12,Kolkata,delhi,371505,2025-03-30,Home Office,2025-07-21 22:52:35,Silver
+CUST00830,Deepak,Bose,deepak.bose70@gmail.com,9283027835,other,1984-08-29,Kolkata,Rajasthan,579064,2025-01-16,Corporate,2026-06-22 04:42:04,Bronze
+CUST00831,Meera,Kumar,meera.kumar18@gmail.com,+91 9770048289,F,1967-07-21,Ahmedabad,Delhi,446277,2025-08-16,Home Office,2025-10-19 14:22:34,Gold
+CUST00832,Aadhya,Deshmukh,aadhya.deshmukh85@gmail.com,+91 9281526961,Female,1979-01-26,Chennai,Maharashtra,284989,2025-02-10,Home Office,2025-08-14 21:11:03,Bronze
+CUST00833,Priya,Reddy,priya.reddy44@gmail.com,+91-9915791527,male,1962-02-18,mumbai,Rajasthan,12345,2026-03-22,Consumer,2026-05-20 08:23:32,Bronze
+CUST00834,Diya,Patel,diya@gmail,+91 9460385246,Other,1988-11-20,Bangalore,Karnataka,473059,2025-07-23,Home Office,2025-12-20 00:19:59,Silver
+CUST00835,Anika,Reddy,anika.reddy20@gmail.com,94421 09092,male,2027-07-19, MUMBAI,Delhi,501527,2025-02-20,Consumer,2026-05-10 16:04:46,Gold
+CUST00836,Pooja,Shah,,,female,2002-01-07, MUMBAI, MAHARASHTRA,593146,2026-05-06,Corporate,2026-09-12 05:34:57,Platinum
+CUST00837,Vihaan,Deshmukh,vihaan.deshmukh20@gmail.com,9871219787,Male,1975-11-11, Delhi,Maharashtra,515696,2025-09-06,Home Office,2026-03-31 10:31:36,Silver
+CUST00838,Reyansh,Choudhury,reyansh.choudhury33@gmail.com,98855 11657,Male,1994-07-17,Mumbai,maharashtra,317325,2025-07-24,Consumer,2026-09-18 11:08:05,Bronze
+CUST00839,Meera,Patel,meera.patel33@gmail.com,+919912056164,M,2000-04-21,delhi,Rajasthan,781713,2025-08-10,Consumer,2026-07-07 23:16:06,Bronze
+CUST00840,Krishna,Kumar,krishna.kumar97@gmail.com,+919909920336,male,1993-08-11,PUNE,Maharashtra,560988,2025-03-04,Home Office,2026-09-11 07:39:30,Platinum
+CUST00841,Pari,Sharma,pari.sharma56@gmail.com,9750158037,other,1981-09-17,Kolkata,Karnataka,613788,2025-10-15,Corporate,2026-02-09 08:04:18,Bronze
+CUST00842,Rohit,Choudhury,rohit.choudhury85@gmail.com,+91 9841810234,F,1991-06-01,PUNE,West Bengal,596951,2025-12-18,Consumer,2026-02-11 09:29:15,Gold
+CUST00843,Neha,Singh ,neha.singh50@gmail.com,+919778812108,F,1989-07-23,Ahmedabad, MAHARASHTRA,302844,2025-06-18,Consumer,2025-07-01 06:34:37,Bronze
+CUST00844,Diya,Choudhury,diya@.com,99909 67517,Female,1993-02-08,Hyderabad,Tamil Nadu,277585,2026-01-14,Home Office,2026-02-06 17:43:23,Bronze
+CUST00845,Aadhya,Malhotra,aadhya.malhotra47@gmail.com,+91-9657017204,MALE,1960-11-18,delhi, MAHARASHTRA,435701,2026-04-26,Corporate,2026-08-23 03:41:36,Platinum
+CUST00846,Vihaan,Deshmukh,vihaan.deshmukh98@gmail.com,94968 20123,FEMALE,1990-06-04,PUNE,West Bengal,452047,2025-07-01,Corporate,2026-07-06 04:23:16,Gold
+CUST00847,Pooja,Mehta,pooja.mehta34@gmail.com,94455 65285,MALE,2001-06-20, Delhi,Delhi,602572,2025-01-16,Corporate,2026-02-16 22:35:06,Gold
+CUST00848,Ankit,Malhotra,ankit.malhotra77@gmail.com,+91 9747036581,male,1973-02-22,delhi, MAHARASHTRA,171889,2026-01-03,Consumer,2026-03-31 16:54:00,Silver
+CUST00849,Rahul,Sharma,rahul.sharma28@gmail.com,+91-9443635681,female,1996-06-30, Delhi,Delhi,736616,2026-04-15,Consumer,2026-06-12 09:13:19,Silver
+CUST00850,Neha,Verma,neha.verma46@gmail.com,+91-9503736493,Male,1973-11-24,mumbai,delhi,ABC123,2026-05-22,Home Office,2026-08-11 23:19:50,Bronze
+CUST00851,Aditya,Kumar,aditya.kumar90@gmail.com,92685 54291,FEMALE,1967-05-02,delhi,Tamil Nadu,850606,2026-04-17,Corporate,2026-06-11 09:51:42,Platinum
+CUST00852,Sai,Joshi,sai.joshi51@gmail.com,+919496019605,female,1985-07-09,Chennai,Maharashtra,787725,2025-09-09,Corporate,2025-11-17 16:42:18,Gold
+CUST00853,Ananya,Deshmukh,ananya.deshmukh82@gmail.com,91422 85535,Male,1968-12-21,Kolkata,maharashtra,256708,2025-04-28,Consumer,2026-06-08 18:48:16,Silver
+CUST00854,Sai,Shah,sai.shah20@gmail.com,9906219798,FEMALE,1964-03-24,Chennai,West Bengal,525226,2025-05-01,Home Office,2025-07-09 21:01:19,Platinum
+CUST00855,Vikram,Patel,vikram.patel43@gmail.com,91606 81634,Male,1975-05-07,Kolkata,Maharashtra,353968,2025-04-29,Consumer,2026-05-23 08:48:10,Gold
+CUST00856,Ananya,Rao,ananya.rao75@gmail.com,9628525007,F,1962-09-24, Delhi,Rajasthan,350655,2026-03-29,Corporate,2026-03-31 00:22:40,Platinum
+CUST00857,Aadhya,Gupta,aadhya.gupta31@gmail.com,92634 83479,Male,2002-05-19,delhi,delhi,645697,2025-10-29,Consumer,2026-09-18 21:46:39,Bronze
+CUST00858,Reyansh,Deshmukh,reyansh.deshmukh60@gmail.com,+91-9406426300,Male,2004-04-29,Ahmedabad,Gujarat,324529,2025-05-24,Consumer,2025-06-25 22:07:09,Silver
+CUST00859,Diya,Malhotra,diya.malhotra82@gmail.com,+919420629813,other,1984-07-24,Kolkata,Maharashtra,350974,2026-03-17,Corporate,2026-04-28 09:10:32,Bronze
+CUST00860,Navya,Sharma,navya.sharma52@gmail.com,+91-9873031951,female,1986-08-04,Hyderabad, MAHARASHTRA,613501,2026-03-12,Home Office,2026-07-01 10:12:39,Bronze
+CUST00861,Pooja,Shah,,9153717193,Female,1980-08-25,Kolkata,West Bengal,277235,2025-03-17,Consumer,2025-12-28 09:29:35,Gold
+CUST00862,Reyansh,Patel,reyansh.patel45@gmail.com,+91 9124045945,Male,1980-07-21,mumbai,delhi,324608,2025-04-04,Home Office,2026-09-16 01:13:38,Bronze
+CUST00863,Pooja,Sharma,pooja.sharma24@gmail.com,+91-9352117608,other,1978-08-02,delhi,Maharashtra,613029,2025-02-19,Home Office,2026-08-10 11:48:40,Platinum
+CUST00864,Arjun,Patel,arjun@.com,+91-9600043271,M,1999-04-01,Mumbai,maharashtra,404465,2025-08-07,Home Office,2026-08-14 21:13:02,Platinum
+CUST00865, Reyansh,Mehta,reyansh.mehta40@gmail.com,9970110910,Male,1989-08-16,Chennai,Tamil Nadu,159592,2025-08-11,Corporate,2025-10-19 05:15:34,Gold
+CUST00866,Ahana,Kumar,ahana.kumar94@gmail.com,98797 49812,Other,2003-07-04,PUNE,West Bengal,531297,2025-10-17,Corporate,2026-02-28 22:58:48,Platinum
+CUST00867,Rohit,Reddy,rohit.reddy96@gmail.com,+91-9486900154,male,1969-05-14,PUNE,Karnataka,582666,2026-02-23,Home Office,2026-04-28 14:48:02,Bronze
+CUST00868,Ankit,Verma,ankit.verma28@gmail.com,+919680047190,other,1974-01-02,Jaipur,West Bengal,549329,2025-03-28,Home Office,2026-05-25 10:25:39,Silver
+CUST00869,Vivaan,Sen ,vivaan.sen95@gmail.com,+919894258921,female,1982-02-24,Jaipur,Karnataka,524147,2026-02-11,Home Office,2026-07-13 20:50:28,Silver
+CUST00870,Ayaan,Joshi,ayaan.joshi23@gmail.com,+91-9791384795,M,1972-10-24,Jaipur,Maharashtra,639019,2025-03-25,Corporate,2025-07-15 20:32:09,Platinum
+CUST00871,Deepak,Gupta,deepak.gupta48@gmail.com,9681932510,MALE,2027-02-18,delhi,maharashtra,823537,2025-02-25,Consumer,2025-09-10 06:09:09,Bronze
+CUST00872,Pari,Malhotra,pari.malhotra99@gmail.com,+91-9468475537,female,1989-02-28,Hyderabad,Rajasthan,776077,2026-04-23,Home Office,2026-05-01 15:54:45,Gold
+CUST00873,Amit,Choudhury,amit.choudhury42@gmail.com,+91-9956665307,Other,1988-10-06,Jaipur,Rajasthan,478108,2026-01-16,Consumer,2026-06-13 09:33:49,Platinum
+CUST00874,Vivaan,Choudhury,vivaan.choudhury21@gmail.com,9877688257,FEMALE,1982-12-16, Delhi,Rajasthan,146011,2025-09-08,Corporate,2026-04-11 09:37:30,Bronze
+CUST00875,Rohit,Bose,,9825036318,Other,1994-03-02,mumbai,Tamil Nadu,702498,2025-10-29,Home Office,2026-07-10 09:06:40,Bronze
+CUST00876,Neha,Verma,neha.verma32@gmail.com,+919415024544,Male,1982-07-21,Bangalore,maharashtra,190553,2025-06-04,Corporate,2026-06-17 08:13:57,Silver
+CUST00877,Ayaan,Sharma,ayaan.sharma32@gmail.com,+91 9147110078,M,1999-09-17,Kolkata,Delhi,844822,2025-04-01,Consumer,2025-08-06 21:19:27,Platinum
+CUST00878,Arjun,Iyer,arjun.iyer66@gmail.com,+91-9952913236,Male,1985-01-22,Ahmedabad,Gujarat,606667,2025-01-27,Corporate,2025-12-31 22:13:41,Gold
+CUST00879,Riya,Das,riya.das95@gmail.com,95309 21552,MALE,1969-05-11, MUMBAI,Maharashtra,708130,2025-05-26,Home Office,2025-10-25 17:22:27,Silver
+CUST00880,Pari,Banerjee,pari.banerjee94@gmail.com,9543730000,Other,2027-11-11,mumbai,delhi,845549,2025-10-31,Consumer,2026-03-24 21:19:50,Platinum
+CUST00881,Vivaan,Sen,vivaan.sen84@gmail.com,+919425713292,female,1992-09-09, Delhi,Delhi,611509,2026-01-07,Consumer,2026-02-15 07:26:24,Silver
+CUST00882,Sai,Singh,sai.singh19@gmail.com,92363 17519,M,1964-08-17,Kolkata,Gujarat,186117,2026-03-16,Consumer,2026-05-03 17:21:30,Platinum
+CUST00883,Rahul,Das,rahul.das43@gmail.com,+91-9907852153,Male,1986-11-08,Mumbai,Delhi,501835,2025-10-31,Corporate,2026-06-24 00:59:40,Platinum
+CUST00884,Vikram,Shah,vikram.shah75@gmail.com,+919793681192,MALE,1979-07-29,Kolkata,maharashtra,142416,2025-11-21,Consumer,2026-06-27 06:38:29,Platinum
+CUST00885,Aditya,Iyer,aditya.iyer45@gmail.com,+91 9966307123,Female,2001-03-10,PUNE,delhi,602739,2026-02-02,Corporate,2026-07-02 04:35:13,Bronze
+CUST00886,Rohit,Joshi,rohit.joshi94@gmail.com,+91-9247389687,female,1993-04-27,PUNE,Gujarat,772036,2025-02-18,Corporate,2026-06-22 12:51:14,Gold
+CUST00887,Krishna,Mehta,krishna.mehta51@gmail.com,+919707753897,female,1973-01-20,PUNE,Gujarat,402052,2025-07-24,Home Office,2026-06-19 04:44:35,Bronze
+CUST00888,Amit,Patel,amit.patel98@gmail.com,+91 9837771633,Other,1973-11-29,Kolkata,Rajasthan,232905,2025-08-15,Home Office,2026-02-23 06:08:54,Gold
+CUST00889,Reyansh,Deshmukh,reyansh.deshmukh92@gmail.com,+919502651705,F,1978-06-04,Hyderabad,Tamil Nadu,263449,2025-07-17,Home Office,2025-09-11 19:32:43,Silver
+CUST00890,Krishna,Malhotra,krishna.malhotra10@gmail.com,+91 9971868892,FEMALE,1997-06-21,Hyderabad,delhi,550920,2025-06-04,Corporate,2025-07-14 07:44:59,Bronze
+CUST00891,Saanvi,Choudhury,saanvi.choudhury25@gmail.com,+91 9231980695,Male,1964-10-12,delhi,maharashtra,391453,2025-04-09,Consumer,2026-03-04 17:31:51,Gold
+CUST00892,Reyansh,Verma,,+91 9770401470,Female,1975-09-07, Delhi,Rajasthan,389693,2026-03-06,Corporate,2026-06-06 00:33:41,Bronze
+CUST00893,Arjun,Sharma,arjun.sharma59@gmail.com,9761743478,M,2001-10-16,delhi,Tamil Nadu,368153,2025-11-12,Consumer,2026-02-14 15:43:04,Platinum
+CUST00894,Pari,Deshmukh,pari.deshmukh23@gmail.com,,Female,2000-10-23,Bangalore,Tamil Nadu,215243,2025-03-05,Corporate,2026-09-10 01:06:07,Bronze
+CUST00895,Pari,Bose,pari.bose58@gmail.com,,Female,2005-10-26,Kolkata,West Bengal,659387,2025-09-23,Corporate,2025-10-01 21:48:35,Gold
+CUST00896,Anika,Sen,anika.sen57@gmail.com,91830 61395,F,1987-06-29, Delhi,Delhi,534781,2025-08-01,Consumer,2026-03-15 17:01:06,Platinum
+CUST00897,Ankit,Shah,ankit.shah97@gmail.com,9362071276,FEMALE,1961-06-27,Bangalore,Rajasthan,509477,2025-01-16,Corporate,2025-12-21 19:06:27,Bronze
+CUST00898,Neha,Bose,neha.bose39@gmail.com,+91-9379021573,M,1999-11-04,Ahmedabad,Gujarat,315220,2025-01-29,Corporate,2025-11-08 08:40:04,Platinum
+CUST00899,Vivaan,Shah,vivaan.shah99@gmail.com,9368855421,Other,1990-10-31,mumbai,delhi,567068,2025-08-05,Consumer,2026-01-30 06:23:21,Silver
+CUST00900,Saanvi,Reddy,saanvi.reddy89@gmail.com,+919802894922,Female,1988-10-20,mumbai,Delhi,12345,2025-06-01,Home Office,2025-07-31 14:30:33,Silver
+CUST00901,Aditya,Malhotra,aditya.malhotra69@gmail.com,+919496136201,M,1972-09-17, Delhi,Maharashtra,290140,2025-07-31,Home Office,2025-08-16 14:56:54,Platinum
+CUST00902,Navya,Sen,navya.sen70@gmail.com,+919242046367,other,1999-01-19,delhi,Tamil Nadu,293653,2025-03-27,Home Office,2025-10-06 03:17:58,Gold
+CUST00903,Sai,Deshmukh,sai.deshmukh10@gmail.com,+91-9667894591,F,1987-06-26,Chennai,Tamil Nadu,654899,2025-10-02,Home Office,2026-05-15 04:15:48,Silver
+CUST00904,Priya,Singh,priya.singh74@gmail.com,9235548996,MALE,1985-01-03,delhi,maharashtra,542447,2025-10-25,Corporate,2026-02-18 11:22:26,Gold
+CUST00905,Aadhya,Sharma,,+919785534409,FEMALE,1969-07-07,Ahmedabad,delhi,259229,2025-01-13,Consumer,2025-12-20 17:20:49,Platinum
+CUST00906,Krishna,Choudhury,krishna.choudhury36@gmail.com,9546461873,MALE,2003-07-21, MUMBAI,delhi,477584,2025-12-28,Corporate,2026-09-08 00:19:22,Gold
+CUST00907,Sneha,Das,sneha.das80@gmail.com,9614814659,female,1981-02-12,Chennai, MAHARASHTRA,12345,2025-03-20,Consumer,2026-09-24 00:22:41,Bronze
+CUST00908,Riya,Mehta,riya.mehta57@gmail.com,,F,2001-09-16,Kolkata,Karnataka,408768,2025-10-13,Consumer,2026-08-20 23:21:37,Platinum
+CUST00909,Navya,Joshi,navya.joshi75@gmail.com,99367 75460,other,1970-06-08,Bangalore,Karnataka,571229,2026-05-09,Corporate,2026-06-06 07:56:10,Platinum
+CUST00910,Arjun,Patel,arjun.patel15@gmail.com,+919113008090,MALE,1973-03-06,Bangalore, MAHARASHTRA,705788,2025-07-18,Consumer,2025-07-18 14:52:13,Silver
+CUST00911,Aditya,Nair,aditya.nair18@gmail.com,+91-9277815864,male,1991-04-11,PUNE,Rajasthan,500193,2025-12-31,Corporate,2026-08-12 07:51:16,Gold
+CUST00912,Riya,Banerjee,riya.banerjee95@gmail.com,92670 72428,Other,2000-05-30, Delhi,Delhi,564950,2026-01-11,Corporate,2026-05-18 21:46:02,Bronze
+CUST00913,Navya,Reddy,navya.reddy85@gmail.com,9376641293,M,1974-11-25, Delhi,Tamil Nadu,213387,2026-02-26,Home Office,2026-07-17 02:51:08,Platinum
+CUST00914,Saanvi,Singh,saanvi.singh30@gmail.com,9811764494,female,1963-11-15,Bangalore,West Bengal,271529,2025-11-18,Corporate,2025-11-30 14:50:43,Gold
+CUST00915,Ananya,Kumar,ananya.kumar72@gmail.com,95255 71850,MALE,1975-12-31,delhi,Delhi,282905,2025-09-19,Consumer,2026-05-09 07:09:57,Platinum
+CUST00916,Ananya,Joshi,ananya.joshi11@gmail.com,+91-9560144135,male,2004-02-04,mumbai,Maharashtra,INVALID_PIN,2025-05-18,Consumer,2025-08-30 14:30:39,Platinum
+CUST00917,Ishaan,Kumar,ishaan.kumar95@gmail.com,+919143411204,Female,1962-08-25,Hyderabad,maharashtra,754207,2025-01-01,Consumer,2026-09-06 10:06:53,Silver
+CUST00918,Sai,Singh,sai.singh47@gmail.com,9664882147,other,1964-06-02,Kolkata,Rajasthan,275040,2026-05-15,Home Office,2026-08-23 18:36:24,Gold
+CUST00919,Vihaan,Choudhury,vihaan@gmail,+91-9846152610,FEMALE,1994-08-18,delhi,delhi,530578,2025-11-21,Consumer,2026-03-21 18:38:45,Platinum
+CUST00920,Amit,Rao,amit.rao14@gmail.com,9731019919,M,1990-07-19,mumbai, MAHARASHTRA,406197,2025-09-16,Home Office,2026-01-18 16:39:25,Bronze
+CUST00921,Meera,Shah,meera.shah92@gmail.com,98211 68700,other,1974-04-10,Kolkata,Maharashtra,519778,2025-05-29,Corporate,2025-07-20 00:58:01,Gold
+CUST00922,Vivaan,Verma,vivaan.verma73@gmail.com,+91 9526801240,FEMALE,1982-03-31,Jaipur,West Bengal,704091,2025-05-23,Consumer,2025-09-28 09:49:07,Platinum
+CUST00923,Krishna,Das,krishna.das15@gmail.com,93577 23139,other,1978-11-28, Delhi, MAHARASHTRA,119674,2026-05-06,Corporate,2026-09-21 15:55:22,Gold
+CUST00924,Ananya,Deshmukh ,ananya.deshmukh74@gmail.com,+91 9258705317,Other,1986-08-02,Chennai,Rajasthan,751964,2025-06-02,Corporate,2025-07-03 08:57:59,Silver
+CUST00925,Pari,Joshi,pari.joshi15@gmail.com,+91-9119235979,other,1964-04-09,Kolkata,West Bengal,748332,2026-03-21,Consumer,2026-09-16 10:51:13,Bronze
+CUST00926,Ananya,Joshi,ananya.joshi14@gmail.com,98177 23635,Female,1960-04-16,Chennai,Delhi,581073,2025-07-05,Corporate,2025-07-07 08:51:36,Platinum
+CUST00927,Saanvi,Verma,saanvi.verma79@gmail.com,91175 48599,Female,2005-02-19,Mumbai,Tamil Nadu,333782,2026-02-19,Home Office,2026-09-22 08:31:14,Bronze
+CUST00928,Ishaan,Malhotra,ishaan.malhotra52@gmail.com,+919804484734,Male,1965-06-03,PUNE,Delhi,131696,2025-03-19,Consumer,2025-10-05 19:08:16,Silver
+CUST00929,Sai,Reddy,sai.reddy36@gmail.com,9488082110,Female,1996-11-26,Jaipur,Gujarat,189929,2025-05-01,Consumer,2025-05-04 10:03:05,Gold
+CUST00930,Ayaan,Gupta,ayaan.gupta32@gmail.com,+91 9584570661,male,1996-05-18,Kolkata,Gujarat,810448,2026-04-23,Corporate,2026-09-22 17:17:36,Bronze
+CUST00931,Aditya,Kumar,aditya.kumar34@gmail.com,9368731717,other,1965-11-18, MUMBAI, MAHARASHTRA,278129,2026-02-10,Home Office,2026-09-06 05:11:04,Platinum
+CUST00932,Reyansh,Choudhury,reyansh.choudhury53@gmail.com,+91-9951117899,male,1987-05-22, Delhi, MAHARASHTRA,778456,2026-01-11,Home Office,2026-02-06 11:13:06,Silver
+CUST00933,Neha,Shah,neha.shah81@gmail.com,+91 9515834008,female,1962-11-09,Mumbai,Tamil Nadu,708674,2025-10-04,Consumer,2026-06-19 03:52:22,Silver
+CUST00934,Deepak,Kumar,deepak.kumar50@gmail.com,+919191509932,male,1998-03-15, MUMBAI,Rajasthan,628359,2026-03-06,Home Office,2026-07-17 07:09:30,Gold
+CUST00935,Vihaan,Deshmukh,vihaan.deshmukh41@gmail.com,+91-9982792489,Female,2027-06-15,Mumbai,delhi,253571,2025-07-20,Corporate,2025-11-16 11:31:34,Silver
+CUST00936,Krishna,Rao,krishna.rao56@gmail.com,+91 9431126013,F,2028-03-18,PUNE, MAHARASHTRA,254101,2026-02-12,Home Office,2026-03-23 15:04:06,Platinum
+CUST00937,Aadhya,Malhotra,aadhya.malhotra25@gmail.com,93279 66627,male,1978-10-25,delhi,Gujarat,193533,2026-03-03,Home Office,2026-06-26 19:04:55,Gold
+CUST00938,Deepak,Banerjee,deepak.banerjee15@gmail.com,9551155345,female,1963-07-17,mumbai,maharashtra,726882,2025-01-04,Consumer,2026-01-09 14:14:19,Silver
+CUST00939,Vivaan,Choudhury,vivaan.choudhury30@gmail.com,+919702573674,male,1972-08-06,Ahmedabad,Rajasthan,218920,2026-05-05,Consumer,2026-08-05 07:31:07,Bronze
+CUST00940,Reyansh,Iyer,reyansh.iyer75@gmail.com,9537990559,Other,1999-03-30,Jaipur,Delhi,359469,2025-02-16,Corporate,2025-07-30 00:13:58,Silver
+CUST00941,Ahana,Singh,ahana.singh61@gmail.com,95418 90948,Female,2001-12-11, MUMBAI,West Bengal,744657,2026-01-22,Consumer,2026-03-08 01:37:31,Gold
+CUST00942,Diya,Joshi,diya.joshi33@gmail.com,9722989426,MALE,1962-09-26, Delhi,Delhi,185707,2025-11-03,Consumer,2026-01-27 07:15:46,Platinum
+CUST00943,Krishna,Malhotra,krishna.malhotra99@gmail.com,,male,1990-06-04,mumbai, MAHARASHTRA,239231,2025-10-14,Corporate,2026-03-23 02:06:18,Silver
+CUST00944,Diya,Sen,diya.sen91@gmail.com,+91 9517912164,MALE,2005-01-25, Delhi,Tamil Nadu,397203,2025-12-06,Consumer,2026-03-14 16:31:17,Bronze
+CUST00945,Aarav,Das,aarav.das17@gmail.com,+91 9662943505,MALE,1979-07-18,mumbai,delhi,556854,2025-01-11,Corporate,2026-09-13 23:04:02,Platinum
+CUST00946,Rohit,Sen,rohit.sen38@gmail.com,+91 9839197050,FEMALE,1978-05-07,mumbai,Tamil Nadu,249971,2025-01-14,Consumer,2026-05-30 11:23:58,Silver
+CUST00947,Anika,Singh,anika.singh28@gmail.com,+91 9874428419,Other,1966-09-22,delhi,Gujarat,533326,2025-01-16,Consumer,2026-04-02 06:57:45,Gold
+CUST00948,Ankit,Malhotra,ankit.malhotra95@gmail.com,97588 41666,Other,2002-09-14,Kolkata,Gujarat,INVALID_PIN,2025-01-16,Corporate,2026-09-05 02:33:43,Platinum
+CUST00949,Priya,Banerjee,priya.banerjee33@gmail.com,+91-9428927979,Female,1978-07-04,Hyderabad,Delhi,812375,2026-04-13,Home Office,2026-07-31 18:39:14,Platinum
+CUST00950,Aadhya,Malhotra,aadhya.malhotra51@gmail.com,+91 9460936142,FEMALE,1996-03-27,PUNE,Tamil Nadu,699757,2025-01-13,Home Office,2025-03-14 00:02:47,Silver
+CUST00951,Vihaan,Joshi,vihaan.joshi36@gmail.com,9674431163,male,1997-04-30,Kolkata, MAHARASHTRA,334955,2025-06-19,Corporate,2025-09-02 22:06:52,Platinum
+CUST00952, Vivaan,Mehta,vivaan.mehta45@gmail.com,+919583008672,male,1976-02-09,Hyderabad,maharashtra,372477,2026-04-10,Home Office,2026-09-02 16:06:59,Bronze
+CUST00953,Rahul,Shah,rahul.shah94@gmail.com,9882397650,FEMALE,1974-09-21,Bangalore,Karnataka,638169,2026-03-29,Consumer,2026-07-19 12:29:41,Platinum
+CUST00954,Krishna,Sharma,krishna.sharma67@gmail.com,9276409721,male,1998-11-26,Mumbai,delhi,274579,2025-07-01,Home Office,2025-08-06 00:50:08,Bronze
+CUST00955,Neha,Nair,neha.nair68@gmail.com,+919582611535,other,1968-01-08,Jaipur,Delhi,424147,2025-12-02,Consumer,2026-08-26 13:36:27,Bronze
+CUST00956,Aditya,Nair ,aditya.nair78@gmail.com,9551354522,male,1974-05-30, MUMBAI, MAHARASHTRA,565731,2025-06-28,Home Office,2025-11-04 03:39:12,Bronze
+CUST00957,Krishna,Sen,krishna.sen85@gmail.com,+91 9728805189,FEMALE,2000-06-09,Chennai,Rajasthan,580873,2025-11-27,Consumer,2026-07-22 06:54:36,Gold
+CUST00958,Vikram,Bose,vikram.bose12@gmail.com,+91-9417327448,Other,1966-03-12,Hyderabad,maharashtra,242938,2025-02-11,Consumer,2026-09-07 05:30:05,Bronze
+CUST00959,Priya,Banerjee,priya.banerjee93@gmail.com,+919892005141,Male,1996-09-05, Delhi, MAHARASHTRA,163224,2026-01-30,Home Office,2026-08-30 00:56:13,Silver
+CUST00960,Ankit,Gupta,ankit.gupta78@gmail.com,+91 9380397148,Other,1972-02-18,Mumbai,West Bengal,325274,2025-04-19,Consumer,2026-08-26 16:58:35,Bronze
+CUST00961,Aditya,Sen,aditya.sen91@gmail.com,+91 9892143483,FEMALE,1978-10-20,PUNE,Maharashtra,122090,2025-01-22,Home Office,2026-07-12 20:19:04,Silver
+CUST00962,Aarav,Sharma,aarav.sharma91@gmail.com,+919188726082,FEMALE,1966-09-08,Kolkata,Gujarat,170029,2026-05-05,Home Office,2026-08-31 10:43:27,Gold
+CUST00963,Aarav,Iyer,aarav.iyer74@gmail.com,+91 9908022221,Female,1997-02-20,mumbai,Rajasthan,676246,2026-01-06,Corporate,2026-07-16 01:32:28,Silver
+CUST00964,Navya,Gupta,navya.gupta89@gmail.com,+91-9437276949,FEMALE,1989-07-31,Kolkata,Maharashtra,161227,2025-01-03,Home Office,2025-07-25 02:49:27,Silver
+CUST00965,Ankit,Shah,ankit.shah76@gmail.com,+91-9261016831,F,1976-01-17,Bangalore, MAHARASHTRA,646539,2025-06-26,Corporate,2026-04-10 00:32:56,Platinum
+CUST00966,Amit,Verma,amit.verma58@gmail.com,9693288872,FEMALE,1974-02-23, Delhi,West Bengal,754045,2026-03-10,Corporate,2026-07-26 12:19:22,Bronze
+CUST00967,Pooja,Sharma,pooja.sharma77@gmail.com,9169271942,Female,1968-04-30,Bangalore,delhi,240301,2026-03-08,Home Office,2026-03-10 15:04:49,Silver
+CUST00968,Krishna,Mehta,krishna.mehta70@gmail.com,93673 78177,MALE,1972-10-08,Chennai,maharashtra,363994,2025-05-01,Home Office,2025-06-21 04:23:42,Silver
+CUST00969,Arjun,Singh,arjun.singh83@gmail.com,+91 9816163211,F,1961-05-29, Delhi,West Bengal,246851,2025-10-14,Home Office,2026-07-22 16:25:07,Platinum
+CUST00970,Sneha,Sen,sneha.sen42@gmail.com,+91-9143785962,Female,2002-12-25,Bangalore, MAHARASHTRA,501817,2025-08-14,Consumer,2026-01-06 15:40:14,Platinum
+CUST00971,Diya,Shah,diya.shah33@gmail.com,9883022242,male,1980-12-09,Bangalore,delhi,647899,2026-03-24,Home Office,2026-06-30 06:28:47,Bronze
+CUST00972,Deepak,Sharma,deepak.sharma81@gmail.com,+919657000250,Female,1969-02-18,Kolkata,Rajasthan,174519,2025-09-22,Consumer,2026-01-12 12:54:00,Gold
+CUST00973,Amit,Verma,amit.verma37@gmail.com,+91 9921462344,MALE,1977-07-15,Hyderabad,Karnataka,238116,2025-11-03,Home Office,2026-01-28 18:10:27,Silver
+CUST00974,Pooja,Iyer,pooja.iyer68@gmail.com,9874438142,Other,1973-07-07, Delhi,Rajasthan,821756,2025-06-03,Corporate,2025-11-19 03:55:05,Silver
+CUST00975,Arjun,Singh,arjun@.com,9876702762,male,2001-08-21,Chennai,Tamil Nadu,453347,2025-10-30,Consumer,2026-04-27 17:18:51,Bronze
+CUST00976,Navya,Das,navya.das11@gmail.com,,M,1961-10-22,Mumbai,Rajasthan,545183,2025-03-29,Home Office,2025-07-06 08:27:48,Gold
+CUST00977,Vikram,Deshmukh ,vikram.deshmukh52@gmail.com,+91-9854667201,Female,2000-07-24, MUMBAI,West Bengal,761227,2025-06-15,Corporate,2026-03-28 17:55:58,Gold
+CUST00978,Ahana,Kumar,ahana.kumar19@gmail.com,96647 46769,Female,1979-11-20, Delhi,Delhi,610535,2025-09-24,Consumer,2026-05-10 04:09:53,Bronze
+CUST00979,Arjun,Das,arjun.das37@gmail.com,+919643155086,male,1978-09-18,PUNE,Karnataka,206705,2025-07-18,Consumer,2026-03-03 11:53:09,Platinum
+CUST00980,Arjun,Sen,arjun@gmail,+91 9935390937,MALE,1986-11-30,Bangalore,West Bengal,158611,2026-02-08,Home Office,2026-03-17 15:50:00,Gold
+CUST00981,Vihaan,Iyer,vihaan.iyer34@gmail.com,91594 71828,MALE,1987-01-27,Hyderabad,maharashtra,138595,2025-10-28,Consumer,2026-07-21 00:39:50,Bronze
+CUST00982,Pari,Gupta,pari.gupta32@gmail.com,+91 9372759324,female,1989-03-31,Chennai,Gujarat,709829,2025-03-26,Corporate,2026-07-26 00:13:33,Silver
+CUST00983,Sneha,Choudhury,sneha.choudhury89@gmail.com,+91 9663169142,Female,1962-09-29, MUMBAI,Delhi,691468,2025-01-04,Home Office,2025-12-18 09:08:32,Gold
+CUST00984,Rohit,Patel,rohit.patel80@gmail.com,+919667588478,F,1975-11-27,Ahmedabad,Karnataka,240168,2025-02-11,Consumer,2026-07-14 13:42:56,Gold
+CUST00985,Aadhya,Bose ,aadhya.bose74@gmail.com,97060 86216,male,1979-06-12,Hyderabad, MAHARASHTRA,585119,2025-07-18,Home Office,2025-11-23 21:07:12,Gold
+CUST00986,Diya,Deshmukh,diya.deshmukh89@gmail.com,+91 9503585185,Other,2000-11-06,Jaipur,Tamil Nadu,657580,2025-08-18,Consumer,2026-05-29 23:30:14,Platinum
+CUST00987,Meera,Singh,meera.singh82@gmail.com,91228 42097,Female,1973-03-26,mumbai,Delhi,343862,2025-08-17,Consumer,2026-07-17 14:02:48,Silver
+CUST00988,Diya,Joshi,diya.joshi99@gmail.com,,Other,1987-01-31,Ahmedabad,maharashtra,547995,2025-01-24,Home Office,2026-01-03 00:13:06,Gold
+CUST00989,Sai,Patel,sai.patel76@gmail.com,94498 01553,female,1995-05-26,mumbai,Gujarat,408532,2025-01-03,Corporate,2025-11-15 21:06:08,Bronze
+CUST00990,Ankit,Malhotra,ankit.malhotra65@gmail.com,+919689755049,F,1984-05-30,Chennai, MAHARASHTRA,388962,2025-03-14,Home Office,2026-01-05 16:00:06,Bronze
+CUST00991,Meera,Singh,meera.singh37@gmail.com,,FEMALE,1966-09-08,Ahmedabad, MAHARASHTRA,664178,2025-09-01,Home Office,2026-01-10 11:23:06,Platinum
+CUST00992,Deepak,Malhotra,deepak.malhotra79@gmail.com,+91 9730942731,Other,1962-10-05,Mumbai, MAHARASHTRA,344603,2025-01-01,Consumer,2026-06-04 09:22:08,Gold
+CUST00993,Sneha,Sen,sneha.sen18@gmail.com,+91-9225395804,Other,1965-07-11,Ahmedabad,Delhi,461107,2025-01-20,Consumer,2025-03-13 05:33:23,Bronze
+CUST00994,Diya,Sen,diya.sen90@gmail.com,+91 9892131934,Male,1972-01-22,Ahmedabad,Gujarat,720757,2025-12-11,Home Office,2026-05-20 00:01:13,Silver
+CUST00995,Rahul,Iyer,rahul.iyer44@gmail.com,,FEMALE,2000-10-01,delhi,West Bengal,580837,2025-04-19,Home Office,2026-02-26 17:18:59,Gold
+CUST00996,Rohit,Das,rohit.das81@gmail.com,+91-9900864316,FEMALE,1963-03-31,mumbai,Rajasthan,741032,2025-02-21,Corporate,2025-03-11 12:56:40,Gold
+CUST00997,Diya,Sen,diya.sen35@gmail.com,9349229549,M,1981-05-19,PUNE, MAHARASHTRA,530807,2025-03-26,Corporate,2026-05-23 12:14:04,Bronze
+CUST00998,Deepak,Gupta,deepak.gupta31@gmail.com,91843 90294,M,, MUMBAI,Delhi,359533,2026-02-03,Home Office,2026-06-07 02:12:05,Platinum
+CUST00999,Arjun,Bose,arjun.bose25@gmail.com,9580488037,Other,1978-01-02,Hyderabad,Maharashtra,286889,2026-03-26,Corporate,2026-04-04 20:25:57,Platinum
+CUST01000,Arjun,Singh,arjun.singh65@gmail.com,+919156801073,FEMALE,1977-01-07, MUMBAI,West Bengal,223543,2025-04-21,Corporate,2026-05-14 05:09:02,Bronze
+CUST00684,Navya,Joshi,navya.joshi59@gmail.com,+919291572514,Male,1974-05-03,Bangalore,Gujarat,755375,2025-09-02,Consumer,2026-01-16 15:43:42,Platinum
+CUST00526,Ahana,Joshi,,+91-9791916428,F,1965-06-20, Chennai ,Delhi,283879,2025-11-28,Corporate,2026-08-24 17:50:49,Platinum
+CUST00175,Vihaan,Shah,vihaan.shah11@gmail.com,+919439809925,F,1998-09-05, Bangalore ,Karnataka,291163,2026-01-01,Consumer,2026-01-08 20:54:19,Bronze
+CUST00938,Deepak,Banerjee,deepak.banerjee15@gmail.com,9551155345,female,1963-07-17, mumbai ,maharashtra,726882,2025-01-04,Consumer,2026-01-10 17:14:19,Silver
+CUST00192,Priya,Kumar,priya.kumar82@gmail.com,+91 9517021222,M,2029-07-16, Delhi ,Maharashtra,404580,2025-02-15,Corporate,2026-04-04 04:33:09,Gold
+CUST00077,Vivaan,Gupta,vivaan.gupta66@gmail.com,93314 65414,male,1967-07-19,delhi,Rajasthan,809540,2025-08-28,Consumer,2026-02-17 04:06:56,Bronze
+CUST00015,Arjun,Patel,arjun.patel79@gmail.com,9436730606,Male,1994-03-21,Chennai, MAHARASHTRA,642497,2025-03-04,Consumer,2025-04-28 06:42:57,Bronze
+CUST00854,Sai,Shah,sai.shah20@gmail.com,9906219798,FEMALE,1964-03-24,Chennai,West Bengal,525226,2025-05-01,Home Office,2025-07-10 12:01:19,Platinum
+CUST00166,Sneha,Sen,sneha.sen62@gmail.com,+919397773877,M,1981-12-01, Delhi,West Bengal,715475,2026-05-07,Corporate,2026-09-06 17:38:49,Platinum
+CUST00655,Krishna,Malhotra,krishna.malhotra57@gmail.com,+919131631847,female,1990-08-03, Bangalore , MAHARASHTRA,711652,2026-03-09,Consumer,2026-05-25 16:32:34,Silver
+CUST00095,Pooja,Sen,pooja.sen91@gmail.com,+91 9500830389,Male,1964-08-06,PUNE,Delhi,768776,2025-03-22,Home Office,2025-12-06 03:01:50,Bronze
+CUST00900,Saanvi,Reddy,saanvi.reddy89@gmail.com,+919802894922,Female,1988-10-20,mumbai,Delhi,12345,2025-06-01,Home Office,2025-08-01 02:30:33,Gold
+CUST00504,Vikram,Deshmukh,vikram.deshmukh59@gmail.com,+91 9350224182,Other,1963-11-29, PUNE ,Gujarat,12345,2025-09-11,Corporate,2026-02-11 13:50:17,Bronze
+CUST00916,Ananya,Joshi,ananya.joshi11@gmail.com,+91-9560144135,male,2004-02-04, mumbai ,Maharashtra,INVALID_PIN,2025-05-18,Consumer,2025-08-31 12:30:39,Platinum
+CUST00841,Pari,Sharma,pari.sharma56@gmail.com,9750158037,other,1981-09-17,Kolkata,Karnataka,613788,2025-10-15,Corporate,2026-02-10 13:04:18,Gold
